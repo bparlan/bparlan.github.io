@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2379
 permalink: /bulut-depolama-ve-dropbox/
 dsq_thread_id:
   - "5515977413"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/12/Bulut.jpg
@@ -19,9 +19,7 @@ categories:
 tags:
   - bulut
   - depolama
-  - dropbox
   - düzen
-  - organizasyon
 format: image
 ---
 

@@ -7,7 +7,7 @@ excerpt: 'Eğer yalnızlığın özeti diye bildiğiniz şey bir başınıza iç
 layout: article
 guid: http://www.bparlan.com/wordpress/?p=170
 permalink: /nokta-cumlede-dort-eylem-ii/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -18,7 +18,6 @@ tags:
   - deneme
   - edebiyat
   - hayat
-  - nokta
 format: image
 ---
 

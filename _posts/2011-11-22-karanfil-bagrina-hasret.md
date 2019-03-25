@@ -6,18 +6,16 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=839
 permalink: /karanfil-bagrina-hasret/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/BParlanThumbs.jpg
 categories:
   - Tapınak
 tags:
-  - bizuh
-  - hasret
-  - karanfil
-  - umay
-  - zemsiz
+  - edebiyat
+  - tapinak
+  - şiir
 format: image
 ---
 

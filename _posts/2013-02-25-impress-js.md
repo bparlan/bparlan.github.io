@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/?p=1816
 permalink: /impress-js/
 dsq_thread_id:
   - "5488568538"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2013/02/impress-e1424525691631.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - imress
-  - js
   - rehber
   - sunum
-  - tanitim
+  - tanıtım
 format: image
 ---
 

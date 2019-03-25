@@ -8,19 +8,17 @@ guid: http://www.bparlan.com/?p=1304
 permalink: /windows-7-x64x86-opensave-problemi/
 dsq_thread_id:
   - "5712914266"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Technolog.jpg
 categories:
   - Windows | PC
 tags:
-  - aç kaydet
+  - bilişim
   - çözüm
-  - open save
   - problem
-  - takılıyor
-  - windows 7
+  - windows
 format: image
 ---
 

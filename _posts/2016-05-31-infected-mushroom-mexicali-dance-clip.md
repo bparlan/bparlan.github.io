@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2967
 permalink: /infected-mushroom-mexicali-dance-clip/
 dsq_thread_id:
   - "5526627320"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/05/DSC_8995-0-01-54-22_1.jpg
@@ -16,9 +16,7 @@ categories:
   - 'Video &amp; Animasyon'
 tags:
   - dans
-  - infected mushroom
-  - klip
-  - mexicali
+  - film
   - video
 format: video
 ---

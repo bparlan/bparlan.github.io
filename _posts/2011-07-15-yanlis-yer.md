@@ -8,12 +8,15 @@ guid: http://www.bparlan.com/?p=692
 permalink: /yanlis-yer/
 dsq_thread_id:
   - "5837702723"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/07/yanlis-yer.jpg
 categories:
   - Yazılarım
+tags:
+  - edebiyat
+  - deneme
 ---
 
 <p style="text-align: justify;">

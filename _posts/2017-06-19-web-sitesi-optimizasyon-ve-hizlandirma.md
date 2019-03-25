@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5924465869"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/06/website-optimizasyon.jpg
@@ -18,10 +18,8 @@ categories:
   - Bilişim
   - Rehber
 tags:
-  - hızlandırma
   - optimizasyon
   - rapor
-  - test
   - website
 format: image
 ---

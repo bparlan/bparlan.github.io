@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2631
 permalink: /kritik-dusunce-google-kahin/
 dsq_thread_id:
   - "5515364914"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/11/Google-Kahin.jpg
@@ -16,10 +16,7 @@ categories:
   - 'İnceleme &amp; Tanıtım'
   - 'Toplum &amp; Yaşam'
 tags:
-  - düşünce
-  - eleştirel
   - google
-  - kahin
   - kritik
 format: image
 ---

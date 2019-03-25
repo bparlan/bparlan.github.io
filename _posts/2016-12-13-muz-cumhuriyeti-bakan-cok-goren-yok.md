@@ -8,19 +8,15 @@ guid: http://www.bparlan.com/?p=3205
 permalink: /muz-cumhuriyeti-bakan-cok-goren-yok/
 dsq_thread_id:
   - "5494328612"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/12/muz-cumhuriyeti.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - bakan
   - devlet
-  - halk
-  - kabine
-  - muz cumhuriyeti
-  - yasa
+  - kıbrıs
 format: image
 ---
 

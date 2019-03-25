@@ -6,19 +6,15 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=906
 permalink: /huawei-ideos-x5-inceleme/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/huawei.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - huawei
-  - ideos
   - inceleme
   - telefon
-  - u8800
-  - x5
 format: image
 ---
 

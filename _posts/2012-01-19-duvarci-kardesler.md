@@ -8,16 +8,13 @@ guid: http://www.bparlan.com/?p=1198
 permalink: /duvarci-kardesler/
 dsq_thread_id:
   - "5810297227"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/01-ana.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - demir
-  - duvarcı
-  - kardeşler
   - tasarım
   - web sitesi
 format: image

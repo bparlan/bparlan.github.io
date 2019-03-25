@@ -8,6 +8,9 @@ guid: http://www.bparlan.com/?p=830
 permalink: /duvarlarin-kokusu/
 categories:
   - Tapınak
+tags:
+  - edebiyat
+  - tapinak
 ---
 
 Akşamüstü duvarların kokusu artardı evde  

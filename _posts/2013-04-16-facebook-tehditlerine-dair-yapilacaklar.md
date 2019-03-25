@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1836
 permalink: /facebook-tehditlerine-dair-yapilacaklar/
 dsq_thread_id:
   - "5515982783"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2013/04/o-OHIO-DEPARTMENT-OF-NATURAL-RESOURCES-PORN-facebook-e1424504401955.jpg
@@ -18,10 +18,8 @@ categories:
 tags:
   - facebook
   - hukuk
-  - kktc
+  - kıbrıs
   - polis
-  - tehdit
-  - yardım
 format: image
 ---
 

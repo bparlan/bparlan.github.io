@@ -1,19 +1,10 @@
 ---
-id: 3666
 title: Dost olalım mı?
-date: 2017-08-28T09:37:24+02:00
-author: Barış Parlan
-layout: page
-guid: http://www.bparlan.com/?page_id=3666
-wp_featherlight_disable:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
-image: /wp-content/uploads/2016/01/Meditation.jpg
+layout: article
+article_header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/01/Meditation.jpg
 ---
 <div class="ttr_start">
 </div>

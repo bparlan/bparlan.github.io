@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5521320131"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/11/anarsizm_7193_14-41-27.jpg
@@ -18,11 +18,9 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - eğitim
-  - gardiyan
   - öğretmen
   - okul
   - sistem
-  - zindan
 format: image
 ---
 

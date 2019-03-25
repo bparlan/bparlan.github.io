@@ -10,6 +10,9 @@ dsq_thread_id:
   - "6185672686"
 categories:
   - Tapınak
+tags:
+  - edebiyat
+  - tapinak
 ---
 
 Bir meyve, bir çekirdek&#8230;

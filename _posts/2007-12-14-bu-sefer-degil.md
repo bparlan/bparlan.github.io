@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/wordpress/?p=150
 permalink: /bu-sefer-degil/
 dsq_thread_id:
   - "5723700721"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - bu sefer değil
   - deneme
   - dost
   - edebiyat
-  - eskici
 ---
 
 Hayır dostum&#8230;  

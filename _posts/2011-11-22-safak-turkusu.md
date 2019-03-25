@@ -10,6 +10,10 @@ dsq_thread_id:
   - "5613077764"
 categories:
   - Tapınak
+tags:
+  - edebiyat
+  - tapinak
+  - şiir
 ---
 
 1  

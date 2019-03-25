@@ -8,6 +8,9 @@ guid: http://www.bparlan.com/?p=842
 permalink: /kenan-evrene-acik-mektup/
 categories:
   - Tapınak
+tags:
+  - edebiyat
+  - tapinak
 ---
 
 Sayın Kenan Bey,

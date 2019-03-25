@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6126492322"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/09/hurricane__blender_3d__by_tomwalks-d5gur1a.jpg
@@ -24,12 +24,10 @@ categories:
   - Blog
   - 'Toplum &amp; Yaşam'
 tags:
-  - afet
   - doğa
   - felaket
-  - kasırga
-  - rasyonalizasyon
   - tükeniş
+  - insan
 format: image
 ---
 

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3174
 permalink: /4600-intihar-bombasi-saldirisi/
 dsq_thread_id:
   - "5586474423"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/11/4600-intihar-bombasi-saldirisi.jpg
@@ -17,9 +17,7 @@ categories:
 tags:
   - asker
   - ideoloji
-  - intihar
   - militarizm
-  - terör
 format: image
 ---
 

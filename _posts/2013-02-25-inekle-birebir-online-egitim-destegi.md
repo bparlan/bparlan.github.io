@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/?p=1830
 permalink: /inekle-birebir-online-egitim-destegi/
 dsq_thread_id:
   - "6005950075"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2013/02/inekle1-590x442.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - ders
   - eğitim
-  - inekle
-  - online
-  - tanitim
+  - dijital
+  - tanıtım
 format: image
 ---
 

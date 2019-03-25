@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=59
 permalink: /otuzlu-yaslar/
 dsq_thread_id:
   - "5522647684"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2007/07/O__tuz__lu_Yas__lar____by_siyah-e1424077739375.jpg
@@ -16,11 +16,7 @@ categories:
   - Yazılarım
 tags:
   - edebiyat
-  - o
-  - otuzlu
   - şiir
-  - tuzlu
-  - yaşlar
 format: image
 ---
 

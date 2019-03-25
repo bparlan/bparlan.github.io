@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=857
 permalink: /seyahatname-mercan-dede/
 dsq_thread_id:
   - "5494938643"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/mercan-dede-seyahatname.jpg
@@ -18,8 +18,7 @@ tags:
   - edebiyat
   - hayat
   - insan
-  - mercan dede
-  - seyahatname
+  - tapınak
 format: image
 ---
 

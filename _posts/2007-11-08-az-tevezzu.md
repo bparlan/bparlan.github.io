@@ -6,7 +6,7 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=142
 permalink: /az-tevezzu/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -14,10 +14,8 @@ categories:
   - Yazılarım
 tags:
   - ağlamak
-  - anne
-  - az
   - edebiyat
-  - tevezzü
+  - anne
 ---
 
 <p align="center">

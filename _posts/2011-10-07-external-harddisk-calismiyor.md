@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=722
 permalink: /external-harddisk-calismiyor/
 dsq_thread_id:
   - "5752733659"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Technolog.jpg
@@ -16,11 +16,8 @@ categories:
   - Genel | Yazılım
   - Windows | PC
 tags:
-  - arızalı
-  - bozuk
   - çözüm
-  - external
-  - harddisk
+  - bilişim
 format: image
 ---
 

@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/?p=1278
 permalink: /profix-web-sitesi-tasarimi/
 dsq_thread_id:
   - "6006893119"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Profix-Web-Site-3.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - Profix
-  - sanayi
-  - tanitim
   - tasarım
-  - web site
+  - web sitesi
 format: image
 ---
 

@@ -7,7 +7,7 @@ excerpt: "Bünyesinde benim de çalışmamın bulunduğu #Self as Actor: Colonis
 layout: article
 guid: http://www.bparlan.com/?p=4057
 permalink: /neme-self-as-actor-colonising-identity-sanat-sergisi/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2019/02/50840548_774352266297084_4772095049703882752_o.jpg

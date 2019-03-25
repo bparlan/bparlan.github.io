@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2878
 permalink: /patavatsiz-kisiye-dair/
 dsq_thread_id:
   - "5502445383"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/03/patavatsiz-1.jpg
@@ -16,11 +16,9 @@ categories:
   - Blog
   - 'Toplum &amp; Yaşam'
 tags:
-  - bencil
   - empati
   - farkındalık
   - insan
-  - patavatsız
 format: image
 ---
 

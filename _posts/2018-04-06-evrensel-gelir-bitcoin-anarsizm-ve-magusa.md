@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3853
 permalink: /evrensel-gelir-bitcoin-anarsizm-ve-magusa/
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2018/04/Blog-Cover.jpg
@@ -16,11 +16,8 @@ categories:
   - Blog
 tags:
   - anarchism
-  - bitcoin
-  - blog
-  - cümbez
-  - ulaş gökçe
-  - universal basic income
+  - blockchain
+  - ubi
 format: image
 ---
 

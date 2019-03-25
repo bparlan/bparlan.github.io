@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1465
 permalink: /ninite-com-format-sonrasi-yardimci/
 dsq_thread_id:
   - "5485306692"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/ninite-apps.jpg
@@ -17,11 +17,9 @@ categories:
   - Windows | PC
 tags:
   - format
-  - ninite
   - program
   - rehber
-  - tanitim
-  - yardımcı
+  - tanıtım
 format: image
 ---
 

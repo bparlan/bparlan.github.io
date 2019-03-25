@@ -8,17 +8,15 @@ guid: http://www.bparlan.com/?p=2608
 permalink: /aklin-kusuru-bedenin-kiyafeti/
 dsq_thread_id:
   - "5518078285"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/11/AkilBedenKiyafet.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - beden
-  - cinsiyet
-  - eleştirel
-  - kıyafet
+  - toplum
+  - kritik
   - sistem
 format: image
 ---

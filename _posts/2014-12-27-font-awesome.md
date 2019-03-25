@@ -8,17 +8,15 @@ guid: http://www.bparlan.com/?p=1973
 permalink: /font-awesome/
 dsq_thread_id:
   - "5481678377"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/12/how-to-switch-fontawesome-icon-mouseover-e1424505337869.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - awesome
   - font
-  - ikon
-  - sembol
+  - tasarım
   - wordpress
 format: image
 ---

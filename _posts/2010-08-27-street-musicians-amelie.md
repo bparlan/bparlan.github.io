@@ -6,12 +6,15 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=940
 permalink: /street-musicians-amelie/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2010/08/DSC_0340.jpg
 categories:
   - 'Video &amp; Animasyon'
+tags:
+  - video
+  - animasyon
 ---
 
 

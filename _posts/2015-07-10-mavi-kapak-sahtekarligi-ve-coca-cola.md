@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2538
 permalink: /mavi-kapak-sahtekarligi-ve-coca-cola/
 dsq_thread_id:
   - "5512167938"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/07/mavikapak-cocacola.jpg
@@ -19,7 +19,6 @@ tags:
   - dayanışma
   - gerçek
   - hukuk
-  - kola
   - sistem
 format: image
 ---

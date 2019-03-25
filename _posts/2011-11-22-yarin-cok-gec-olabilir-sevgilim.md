@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=863
 permalink: /yarin-cok-gec-olabilir-sevgilim/
 dsq_thread_id:
   - "5494940213"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/BParlanThumbs2.jpg
@@ -16,10 +16,8 @@ categories:
   - Tapınak
 tags:
   - edebiyat
-  - sevgilim
   - şiir
-  - uğur özakıncı
-  - yarın çok geç olabilir
+  - tapinak
 format: image
 ---
 

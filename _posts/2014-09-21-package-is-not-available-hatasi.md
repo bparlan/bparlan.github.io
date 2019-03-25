@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1910
 permalink: /package-is-not-available-hatasi/
 dsq_thread_id:
   - "5496335751"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/unix.jpg
@@ -17,8 +17,8 @@ categories:
 tags:
   - çözüm
   - linux
-  - package is not available
   - problem
+  - kali
 format: image
 ---
 

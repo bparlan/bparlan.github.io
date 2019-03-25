@@ -8,20 +8,16 @@ guid: http://www.bparlan.com/wordpress/?p=200
 permalink: /dolunay-bakisli-gece-kizina/
 dsq_thread_id:
   - "5491037922"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - aşk
   - deneme
-  - doğa
-  - dolunay
   - edebiyat
   - gece
-  - kız
 ---
 
 <p style="text-align: justify;">

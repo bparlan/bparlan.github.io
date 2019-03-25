@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3141
 permalink: /tik-tuzagi-clickbait-ve-paylasim/
 dsq_thread_id:
   - "5490521964"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/11/Tık-Tuzagi.png
@@ -21,7 +21,6 @@ tags:
   - insan
   - internet
   - politik ekonomi
-  - tık tuzağı
 ---
 
 <div id="js_zue" class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">

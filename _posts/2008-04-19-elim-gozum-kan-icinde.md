@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/wordpress/?p=161
 permalink: /elim-gozum-kan-icinde/
 dsq_thread_id:
   - "5990762094"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -17,9 +17,6 @@ categories:
 tags:
   - deneme
   - edebiyat
-  - elim
-  - gözüm
-  - kan
 ---
 
 <p style="text-align: justify;">

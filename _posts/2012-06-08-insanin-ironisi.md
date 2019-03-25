@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1781
 permalink: /insanin-ironisi/
 dsq_thread_id:
   - "5723696533"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/07/2012-06-22-John-Lennon.jpg
@@ -16,12 +16,10 @@ categories:
   - Blog
   - Yazılarım
 tags:
-  - beslenme
   - deneme
   - düşünce
   - edebiyat
   - insan
-  - iron
 format: image
 ---
 

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2721
 permalink: /ideas-about-game-studies/
 dsq_thread_id:
   - "5560545495"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/01/GameStudies.jpg
@@ -20,7 +20,6 @@ tags:
   - communication
   - economy
   - game
-  - industry
   - ludology
 format: image
 ---

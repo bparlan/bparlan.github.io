@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2904
 permalink: /lutfen-rahatsiz-etmeyin/
 dsq_thread_id:
   - "5588326405"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/05/rahatsiz-etmeyin.jpg
@@ -17,7 +17,6 @@ categories:
 tags:
   - araç
   - gürültü
-  - rahatsız
   - toplum
 ---
 

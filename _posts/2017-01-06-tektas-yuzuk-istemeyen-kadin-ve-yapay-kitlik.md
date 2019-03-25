@@ -8,17 +8,14 @@ guid: http://www.bparlan.com/?p=3164
 permalink: /tektas-yuzuk-istemeyen-kadin-ve-yapay-kitlik/
 dsq_thread_id:
   - "5499445747"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/01/tektas.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - holodomor
   - kapitalizm
-  - reklam
-  - tektaş
   - yapay kıtlık
 format: image
 ---

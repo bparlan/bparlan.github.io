@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1739
 permalink: /nexus-font-yazi-tipi-yonetimi/
 dsq_thread_id:
   - "5488559659"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/05/wordle2.jpg
@@ -16,11 +16,8 @@ categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
   - font
-  - nexus
-  - tanitim
-  - ücretsiz
-  - yazı
-  - yönetim
+  - tanıtım
+  - program
 format: image
 ---
 

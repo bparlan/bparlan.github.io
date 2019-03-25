@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2831
 permalink: /kali-linux-2-0-sources-list-guncelleme/
 dsq_thread_id:
   - "5479542585"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/unix.jpg
@@ -16,11 +16,8 @@ categories:
   - Bilişim
   - Unix | Linux
 tags:
-  - error
   - kali
   - linux
-  - package
-  - sources.list
 format: image
 ---
 

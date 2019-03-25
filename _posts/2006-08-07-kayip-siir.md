@@ -6,7 +6,7 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/blog/2006/08/07/kayip-siir/
 permalink: /kayip-siir/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -14,10 +14,7 @@ categories:
   - Yazılarım
 tags:
   - edebiyat
-  - kayıp
-  - rüzgar
   - şiir
-  - siyah
 ---
 
 <p style="text-align: center;" align="center">

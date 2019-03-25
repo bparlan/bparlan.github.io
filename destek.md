@@ -1,21 +1,12 @@
 ---
-id: 3671
 title: Dijital Dünyada Teşekkür
-date: 2017-08-28T10:37:03+02:00
-author: Barış Parlan
-layout: page
-guid: http://www.bparlan.com/?page_id=3671
-wp_featherlight_disable:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - ""
-ampforwp-amp-on-off:
-  - default
+layout: article
 dsq_thread_id:
   - "6169093214"
-image: /wp-content/uploads/2016/01/Meditation.jpg
+article_header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/01/Meditation.jpg
 ---
 <div class="ttr_start">
 </div>

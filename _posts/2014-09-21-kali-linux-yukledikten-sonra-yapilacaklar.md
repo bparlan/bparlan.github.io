@@ -12,7 +12,7 @@ dsq_thread_id:
   - "5479395123"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/unix.jpg
@@ -20,9 +20,7 @@ categories:
   - Rehber
   - Unix | Linux
 tags:
-  - hacking
   - kali
-  - kurulum
   - linux
   - rehber
 format: image

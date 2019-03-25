@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1835
 permalink: /manga-okuma-programi/
 dsq_thread_id:
   - "5481443930"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/05/Manga-Okuma-Programı.jpg
@@ -16,9 +16,7 @@ categories:
   - Fikir Kutusu
 tags:
   - dijital
-  - dil
   - manga
-  - okuma
   - program
 format: image
 ---

@@ -6,7 +6,7 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=1417
 permalink: /gok-kusagi-dijital-muzikal-harmoni/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/2012-04-01-Rainbow.jpg
@@ -14,12 +14,9 @@ categories:
   - Blog
   - Grafik Tasarım
 tags:
-  - Aselin Debison
   - dijital
   - müzik
-  - orman
   - sanat
-  - yağmur
 format: image
 ---
 

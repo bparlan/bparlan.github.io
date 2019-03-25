@@ -8,16 +8,13 @@ guid: http://www.bparlan.com/?p=1280
 permalink: /naturel-cinsel-performans/
 dsq_thread_id:
   - "5487119625"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Naturel-Cinsel-Performans-01.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - cinsel
-  - naturel
-  - performans
   - tasarım
   - web sitesi
 format: image

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2744
 permalink: /asik-olamayan-erkekler-baskanligindan-basin-bildirisi/
 dsq_thread_id:
   - "5482289130"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/01/AOEBBB.jpg
@@ -17,8 +17,6 @@ categories:
 tags:
   - aşk
   - bildiri
-  - cinsiyet
-  - ilişki
   - toplum
 format: image
 ---

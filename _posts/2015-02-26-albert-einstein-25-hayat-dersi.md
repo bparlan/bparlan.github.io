@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5492776515"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/06/albert-einstein-e1424523224429.jpg
@@ -18,8 +18,7 @@ categories:
   - Blog
   - Tapınak
 tags:
-  - "25"
-  - albert einstein
+  - quote
   - ders
   - hayat
   - insan

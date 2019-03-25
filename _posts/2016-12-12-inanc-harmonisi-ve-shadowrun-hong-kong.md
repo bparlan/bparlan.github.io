@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3162
 permalink: /inanc-harmonisi-ve-shadowrun-hong-kong/
 dsq_thread_id:
   - "5586474517"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/12/inanc-harmonisi-shadowrun-hong-kong.jpg
@@ -17,11 +17,9 @@ categories:
   - Oyunlar
 tags:
   - din
-  - harmoni
   - inanç
   - kültür
   - oyun
-  - shadowrun
 format: image
 ---
 

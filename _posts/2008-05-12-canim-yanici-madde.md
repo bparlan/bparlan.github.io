@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/wordpress/?p=166
 permalink: /canim-yanici-madde/
 dsq_thread_id:
   - "5914518182"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - canım
   - deneme
   - edebiyat
-  - madde
-  - yanıcı
 ---
 
 <p style="text-align: justify;">

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2488
 permalink: /duygusuzlasan-insan-ve-yasam-sureci/
 dsq_thread_id:
   - "5499690887"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/05/duygusuz-insan-ve-yasam-sureci.jpg
@@ -19,7 +19,6 @@ tags:
   - duygu
   - insan
   - sistem
-  - süreç
   - yaşam
 format: image
 ---

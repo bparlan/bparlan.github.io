@@ -8,17 +8,16 @@ guid: http://www.bparlan.com/?p=3305
 permalink: /noocracy-erdemin-otoritesi/
 dsq_thread_id:
   - "5485520418"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/01/2017-01-10-noocracy.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - bilinç
   - demokrasi
   - noocracy
-  - politik sistem
+  - politik ekonomi
   - toplum
 format: image
 ---

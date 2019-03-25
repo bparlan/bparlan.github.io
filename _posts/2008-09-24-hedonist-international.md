@@ -13,9 +13,7 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - hedonist
-  - international
   - manifesto
-  - organization
 format: image
 ---
 

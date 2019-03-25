@@ -10,6 +10,9 @@ dsq_thread_id:
   - "6238159366"
 categories:
   - Tapınak
+tags:
+  - edebiyat
+  - tapinak
 ---
 
 _&#8220;Erkekler daha çok acı çekiyor. Şöyle de diyebiliriz: Bu işlerde erkeklerin daha az karşı koyma güçleri var. Oysa kadınlar suçları olmadan acı çekerler.&#8221;_

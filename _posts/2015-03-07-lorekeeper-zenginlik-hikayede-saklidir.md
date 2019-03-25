@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5479874752"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/03/lorekeeper-banner.jpg
@@ -18,10 +18,9 @@ categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
   - hikaye
-  - lorekeeper
   - öykü
   - oyun
-  - site
+  - tanıtım
 format: image
 ---
 

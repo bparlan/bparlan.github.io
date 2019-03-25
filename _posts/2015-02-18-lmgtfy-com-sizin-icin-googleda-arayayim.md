@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5515357729"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/02/google-rankings.jpg
@@ -20,7 +20,6 @@ tags:
   - arama
   - google
   - hayat
-  - lmgtfy
 format: image
 ---
 

@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/?p=1276
 permalink: /unreal-the-band/
 dsq_thread_id:
   - "5734115049"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Unreal-The-Band-SS-1.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - indexhibit
   - tasarım
-  - the band
-  - unreal
-  - web site
+  - web sitesi
 format: image
 ---
 

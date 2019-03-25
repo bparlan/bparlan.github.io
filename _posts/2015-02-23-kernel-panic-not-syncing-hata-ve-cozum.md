@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5479554447"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
@@ -18,10 +18,9 @@ categories:
   - Unix | Linux
 tags:
   - çözüm
-  - initramfs
-  - kernel
-  - noy syncing
-  - panic
+  - ubuntu
+  - linux
+  - problem
 format: image
 ---
 

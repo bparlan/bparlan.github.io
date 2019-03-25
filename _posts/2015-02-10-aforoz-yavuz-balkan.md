@@ -10,18 +10,16 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5522507082"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/02/aforoz2-e1424504384908.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - aforoz
   - avukat
   - sistem
-  - söyleyemedikleri
-  - yavuz balkan
+  - noocracy
 format: image
 ---
 

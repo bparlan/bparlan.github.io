@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2835
 permalink: /postmodern-yalnizlik-ve-kadin-bedeni/
 dsq_thread_id:
   - "5483648660"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/02/kadin-bedeni.jpg
@@ -18,7 +18,6 @@ categories:
 tags:
   - cinsiyet
   - feminizm
-  - illüstrasyon
   - kadın
   - toplum
 format: image

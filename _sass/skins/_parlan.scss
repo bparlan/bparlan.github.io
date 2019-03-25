@@ -5,13 +5,13 @@
 ///
 
 // main colors
-$main-color-1:     #ff9500;
-$text-color-1:     rgba(#fff, .8);
+$main-color-1:     #cc0000;
+$text-color-1:     rgba(#fff, 1);
 
-$main-color-2:     #ff006a;
+$main-color-2:     #ff0000;
 $text-color-2:     rgba(#fff, .8);
 
-$main-color-3:     #202020;
+$main-color-3:     #000000;
 $text-color-3:     rgba(#fff, .8);
 
 $main-color-theme-light: rgba(#000, .8);
@@ -26,7 +26,7 @@ $text-color-theme-light:   #222;
 $text-color-theme-light-l: #888;
 
 $text-color-theme-dark-d:  rgba(#fff, .8);
-$text-color-theme-dark:    rgba(#fff, .7);
+$text-color-theme-dark:    rgba(#fff, 1);
 $text-color-theme-dark-l:  rgba(#fff, .5);
 
 $text-color-d:     $text-color-theme-dark-d;
@@ -57,18 +57,18 @@ $red:             #da3d45;
 $text-color-function: rgba(#fff, .8);
 
 // logo colors
-$mail-color:       #0072c5;
-$facebook-color:   #4267b2;
-$twitter-color:    #1da1f2;
-$weibo-color:      #e6162d;
-$google-plus-color:#ea4335;
-$telegram-color:   #32afed;
-$medium-color:     #000;
-$zhihu-color:      #0084ff;
-$douban-color:     #42bd56;
-$linkedin-color:   #1074af;
-$github-color:     #000;
-$npm-color:        #fff;
+$mail-color:       #333333;
+$facebook-color:   #333333;
+$twitter-color:    #333333;
+$weibo-color:      #333333;
+$google-plus-color:#333333;
+$telegram-color:   #333333;
+$medium-color:     #333333;
+$zhihu-color:      #333333;
+$douban-color:     #333333;
+$linkedin-color:   #333333;
+$github-color:     #333333;
+$npm-color:        #333333;
 
 // highlight colors
 @import "skins/highlight/tomorrow-night";

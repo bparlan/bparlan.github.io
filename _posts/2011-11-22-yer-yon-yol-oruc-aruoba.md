@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=866
 permalink: /yer-yon-yol-oruc-aruoba/
 dsq_thread_id:
   - "5605507380"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -17,10 +17,8 @@ categories:
 tags:
   - edebiyat
   - felsefe
-  - oruç aruoba
-  - yer
-  - yol
-  - yön
+  - tapinak
+  - şiir
 format: image
 ---
 

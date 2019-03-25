@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3675
 permalink: /kan-ve-insan/
 dsq_thread_id:
   - "6111817634"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/09/img_0088.jpg
@@ -19,8 +19,6 @@ tags:
   - ideoloji
   - inanç
   - insan
-  - kan
-  - kurban
 format: image
 ---
 

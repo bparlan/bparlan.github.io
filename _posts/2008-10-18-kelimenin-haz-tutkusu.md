@@ -10,6 +10,9 @@ dsq_thread_id:
   - "5837741354"
 categories:
   - Yazılarım
+tags:
+  - deneme
+  - edebiyat
 ---
 
 <p style="text-align: justify;">

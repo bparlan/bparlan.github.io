@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/blog/2004/09/21/siirini-kaybeden-gozyasi/
 permalink: /siirini-kaybeden-gozyasi/
 dsq_thread_id:
   - "5813207607"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -18,7 +18,6 @@ tags:
   - deneme
   - edebiyat
   - şiir
-  - şiirini kaybeden gözyaşı
 ---
 
 Ben ruhumu emanet edip sana,  

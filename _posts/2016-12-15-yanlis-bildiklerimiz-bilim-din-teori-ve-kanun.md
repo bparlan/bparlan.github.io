@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3213
 permalink: /yanlis-bildiklerimiz-bilim-din-teori-ve-kanun/
 dsq_thread_id:
   - "5479375237"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/12/Yanlis-Bildiklerimiz.jpg
@@ -17,10 +17,7 @@ categories:
 tags:
   - bilim
   - din
-  - fenomen
   - inanç
-  - kanun
-  - teori
 format: image
 ---
 

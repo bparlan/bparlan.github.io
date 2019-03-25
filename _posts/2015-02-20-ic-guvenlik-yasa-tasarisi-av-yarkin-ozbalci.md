@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5583308063"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/02/icguvenlik.jpg
@@ -18,9 +18,7 @@ categories:
   - Tapınak
 tags:
   - avukat
-  - iç güvenlik
   - tasarı
-  - yarkın özbalcı
   - yasa
 format: image
 ---

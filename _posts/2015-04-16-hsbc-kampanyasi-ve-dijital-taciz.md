@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2469
 permalink: /hsbc-kampanyasi-ve-dijital-taciz/
 dsq_thread_id:
   - "5523901510"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/04/dijital_taciz.jpg
@@ -16,10 +16,8 @@ categories:
   - Blog
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - Banka
+  - banka
   - dijital
-  - HSBC
-  - kampanya
   - taciz
 format: image
 ---

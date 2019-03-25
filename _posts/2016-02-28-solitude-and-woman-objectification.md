@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2854
 permalink: /solitude-and-woman-objectification/
 dsq_thread_id:
   - "5483296637"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/02/solitude-and-woman-objectification.jpg
@@ -18,8 +18,6 @@ tags:
   - consumption
   - culture
   - illustration
-  - objectification
-  - woman
 format: image
 ---
 

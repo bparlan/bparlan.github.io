@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=56
 permalink: /annem-be-ben-cok-sikildim/
 dsq_thread_id:
   - "5623940570"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2007/07/575560_649593798399587_307325099_n-e1424073863190.jpg
@@ -18,7 +18,6 @@ categories:
 tags:
   - anne
   - bildirim
-  - çok sıkıldım
   - edebiyat
   - hayat
 ---

@@ -8,16 +8,13 @@ guid: http://www.bparlan.com/?p=1227
 permalink: /liva-pastanesi/
 dsq_thread_id:
   - "5510663097"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/011.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - flash
-  - liva
-  - pastane
   - tasarım
   - web sitesi
 ---

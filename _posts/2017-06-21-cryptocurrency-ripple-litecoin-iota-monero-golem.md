@@ -10,19 +10,15 @@ dsq_thread_id:
   - "5928855607"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/06/CryptoCurrency.jpg
 categories:
   - Bilişim
 tags:
-  - cryptocurrency
-  - golem
-  - iota
-  - litecoin
-  - monero
-  - ripple
+  - crypto
+  - blockchain
 format: image
 ---
 

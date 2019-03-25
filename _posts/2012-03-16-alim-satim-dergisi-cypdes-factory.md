@@ -8,17 +8,14 @@ guid: http://www.bparlan.com/?p=1295
 permalink: /alim-satim-dergisi-cypdes-factory/
 dsq_thread_id:
   - "5531318088"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/feature.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - alım satım
-  - cypdes factory
-  - dergi
-  - kktc
+  - kıbrıs
   - tasarım
   - web sitesi
 ---

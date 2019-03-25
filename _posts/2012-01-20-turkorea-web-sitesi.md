@@ -8,17 +8,14 @@ guid: http://www.bparlan.com/?p=1221
 permalink: /turkorea-web-sitesi/
 dsq_thread_id:
   - "5531324252"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/TurKorea-v5-Ana-Sayfa.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - kore
   - tasarım
-  - ticaret
-  - turkorea
   - web sitesi
 ---
 

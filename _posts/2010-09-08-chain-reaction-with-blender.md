@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=936
 permalink: /chain-reaction-with-blender/
 dsq_thread_id:
   - "6004986714"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2010/09/CGProject-orj2.avi_000124824.jpg

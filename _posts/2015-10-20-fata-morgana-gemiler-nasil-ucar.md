@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2592
 permalink: /fata-morgana-gemiler-nasil-ucar/
 dsq_thread_id:
   - "5480822946"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/10/fata-morgana-gemiler-nasil-ucar.jpg
@@ -17,10 +17,7 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - algı
-  - beyin
   - bilim
-  - fata morgana
-  - yanılgı
 format: image
 ---
 

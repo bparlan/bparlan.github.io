@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1848
 permalink: /soylent-ihtiyac-temelli-beslenme/
 dsq_thread_id:
   - "5671194213"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/03/Soylent.jpg
@@ -18,7 +18,6 @@ tags:
   - besin
   - insan
   - sağlık
-  - soylent
   - yaşam
 format: image
 ---

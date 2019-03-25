@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5526164724"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/02/The-Judge-Movie-Robert-Downey-Jr-Robert-Duvall.jpg
@@ -19,10 +19,8 @@ categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
   - adalet
-  - alıntı
   - film
   - quote
-  - yargıç
 format: image
 ---
 

@@ -11,6 +11,9 @@ dsq_thread_id:
   - "5644358116"
 categories:
   - Yazılarım
+tags:
+  - deneme
+  - edebiyat
 ---
 
 <p style="text-align: justify;">

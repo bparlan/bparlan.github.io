@@ -1,19 +1,8 @@
 ---
-id: 531
-title: Kendime Dair
-date: 2011-07-11T02:01:37+02:00
-author: Barış Parlan
-layout: page
-guid: http://www.bparlan.com/?page_id=531
-ampforwp-amp-on-off:
-  - default
-wp_featherlight_disable:
-  - ""
+layout: article
+title: Hakkımda
+key: page-hakkimda
 ---
-<div class="ttr_start">
-</div>
-
-## **Barış E. Parlan**
 
 <address>
   <em>Grafik Tasarım, Baskı, Fotoğraf, İllustrasyon, Yazılım, Güvenlik<br /> Network, Problem Çözücü, İletişim, Sosyoloji<br /> </em>

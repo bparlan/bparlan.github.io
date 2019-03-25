@@ -6,7 +6,7 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=1479
 permalink: /ping-fm-site-incelemesi/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/ping_fm.png
@@ -16,7 +16,6 @@ tags:
   - dijital
   - inceleme
   - insan
-  - kontrol
   - sosyal medya
 format: image
 ---

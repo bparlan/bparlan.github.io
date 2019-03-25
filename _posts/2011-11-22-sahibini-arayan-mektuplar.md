@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/?p=854
 permalink: /sahibini-arayan-mektuplar/
 dsq_thread_id:
   - "5479484894"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Tapınak
 tags:
-  - aşk
   - edebiyat
   - mektup
-  - sahibini arayan mektuplar
-  - ümit oğuzcan
+  - tapınak
 ---
 
 ### Birinci Mektup

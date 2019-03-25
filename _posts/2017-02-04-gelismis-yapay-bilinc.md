@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3339
 permalink: /gelismis-yapay-bilinc/
 dsq_thread_id:
   - "5521165599"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/02/2017-02-04-aac.jpg
@@ -17,9 +17,7 @@ categories:
   - 'Video &amp; Animasyon'
 tags:
   - animasyon
-  - kurgusal karakter
   - video
-  - yapay bilinç
   - youtube
 format: video
 ---

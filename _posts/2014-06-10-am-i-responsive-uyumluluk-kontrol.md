@@ -8,16 +8,14 @@ guid: http://www.bparlan.com/?p=1898
 permalink: /am-i-responsive-uyumluluk-kontrol/
 dsq_thread_id:
   - "5569880589"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/06/resp-e1424523232383.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - am i responsive
-  - çözünürlük
-  - ekran
+  - test
   - uyumluluk
   - web sitesi
 format: image

@@ -6,18 +6,15 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=137
 permalink: /kiril-bir-basina/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - ayna
-  - bir başına
   - düşünsel
   - edebiyat
-  - kırıl
 ---
 
 <p style="text-align: justify;">

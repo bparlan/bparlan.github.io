@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2759
 permalink: /ubuntu-linux-kernel-silmek/
 dsq_thread_id:
   - "5479564870"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/unix.jpg
@@ -16,8 +16,6 @@ categories:
   - Bilişim
   - Unix | Linux
 tags:
-  - dist-upgrade
-  - kernel
   - linux
   - temizlik
   - ubuntu

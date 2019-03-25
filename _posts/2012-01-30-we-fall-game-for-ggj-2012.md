@@ -6,7 +6,7 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=1248
 permalink: /we-fall-game-for-ggj-2012/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/feature11.jpg
@@ -14,11 +14,8 @@ categories:
   - English
   - Portfolyo
 tags:
-  - "2012"
   - ggj
-  - global game jam
   - oyun
-  - we fall
 format: image
 ---
 

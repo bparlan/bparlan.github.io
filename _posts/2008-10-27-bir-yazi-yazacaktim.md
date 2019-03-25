@@ -11,6 +11,9 @@ dsq_thread_id:
 categories:
   - Blog
   - Yazılarım
+tags:
+  - deneme
+  - edebiyat
 ---
 
 <p style="text-align: justify;">

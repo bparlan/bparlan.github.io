@@ -10,17 +10,15 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5484134076"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Unix | Linux
 tags:
-  - 32bit
-  - 64bit
   - linux
-  - sorgu
+  - problem
   - ubuntu
 format: image
 ---

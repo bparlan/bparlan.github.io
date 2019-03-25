@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/?p=1866
 permalink: /kitapbu-org-kitap-takas-sitesi/
 dsq_thread_id:
   - "5543105353"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/05/url1.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - ikinci el
   - kitap
   - site
-  - takas
-  - tanitim
+  - tanıtım
 format: image
 ---
 

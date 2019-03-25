@@ -8,19 +8,15 @@ guid: http://www.bparlan.com/?p=1232
 permalink: /lemse-computer-web-site/
 dsq_thread_id:
   - "5823416815"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/Lemse-Computer-1.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - css
-  - html
-  - lemse
-  - site
   - tasarım
-  - web
+  - web sitesi
 format: image
 ---
 

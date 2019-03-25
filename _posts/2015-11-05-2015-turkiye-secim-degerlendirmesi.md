@@ -8,17 +8,15 @@ guid: http://www.bparlan.com/?p=2603
 permalink: /2015-turkiye-secim-degerlendirmesi/
 dsq_thread_id:
   - "5691052224"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/11/secim-2015.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - "2015"
   - medya
   - politika
-  - seçim
   - sistem
   - türkiye
 format: image

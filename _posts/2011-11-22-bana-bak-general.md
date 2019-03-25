@@ -8,6 +8,9 @@ guid: http://www.bparlan.com/?p=821
 permalink: /bana-bak-general/
 categories:
   - Tapınak
+tags:
+  - edebiyat
+  - tapinak
 ---
 
 12 Eylül darbesinin idam ettiği ve 25 yıl boyunca mezarı bulunamayan Veysel Güney üzerine Ethem Dinçer’in 6.9.2009 tarihinde Radikal-2’de yayımlanmış ‘Beni hatırladın mı general?’ yazısına devam olarak&#8230;  

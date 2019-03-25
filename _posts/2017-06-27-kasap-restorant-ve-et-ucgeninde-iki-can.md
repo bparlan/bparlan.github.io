@@ -8,17 +8,14 @@ guid: http://www.bparlan.com/?p=3549
 permalink: /kasap-restorant-ve-et-ucgeninde-iki-can/
 dsq_thread_id:
   - "5945785437"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/06/DSC_1525-E.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - et
   - inek
-  - kasap
-  - restorant
   - vegan
   - vejeteryan
 format: image

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/wordpress/?p=169
 permalink: /virgul-cumlede-dort-eylem-i/
 dsq_thread_id:
   - "5631561382"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -19,7 +19,6 @@ tags:
   - deneme
   - edebiyat
   - hayat
-  - virgül
 format: image
 ---
 

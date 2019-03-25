@@ -1,17 +1,10 @@
 ---
-id: 873
 title: İletişim
-date: 2011-11-22T06:06:26+02:00
-author: Barış Parlan
-layout: page
-guid: http://www.bparlan.com/?page_id=873
-et_ptemplate_settings:
-  - 'a:3:{s:16:"et_fullwidthpage";s:1:"0";s:21:"et_regenerate_numbers";s:1:"1";s:11:"et_email_to";s:17:"bparlan@gmail.com";}'
-ampforwp-amp-on-off:
-  - default
-wp_featherlight_disable:
-  - ""
-image: /wp-content/uploads/2011/11/1000809_10152303277288912_1532098153_n.jpg
+layout: article
+article_header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/1000809_10152303277288912_1532098153_n.jpg
 ---
 <div class="ttr_start">
 </div>

@@ -8,16 +8,13 @@ guid: http://www.bparlan.com/?p=1230
 permalink: /cyprus-handmade-web-sitesi/
 dsq_thread_id:
   - "5487209115"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/Cyprus-HandMade-Center-SS-1.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - cyprus
-  - handmade
-  - joomla
   - tasarım
   - web sitesi
 format: image

@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5540117751"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3372";s:11:"_thumb_type";s:5:"thumb";}'
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/02/mepas_header.jpg
@@ -19,11 +19,9 @@ categories:
   - Web Site Tasarım
 tags:
   - kıbrıs
-  - kktc
   - mepaş
   - tasarım
   - web sitesi
-  - wordpress
 format: image
 ---
 

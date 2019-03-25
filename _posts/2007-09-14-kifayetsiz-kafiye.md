@@ -6,18 +6,16 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=126
 permalink: /kifayetsiz-kafiye/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - aksan
   - deneme
   - edebiyat
-  - kafiye
-  - kifayetsiz
+  - şiir
 ---
 
 O akan kan değil gözyaşı olsa kaç yazar?  

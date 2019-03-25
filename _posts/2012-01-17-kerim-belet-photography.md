@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1239
 permalink: /kerim-belet-photography/
 dsq_thread_id:
   - "5579049793"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/01-vitrin-ve-genel-gorunum.jpg
@@ -16,8 +16,6 @@ categories:
   - Web Site Tasarım
 tags:
   - fotoğraf
-  - kerim belet
-  - photography
   - tasarım
   - web sitesi
 format: image

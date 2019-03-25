@@ -11,10 +11,7 @@ dsq_thread_id:
 categories:
   - Yazılarım
 tags:
-  - benzeyenlere
-  - dair
   - edebiyat
-  - sana
   - yaşam
 ---
 

@@ -6,12 +6,15 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=942
 permalink: /our-mission-kinetic-typography/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2010/03/2010-03-01-Our-Mission.avi_000033533.jpg
 categories:
   - 'Video &amp; Animasyon'
+tags:
+  - video
+  - animasyon
 ---
 
 

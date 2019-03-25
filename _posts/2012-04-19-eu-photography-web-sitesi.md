@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/?p=1667
 permalink: /eu-photography-web-sitesi/
 dsq_thread_id:
   - "5539706252"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/04/EU-Web-011-e1424529619264.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - emre uyar
-  - eu
-  - indexhibit
   - tasarım
-  - web site
+  - web sitesi
 format: image
 ---
 

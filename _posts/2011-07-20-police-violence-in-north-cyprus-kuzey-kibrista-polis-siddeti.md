@@ -10,13 +10,16 @@ dsq_thread_id:
   - "5566624571"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/07/DSC_00311.jpg
 categories:
   - English
   - 'Video &amp; Animasyon'
+tags:
+  - film
+  - video
 ---
 
 

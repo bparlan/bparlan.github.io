@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1680
 permalink: /gorunmez-dosya-gorunur-olmuyor/
 dsq_thread_id:
   - "5538672733"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Technolog.jpg
@@ -16,10 +16,9 @@ categories:
   - Windows | PC
 tags:
   - çözüm
-  - gizli
-  - görünmez dosya
   - problem
   - windows
+  - bilişim
 format: image
 ---
 

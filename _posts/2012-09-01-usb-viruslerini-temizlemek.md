@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1801
 permalink: /usb-viruslerini-temizlemek/
 dsq_thread_id:
   - "5796860208"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Technolog.jpg
@@ -16,9 +16,6 @@ categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
   - rehber
-  - silmek
-  - temizlemek
-  - usb
   - virüs
 format: aside
 ---

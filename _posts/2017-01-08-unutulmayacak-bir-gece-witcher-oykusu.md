@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3288
 permalink: /unutulmayacak-bir-gece-witcher-oykusu/
 dsq_thread_id:
   - "5496418099"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/01/2017-01-08-unutulmayacak-bir-gece.jpg
@@ -16,11 +16,9 @@ categories:
   - Bilişim
   - Oyunlar
 tags:
-  - a night to remember
-  - kederin ninnisi
-  - unutulmayacak bir gece
-  - wild hunt
-  - witcher
+  - oyun
+  - video
+  - film
 format: image
 ---
 

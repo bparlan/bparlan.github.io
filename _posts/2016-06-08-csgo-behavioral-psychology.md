@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2884
 permalink: /csgo-behavioral-psychology/
 dsq_thread_id:
   - "5480566578"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/06/csgo.jpg
@@ -17,9 +17,7 @@ categories:
   - Oyunlar
 tags:
   - behavioral
-  - bomb explosion
-  - cs:go
-  - game studies
+  - game
   - psychology
 ---
 

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3266
 permalink: /yil-onalti/
 dsq_thread_id:
   - "5486048876"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/01/onalti-1.jpg
@@ -18,7 +18,6 @@ categories:
 tags:
   - anı
   - kayıt
-  - onaltı
   - yaşam
   - yıllık
 format: image

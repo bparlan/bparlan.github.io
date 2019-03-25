@@ -8,12 +8,14 @@ guid: http://www.bparlan.com/?p=717
 permalink: /windows-xp-gocugu/
 dsq_thread_id:
   - "6025590227"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/03/Technolog.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
+tags:
+  - bilişim
 ---
 
 Evet bir başka Murphy haftası, en yoğun iki iş günü arası elime babamın göçmüş windows XP&#8217;si geldi, tamir için gece vakti oturdum bilgisayar karşısına, buyrun seyir defteri:

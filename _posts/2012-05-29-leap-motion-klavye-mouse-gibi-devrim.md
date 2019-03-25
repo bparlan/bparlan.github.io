@@ -8,17 +8,15 @@ guid: http://www.bparlan.com/?p=1753
 permalink: /leap-motion-klavye-mouse-gibi-devrim/
 dsq_thread_id:
   - "5966650130"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/05/Leap-620.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - devrim
-  - klavye
-  - leap motion
-  - mouse
+  - bilişim
+  - tanıtım
   - teknoloji
 format: image
 ---

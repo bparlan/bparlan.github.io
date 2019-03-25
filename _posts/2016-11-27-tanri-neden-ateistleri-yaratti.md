@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/?p=3154
 permalink: /tanri-neden-ateistleri-yaratti/
 dsq_thread_id:
   - "5487119136"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/11/Tanri-Neden-Ateistleri-Yaratti.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - ateist
   - ateizm
   - din
   - inanç
-  - tanrı
 format: image
 ---
 

@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/blog/2007/02/16/lupercalia/
 permalink: /sevgililer-gunu-lupercalia/
 dsq_thread_id:
   - "5546332995"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2007/02/maxresdefault-e1424504503536.jpg
 categories:
   - Blog
 tags:
-  - 14 şubat
   - aşk
   - lupercalia
   - sevgililer günü
-  - valentine
 format: image
 ---
 

@@ -10,16 +10,15 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5523867255"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/12/blue_screen_microsoft_windows_blue_screen_of_death_1440x900_wallpaper_Wallpaper_1920x1200_www.wall321.com_-e1424505349544.jpg
 categories:
   - Windows | PC
 tags:
-  - access
   - çözüm
-  - güncelleme
+  - problem
   - windows
 format: image
 ---

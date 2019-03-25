@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=147
 permalink: /oyungezer/
 dsq_thread_id:
   - "5705501524"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2007/11/ogz.jpg
@@ -16,8 +16,6 @@ categories:
   - Blog
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - basım
-  - dergi
   - kültür
   - oyun
   - oyungezer

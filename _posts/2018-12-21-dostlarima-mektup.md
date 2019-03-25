@@ -6,13 +6,16 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=3954
 permalink: /dostlarima-mektup/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2018/12/image.png
 categories:
   - Blog
 format: image
+tags:
+  - mektup
+  - bildirim
 ---
 
 Nice zamandır anlatmak istediğim, ancak bir türlü erişemediğim, uygun ifade ve iletişim ortamını bulamadığım, belki de aynı coğrafyada bile bulunamadığım ey dost insan; Seni nice zamandır kendimden habersiz bıraktığım için özür dilerim... Bu satırları, seninle, kendi hayatıma dair yaşadığım süreci, kararlarımı, planlarımı, ve hayallerimi paylaşmak için yazıyorum. Bir anlamda, hayatımda ilk defa paylaşılmasını değil, anlaşılmasını ve karşılık yazılmasını istediğim bir online yazı paylaşımımı kişisel sitemden paylaşıyorum. Evet, böylesinin makbul olduğunu anlamamın bunca yıl alması çok ilginç...

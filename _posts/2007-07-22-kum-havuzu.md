@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=69
 permalink: /kum-havuzu/
 dsq_thread_id:
   - "5594886081"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2007/07/kum-e1424504063281.jpg
@@ -19,7 +19,6 @@ tags:
   - bilidirim
   - edebiyat
   - fotoğraf
-  - kum havuzu
 format: image
 ---
 

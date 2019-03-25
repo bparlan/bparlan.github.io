@@ -10,18 +10,16 @@ wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "6309831854"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/11/mavi_balina.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - bilgisayar oyunları
-  - bilinçsiz aile
+  - oyun
+  - bilinç
   - intihar
-  - mavi balina
-  - uzman
 format: image
 ---
 

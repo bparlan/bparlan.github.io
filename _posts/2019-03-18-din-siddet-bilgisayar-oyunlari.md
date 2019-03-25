@@ -2,12 +2,11 @@
 id: 4094
 title: Din, Şiddet, Bilgisayar Oyunları
 date: 2019-03-18T02:42:01+02:00
-author: Barış Parlan
 excerpt: "Yeni Zellanda'da bir adamın camiye girip otomatik silahla onlarca insanı öldürmesini başına taktığı kamera ile facebook üzerinden canlı yayımlaması, haber sitelerinin saldırgan ile benzer ideolojilerle haber yapması ve sosyal medyaya sıçraması üzerine düşüncelerimdir."
 layout: article
 guid: http://www.bparlan.com/?p=4094
 permalink: /din-siddet-bilgisayar-oyunlari/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2019/03/DCCharlottesvilleSolidarityAction07-smaller.jpg

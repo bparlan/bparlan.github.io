@@ -10,16 +10,15 @@ wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "5966155901"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/07/society-as-media-audience.jpg
 categories:
   - English
 tags:
-  - academic knowledge
+  - academic
   - kurzgesagt
-  - media audience
   - society
   - ted
 format: image

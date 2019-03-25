@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6128480865"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/09/49199-Jiddu-Krishnamurti-Quote-It-is-no-measure-of-health-to-be-well.jpg
@@ -24,11 +24,9 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - haber
-  - hasta
   - hayvan
-  - kktc
+  - kıbrıs
   - toplum
-  - vahşet
 format: image
 ---
 

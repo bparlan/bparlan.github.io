@@ -6,16 +6,13 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=908
 permalink: /armen-shipping/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/01-e1424356510973.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - armen
-  - nakliyat
-  - shipping
   - tasarım
   - web sitesi
 format: image

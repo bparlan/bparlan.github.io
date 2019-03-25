@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=97
 permalink: /dokuluyor-gozlerim/
 dsq_thread_id:
   - "5837716956"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -17,10 +17,7 @@ categories:
   - Yazılarım
 tags:
   - deneme
-  - dökülüyor
   - edebiyat
-  - gözlerim
-  - korku
   - video
 ---
 

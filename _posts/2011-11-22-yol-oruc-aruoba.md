@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=869
 permalink: /yol-oruc-aruoba/
 dsq_thread_id:
   - "5518938076"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -18,7 +18,6 @@ tags:
   - edebiyat
   - felsefe
   - hayat
-  - oruç aruoba
   - yol
 ---
 

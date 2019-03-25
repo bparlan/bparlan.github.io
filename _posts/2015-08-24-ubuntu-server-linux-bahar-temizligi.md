@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2550
 permalink: /ubuntu-server-linux-bahar-temizligi/
 dsq_thread_id:
   - "5482626174"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/unix.jpg
@@ -17,10 +17,7 @@ categories:
 tags:
   - linux
   - server
-  - temizlik apt-get
   - ubuntu
-  - update
-  - upgrade
 format: image
 ---
 

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3817
 permalink: /valentinin-idami-sagliksiz-toplumda-sevgililer-gunu/
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2018/02/bparlan_com-valentin.jpg
@@ -19,9 +19,7 @@ tags:
   - lupercalia
   - monogamy
   - polygamy
-  - sevgililer günü
   - toplum
-  - valentines day
 format: image
 ---
 

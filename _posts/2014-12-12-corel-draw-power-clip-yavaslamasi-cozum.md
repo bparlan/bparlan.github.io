@@ -10,18 +10,16 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5486053693"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/12/coreldraw.jpg
 categories:
   - Genel | Yazılım
 tags:
-  - corel
   - çözüm
-  - draw
-  - hızlandırma
-  - power clip
+  - problem
+  - program
 format: image
 ---
 

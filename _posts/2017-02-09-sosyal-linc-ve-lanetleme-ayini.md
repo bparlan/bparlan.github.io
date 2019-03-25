@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3358
 permalink: /sosyal-linc-ve-lanetleme-ayini/
 dsq_thread_id:
   - "5537293225"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/02/2017-02-09-sosyal-linc.jpg
@@ -16,12 +16,8 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - edebiyat
-  - hüseyin cengiz
-  - lanetleme ayini
   - sansür
-  - sosyal linç
-  - ve sonra yol bitti
-  - zoofili
+  - sosyal medya
 format: image
 ---
 

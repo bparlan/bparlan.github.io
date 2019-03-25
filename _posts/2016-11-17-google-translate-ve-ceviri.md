@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3135
 permalink: /google-translate-ve-ceviri/
 dsq_thread_id:
   - "5496241628"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/02/google-rankings.jpg
@@ -19,9 +19,7 @@ categories:
 tags:
   - çeviri
   - google
-  - machine
-  - neural
-  - translate
+  - machinelearning
 ---
 
 Google [Translate](https://translate.google.com/) isimli online çeviri programında ciddi bir güncelleme yaparak sistemini Neural Machine destekli bir yazılıma çevirdi. Neural Machine, bilgisayarın çalışma sistemi olarak insan beynini taklit etmesi gibi bir ilkeyi benimsemektedir. Görevini yerine getirirken standartlaşmış düz yazılım algoritmalarını kullanmak yerine gelişmiş internet desteği ile &#8220;sinirsel&#8221; denebilecek incelikte algoritma öbeklerini kendi kendine geliştirerek / güncelleyerek çalışmaktadır. Bu çalışma sistemi, çevirilmesi gereken metini &#8220;kelime&#8221; bazında değil, &#8220;anlam&#8221; temelli cümle bazında ele aldığı için çok daha anlaşılır ve tutarlı çeviriler elde etmektedir. İlk yorumum &#8220;Yeni teknoloji hiç komik değil&#8230;&#8221; şeklinde olmuş durumda, zira artık o eski google translate ile çevirildiği bariz belli olan komik anlamlar içeren tabelalar &#8211; pankartlar hayatlarımızda olmayacak, hayat daha bir ciddi olacak.

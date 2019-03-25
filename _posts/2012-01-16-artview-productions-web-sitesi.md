@@ -6,16 +6,13 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=1237
 permalink: /artview-productions-web-sitesi/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/01/012.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - artview
-  - flash
-  - production
   - tasarım
   - web sitesi
 format: image

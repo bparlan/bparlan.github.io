@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2725
 permalink: /yil-ondort/
 dsq_thread_id:
   - "6026156071"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/01/10429419_10153516889443912_2192784586720318845_n.jpg
@@ -18,7 +18,6 @@ categories:
 tags:
   - anı
   - kayıt
-  - ondört
   - yaşam
   - yıllık
 format: image

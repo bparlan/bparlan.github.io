@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/wordpress/?p=157
 permalink: /katli-vacip/
 dsq_thread_id:
   - "5545676052"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -17,8 +17,6 @@ categories:
 tags:
   - deneme
   - edebiyat
-  - katli
-  - vacip
   - yaşam
 ---
 

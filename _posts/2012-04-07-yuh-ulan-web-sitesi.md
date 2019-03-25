@@ -10,18 +10,16 @@ dsq_thread_id:
   - "5539706647"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/04/logo_yuhulan-e1424263544481.jpg
 categories:
   - Web Site Tasarım
 tags:
-  - kara liste
   - sosyal medya
   - tasarım
   - web sitesi
-  - yuh ulan
 format: image
 ---
 

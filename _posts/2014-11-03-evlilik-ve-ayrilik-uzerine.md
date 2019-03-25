@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5504290185"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/11/Pen-and-paper-e1424505664428.jpg
@@ -18,8 +18,6 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - aile
-  - ayrılık
-  - boşanma
   - çocuk
   - evlilik
 format: image

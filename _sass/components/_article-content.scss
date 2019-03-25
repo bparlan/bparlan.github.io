@@ -42,9 +42,11 @@
     border: none;
     @include horizontal-rules();
   }
+  p { text-align: justify;}
   blockquote {
     padding-left: map-get($spacers, 3);
-    font-size: map-get($base, font-size-sm);
+    font-size: map-get($base, font-size-lg);
+    font-family: map-get($base, font-family-quote);
     color: $text-color-l;
     @include split-line(left, 4px, $border-color);
     p {

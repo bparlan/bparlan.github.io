@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2742
 permalink: /asik-olamayan-erkekler-bskn-ii-basin-bildirisi/
 dsq_thread_id:
   - "5529854507"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/02/AOEBBB2.jpg
@@ -17,8 +17,6 @@ categories:
 tags:
   - aşk
   - bildiri
-  - cinsiyet
-  - ilişki
   - toplum
 format: image
 ---

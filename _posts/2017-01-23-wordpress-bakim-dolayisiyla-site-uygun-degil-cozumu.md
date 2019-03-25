@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=3334
 permalink: /wordpress-bakim-dolayisiyla-site-uygun-degil-cozumu/
 dsq_thread_id:
   - "5499301550"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/01/2017-01-23-wordpress-2.jpg
@@ -18,7 +18,6 @@ categories:
 tags:
   - bakım
   - çözüm
-  - hata
   - problem
   - wordpress
 format: image

@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/?p=1988
 permalink: /zamanin-akisini-algilamak/
 dsq_thread_id:
   - "6018597938"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/01/400510_10151821733713912_1633554057_n.jpg
 categories:
   - Blog
 tags:
-  - akış
-  - algı
   - hayat
-  - makro
-  - mikro
+  - deneme
   - zaman
 format: image
 ---

@@ -6,18 +6,16 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=115
 permalink: /bir-de-sabahin-4u/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - "4"
   - alkol
   - deneme
   - edebiyat
-  - sabah
 ---
 
 <p align="center">

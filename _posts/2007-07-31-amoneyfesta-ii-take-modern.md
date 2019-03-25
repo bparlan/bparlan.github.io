@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=93
 permalink: /amoneyfesta-ii-take-modern/
 dsq_thread_id:
   - "5566468957"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2007/07/AMONEYFESTAII-e1424504059540.jpg
@@ -16,10 +16,8 @@ categories:
   - Blog
 tags:
   - amoneyfesta
-  - anti
   - festival
-  - girne
-  - kktc
+  - kıbrıs
 format: image
 ---
 

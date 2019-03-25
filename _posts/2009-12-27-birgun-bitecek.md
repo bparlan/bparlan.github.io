@@ -6,12 +6,14 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/?p=944
 permalink: /birgun-bitecek/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/3009/12/birgunbitecek.jpg
 categories:
   - 'Video &amp; Animasyon'
+tags:
+  - video
 ---
 
 

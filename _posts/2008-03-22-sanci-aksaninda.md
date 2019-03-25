@@ -6,17 +6,15 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/wordpress/?p=160
 permalink: /sanci-aksaninda/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - aksan
   - deneme
   - insan
-  - sancı
   - yaşam
 ---
 

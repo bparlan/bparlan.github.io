@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1991
 permalink: /transistor-oyun-incelemesi/
 dsq_thread_id:
   - "5531324569"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/01/Transistor_20140521233531-e1424504739293.jpeg
@@ -17,10 +17,8 @@ categories:
   - Oyunlar
 tags:
   - inceleme
-  - indie
   - oyun
-  - super giant games
-  - transistor
+  - tanıtım
 format: image
 ---
 

@@ -12,16 +12,14 @@ dsq_thread_id:
   - "5480349822"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/11/url-e1424505668231.jpg
 categories:
   - Rehber
 tags:
-  - altyazi
   - film
-  - indirme
   - rehber
   - torrent
 format: image

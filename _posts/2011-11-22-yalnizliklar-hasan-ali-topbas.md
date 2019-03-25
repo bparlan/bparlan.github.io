@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=860
 permalink: /yalnizliklar-hasan-ali-topbas/
 dsq_thread_id:
   - "5501586367"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/Yalnızlıklar-Hasan-Ali-Topbaş.jpg
@@ -16,10 +16,9 @@ categories:
   - Tapınak
 tags:
   - edebiyat
-  - hasan ali topbaş
   - şiir
-  - uçurum
-  - yalnızlıklar
+  - tapinak
+  - yalnızlık
 format: image
 ---
 

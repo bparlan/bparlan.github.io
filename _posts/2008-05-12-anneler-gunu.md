@@ -6,7 +6,7 @@ author: Barış Parlan
 layout: article
 guid: http://www.bparlan.com/wordpress/?p=168
 permalink: /anneler-gunu/
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2011/11/2011-02-17-SkyIsGrey.jpg
@@ -15,10 +15,8 @@ categories:
   - Yazılarım
 tags:
   - anne
-  - anneler günü
   - deneme
   - edebiyat
-  - mesaj
 format: image
 ---
 

@@ -8,16 +8,14 @@ guid: http://www.bparlan.com/?p=2680
 permalink: /fahise-lehcesi-zaman-uzerine/
 dsq_thread_id:
   - "5517355824"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
-  - algı
   - anlam
-  - kurgu
   - yaşam
   - zaman
 format: image

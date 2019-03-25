@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5541619540"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3380";s:11:"_thumb_type";s:5:"thumb";}'
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/02/youthopia_header.jpg
@@ -18,7 +18,7 @@ categories:
   - Portfolyo
   - Web Site Tasarım
 tags:
-  - responsive
+  - tasarım
   - web sitesi
   - wordpress
   - youthopia

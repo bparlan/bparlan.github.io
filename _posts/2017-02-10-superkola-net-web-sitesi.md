@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5540203142"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3383";s:11:"_thumb_type";s:5:"thumb";}'
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/02/header.jpg
@@ -18,10 +18,7 @@ categories:
   - Portfolyo
   - Web Site Tasarım
 tags:
-  - one page
-  - parallax
-  - responsive
-  - super kola
+  - tasarım
   - web sitesi
 format: image
 ---

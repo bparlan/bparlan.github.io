@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6001969523"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/07/Kıbrıs-Cyprus.jpg
@@ -24,9 +24,7 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - devlet
-  - düşman
-  - ingiltere
-  - kktc
+  - kıbrıs
   - medya
 format: image
 ---

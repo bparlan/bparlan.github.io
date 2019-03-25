@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/?p=1726
 permalink: /wordle-ile-kelime-bulutu/
 dsq_thread_id:
   - "5489622738"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/05/kelimelerim-karisti-e1424529478365.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - bulut
-  - kelime
-  - tanitim
+  - tanıtım
   - tasarım
-  - wordle
 format: image
 ---
 

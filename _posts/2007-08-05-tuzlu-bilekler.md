@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=96
 permalink: /tuzlu-bilekler/
 dsq_thread_id:
   - "5550282755"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -19,8 +19,6 @@ tags:
   - alkol
   - anı
   - araba
-  - bilekler
-  - tuzlu
 ---
 
 _-Altı tekila lütfen&#8230;_  

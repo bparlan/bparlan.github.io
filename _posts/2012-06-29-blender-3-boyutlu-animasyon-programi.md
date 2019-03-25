@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=1767
 permalink: /blender-3-boyutlu-animasyon-programi/
 dsq_thread_id:
   - "5664577678"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2012/06/t3_b-e1424095594412.jpg
@@ -18,7 +18,6 @@ tags:
   - 3d
   - açık kaynak
   - animasyon
-  - blender
   - ücretsiz
 format: image
 ---

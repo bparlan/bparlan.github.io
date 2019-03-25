@@ -11,6 +11,10 @@ dsq_thread_id:
 categories:
   - Blog
   - Yazılarım
+tags:
+  - deneme
+  - edebiyat
+  - cümlede dört eylem
 ---
 
 <p style="text-align: justify;">

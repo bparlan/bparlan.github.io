@@ -8,16 +8,14 @@ guid: http://www.bparlan.com/?p=2770
 permalink: /toplumsal-ve-bireysel-algida-iliski/
 dsq_thread_id:
   - "5607614233"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/02/ilişki.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - algı
-  - bağ
-  - birey
+  - aşk
   - ilişki
   - toplum
   - yaşam

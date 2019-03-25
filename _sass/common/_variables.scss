@@ -1,8 +1,9 @@
 $base: (
-  font-family:            (-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif),
+  font-family:            (-apple-system, BlinkMacSystemFont, "Open Sans", "Segoe UI", Helvetica, Arial, sans-serif),
   font-family-code:       (Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace),
+  font-family-quote:      ("Open Sans Light", sans-serif),
 
-  font-size-root:         16px,
+  font-size-root:         20px,
   font-size-root-sm:      14px,
 
   font-size-xl:           1.5rem,
@@ -49,11 +50,11 @@ $base: (
   font-weight:            400,
   font-weight-bold:       700,
 
-  line-height-xl:         2,
-  line-height-lg:         1.8,
-  line-height:            1.6,
-  line-height-sm:         1.4,
-  line-height-xs:         1.2,
+  line-height-xl:         2.2,
+  line-height-lg:         2,
+  line-height:            1.8,
+  line-height-sm:         1.6,
+  line-height-xs:         1.4,
 
   spacer:                 1rem,
 
@@ -79,8 +80,8 @@ $z-indexes: (
 );
 
 $layout: (
-  header-height:          5rem,
-  header-height-sm:       3rem,
+  header-height:          4rem,
+  header-height-sm:       2rem,
   content-max-width:      950px,
   sidebar-width:          250px,
   sidebar-header-height:  3rem,

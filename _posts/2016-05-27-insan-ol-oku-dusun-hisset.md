@@ -8,18 +8,15 @@ guid: http://www.bparlan.com/?p=2901
 permalink: /insan-ol-oku-dusun-hisset/
 dsq_thread_id:
   - "5529829315"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/05/oku-düşün-hisset.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
-  - düşün
   - hayat
-  - hisset
   - insan
-  - oku
 format: image
 ---
 

@@ -8,18 +8,16 @@ guid: http://www.bparlan.com/?p=2969
 permalink: /akiskan-kediler/
 dsq_thread_id:
   - "5566623614"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2016/05/akan-kediler-thumb.jpg
 categories:
   - 'Video &amp; Animasyon'
 tags:
-  - "3"
-  - akışkan
   - kedi
-  - kediler
-  - montaj
+  - video
+  - film
 format: video
 ---
 

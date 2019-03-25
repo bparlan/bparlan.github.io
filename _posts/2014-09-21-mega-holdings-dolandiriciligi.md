@@ -10,7 +10,7 @@ post_views_count:
   - "0"
 dsq_thread_id:
   - "5479558606"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2014/09/scamkeyboard-e1424504391355.jpg
@@ -18,11 +18,9 @@ categories:
   - Blog
   - 'İnceleme &amp; Tanıtım'
 tags:
-  - dolandırıcı
   - domain
-  - holdings
   - hosting
-  - mega
+  - uyarı
 format: image
 ---
 

@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2686
 permalink: /feminizm-komunizm-ateizm-ve-karikatur/
 dsq_thread_id:
   - "5479846976"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -17,7 +17,6 @@ categories:
 tags:
   - ateizm
   - feminizm
-  - karikatür
   - komünizm
   - sistem
 format: image

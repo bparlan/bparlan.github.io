@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2619
 permalink: /gokyuzundeki-isik-sovu-ve-ufo-umudu/
 dsq_thread_id:
   - "5479708199"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/11/jellyfish-ufo.jpg
@@ -16,8 +16,6 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - gerçek
-  - gökyüzü
-  - ışık
   - UFO
   - uzay
 format: image

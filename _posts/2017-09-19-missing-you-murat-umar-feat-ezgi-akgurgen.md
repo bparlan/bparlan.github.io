@@ -10,17 +10,15 @@ wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "6155207634"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/09/head_murat.jpg
 categories:
   - Grafik Tasarım
 tags:
-  - ezgi akgürgen
-  - missing you
-  - murat umar
-  - şarkı
+  - tasarım
+  - müzik
   - single
 format: image
 ---

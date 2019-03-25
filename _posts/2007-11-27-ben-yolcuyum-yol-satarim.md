@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/wordpress/?p=148
 permalink: /ben-yolcuyum-yol-satarim/
 dsq_thread_id:
   - "5522655379"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
@@ -19,7 +19,6 @@ tags:
   - edebiyat
   - hayat
   - yol
-  - yolcu
 ---
 
 > <p style="text-align: justify;">

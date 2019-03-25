@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5958610671"
 wp_featherlight_disable:
   - ""
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/07/Kıbrıs-Cyprus.jpg
@@ -18,12 +18,9 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - basın
-  - güncel
   - haber
   - kıbrıs
-  - kktc
   - medya
-  - okuryazarlık
 format: image
 ---
 

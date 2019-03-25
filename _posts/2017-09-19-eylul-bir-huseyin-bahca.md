@@ -10,15 +10,14 @@ wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "6155145603"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/09/header.jpg
 categories:
   - Grafik Tasarım
 tags:
-  - eylül bir
-  - hüseyin bahca
+  - tasarım
   - kitap
   - şiir
 format: image

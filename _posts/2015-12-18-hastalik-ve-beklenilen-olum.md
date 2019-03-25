@@ -8,7 +8,7 @@ guid: http://www.bparlan.com/?p=2693
 permalink: /hastalik-ve-beklenilen-olum/
 dsq_thread_id:
   - "5588333329"
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2015/12/time-watch.jpg
@@ -17,7 +17,6 @@ categories:
   - 'Toplum &amp; Yaşam'
 tags:
   - alzheimer
-  - beklemek
   - hafıza
   - hastalık
   - hayat

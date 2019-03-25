@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5542045568"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3399";s:11:"_thumb_type";s:5:"thumb";}'
-article header:
+article_header:
   type: cover
   image:
     src: /wp-content/uploads/2017/02/header-cypdes.jpg
@@ -18,10 +18,6 @@ categories:
   - Portfolyo
   - Web Site Tasarım
 tags:
-  - cypdes
-  - one page
-  - responsive
-  - statik
   - tasarım
   - web sitesi
 format: image
