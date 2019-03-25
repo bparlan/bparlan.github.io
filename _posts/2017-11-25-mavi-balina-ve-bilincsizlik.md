@@ -3,14 +3,17 @@ id: 3775
 title: Mavi Balina ve Bilinçsizlik
 date: 2017-11-25T22:40:34+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3775
 permalink: /mavi-balina-ve-bilincsizlik/
 wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "6309831854"
-image: /wp-content/uploads/2017/11/mavi_balina.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/11/mavi_balina.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -21,8 +24,6 @@ tags:
   - uzman
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <div id="js_9" class="_5pbx userContent _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <p>
@@ -96,7 +97,4 @@ format: image
   <p>
     Kapak resmi: Cosmic Whale by <a href="http://lorazombie.com/" target="_blank" rel="noopener">Lora Zombie</a>
   </p>
-</div>
-
-<div class="ttr_end">
 </div>

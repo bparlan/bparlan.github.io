@@ -3,14 +3,17 @@ id: 3393
 title: Cypdes.com Web Sitesi
 date: 2017-02-11T14:55:07+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3393
 permalink: /cypdes-com-web-sitesi/
 dsq_thread_id:
   - "5542045568"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3399";s:11:"_thumb_type";s:5:"thumb";}'
-image: /wp-content/uploads/2017/02/header-cypdes.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/02/header-cypdes.jpg
 categories:
   - Portfolyo
   - Web Site Tasarım
@@ -23,8 +26,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Statik site prensibi ile hazırlanan Cypdes.com, bütün sayfanın Html ve JQuery kodlanması sonucu oluşmuştur. Tek sayfalık tasarımı sayesinde kısmi-parallax efekti uygulanmış, bütün sitenin çok düşük dosya boyutunda sunulması ile hem hız sağlanmış, hem de responsive desteği ile her türlü cihazda / platformda / tarayıcıda hiç bir problem yaratmadan yüklenebilmesi sağlanmıştır. sayaçlı yükleme ekranı, ana sayfada arkaplan için slider, site bünyesinde google-fonts ve font-awesome desteği, portfolyo sunum bölümünde filtre jquery ve galeri gezme desteği, sitenin yapısı bünyesinde kullanılan diğer fonksiyonel yapılardır.
 
@@ -110,7 +111,4 @@ Site adresi: [www.cypdes.com](http://www.cypdes.com)
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

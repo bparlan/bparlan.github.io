@@ -3,12 +3,15 @@ id: 1198
 title: 'Duvarcı Kardeşler &#8211; Web Site'
 date: 2012-01-19T23:40:12+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1198
 permalink: /duvarci-kardesler/
 dsq_thread_id:
   - "5810297227"
-image: /wp-content/uploads/2012/01/01-ana.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/01-ana.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Duvarcı Kardeşler ferforje &#8211; demir işleri yapan şirket için hazırladığımız web sitesi, hem şirketin ürünlerine dair bir galerisi mevcut, hem de geniş bir stok kataloğu ile ziyaretçilerin hizmetine açık durumda. Sayfalar pratklik açısından PHP ile kodlandı. Site içerisinde bulunan dövüz kurları güncel bir kaynaktan otomatik olarak temin edilmektedir. Site içeriğinde kullanılan ürün kataloğu toplamda 1300&#8217;den fazla ürün barındırmaktadır. Sitenin bir yönetici paneli mevcuttur ve şirket sahibi gerekli bilgiler ile giriş yapıp sitenin Referanslar sayfasına referans yazısı ve şirket logosu, şirket fotoğrafları ekleyebilmektedir. Site içerisinde PHP form mail kullanılarak iletişim kolaylığı sağlanmıştır. Ayrıca müşteri kontrol panelinden dilediği gibi sitenin arkaplan fotoğraflarını değiştirebilir, isterse Galeri bölümünün flash kısmına dilediği kategoriyi ve fotoğrafı ekleyebilir. Fotoğraflar otomatik şirket logosu ile imzalanır.
@@ -128,6 +129,3 @@ format: image
 <p style="text-align: justify;">
   Site tasarımı için gerekli menü Adobe Flash CS ve ActionScript kullanılarak yapılmıştır&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

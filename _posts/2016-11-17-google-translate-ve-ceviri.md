@@ -3,12 +3,15 @@ id: 3135
 title: Google Translate ve Neural Machine ile Çeviri
 date: 2016-11-17T14:46:44+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3135
 permalink: /google-translate-ve-ceviri/
 dsq_thread_id:
   - "5496241628"
-image: /wp-content/uploads/2015/02/google-rankings.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/02/google-rankings.jpg
 categories:
   - Bilişim
   - Genel | Yazılım
@@ -20,8 +23,6 @@ tags:
   - neural
   - translate
 ---
-<div class="ttr_start">
-</div>
 
 Google [Translate](https://translate.google.com/) isimli online çeviri programında ciddi bir güncelleme yaparak sistemini Neural Machine destekli bir yazılıma çevirdi. Neural Machine, bilgisayarın çalışma sistemi olarak insan beynini taklit etmesi gibi bir ilkeyi benimsemektedir. Görevini yerine getirirken standartlaşmış düz yazılım algoritmalarını kullanmak yerine gelişmiş internet desteği ile &#8220;sinirsel&#8221; denebilecek incelikte algoritma öbeklerini kendi kendine geliştirerek / güncelleyerek çalışmaktadır. Bu çalışma sistemi, çevirilmesi gereken metini &#8220;kelime&#8221; bazında değil, &#8220;anlam&#8221; temelli cümle bazında ele aldığı için çok daha anlaşılır ve tutarlı çeviriler elde etmektedir. İlk yorumum &#8220;Yeni teknoloji hiç komik değil&#8230;&#8221; şeklinde olmuş durumda, zira artık o eski google translate ile çevirildiği bariz belli olan komik anlamlar içeren tabelalar &#8211; pankartlar hayatlarımızda olmayacak, hayat daha bir ciddi olacak.
 
@@ -38,6 +39,3 @@ Merakla gözlemlediğim konu ise, bu çeviri sisteminin dizi / film / belgesel a
 [Wikipedia](https://www.wikipedia.org/)&#8216;daki bir takım yazıların Türkçe versiyonu ile ne kadar şiddetli farklılıklar içerdiği gerçeği, aslında çevirenin ideolojik görüşlerinin dahil olduğu bir tartışmanın konusudur. Google&#8217;ın bu sunduğu teknoloji, insanların &#8220;çok dilli&#8221; bir metin üretmelerinde onlara muazzam imkanlar sağlayacaktır. Kim bilir, belki de çok değil 1-2 yıl içerisinde web sitemdeki bütün yazılar (şiirsel konular elbette hariç) hiç bir ekstra çaba harcamadan 8-9 genel geçer dilde okunabilir bir içeriğe dönüşecek, metinlerin hitab ettiği kitle sayısı 100 ile çarpılabilecektir&#8230;
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

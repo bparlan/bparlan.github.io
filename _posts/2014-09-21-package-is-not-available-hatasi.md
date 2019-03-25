@@ -3,12 +3,15 @@ id: 1910
 title: '&#8220;Package is not available&#8221; Hatası'
 date: 2014-09-21T09:36:43+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1910
 permalink: /package-is-not-available-hatasi/
 dsq_thread_id:
   - "5496335751"
-image: /wp-content/uploads/2014/09/unix.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Unix | Linux
 tags:
@@ -18,8 +21,6 @@ tags:
   - problem
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Paket yüklemesi yapmak istediğinizde, örneğin OpenVPN kurmak için gerekli olan paketleri command-line&#8217;da yazdığınızda aldığınız bir hata mesajı şu şekilde olabilir:
 
@@ -53,6 +54,3 @@ sonrasında ise:
 **sudo apt-get update**
 
 artık dilediğiniz paketin _install_  komutunu başarı ile verebilirsiniz.
-
-<div class="ttr_end">
-</div>

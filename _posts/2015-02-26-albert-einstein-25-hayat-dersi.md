@@ -3,14 +3,17 @@ id: 1902
 title: 'Albert Einstein&#8217;dan 25 Hayat Dersi'
 date: 2015-02-26T23:10:37+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1902
 permalink: /albert-einstein-25-hayat-dersi/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5492776515"
-image: /wp-content/uploads/2014/06/albert-einstein-e1424523224429.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/06/albert-einstein-e1424523224429.jpg
 categories:
   - Blog
   - Tapınak
@@ -102,6 +105,3 @@ format: image
 </li></section> 
 
  Kaynak: <a title="25 Life Lessons from Albert Einstein | The Unbounded Spirit" href="http://adf.ly/14KPZV" target="_blank">25 Life Lessons from Albert Einstein | The Unbounded Spirit</a>
-
-<div class="ttr_end">
-</div>

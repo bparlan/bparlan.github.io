@@ -3,12 +3,15 @@ id: 2538
 title: Mavi Kapak Sahtekarlığı ve Coca Cola
 date: 2015-07-10T16:36:02+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2538
 permalink: /mavi-kapak-sahtekarligi-ve-coca-cola/
 dsq_thread_id:
   - "5512167938"
-image: /wp-content/uploads/2015/07/mavikapak-cocacola.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/07/mavikapak-cocacola.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -20,8 +23,6 @@ tags:
   - sistem
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Evet vicdanınızın bile sömürüldüğü ve bu sömürünün bile sistematiksel olarak planlandığı bir dünyada yaşamaktayız. Hemen açıklayalım: Plastik &#8211; pet şişe üreten şirketlerin, ürettikleri şişeleri toplamak ve geri dönüştürmek zorunlulukları var. Bu şişe toplamak zahmetli bir durum olunca, politikacılar güzel bir yasa tasarısı ile &#8220;kapağı gösteren şişeyi topladığını kanıtlamış olur&#8221; şeklinde bir düzenleme getirdiler.
 
@@ -43,6 +44,3 @@ Götürdükleri kapaklar ile yaptıkları alışverişlerden &#8220;1.5 TL&#8221
 <a href="http://www.haberekspres.com.tr/izmir/mavi-kapak-bir-kandirmaca-cikti-h69496.html" target="_blank">http://www.haberekspres.com.tr/izmir/mavi-kapak-bir-kandirmaca-cikti-h69496.html</a>  
 **Coca-Cola Kampanya Duyurusu**  
 <a href="http://www.milliyet.com.tr/coca-cola-nin-2-kapagi-1-5-lira/ekonomi/detay/2072046/default.htm" target="_blank">http://www.milliyet.com.tr/coca-cola-nin-2-kapagi-1-5-lira/ekonomi/detay/2072046/default.htm</a>
-
-<div class="ttr_end">
-</div>

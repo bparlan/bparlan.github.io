@@ -3,12 +3,15 @@ id: 96
 title: Tuzlu Bilekler
 date: 2007-08-05T23:33:58+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=96
 permalink: /tuzlu-bilekler/
 dsq_thread_id:
   - "5550282755"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Blog
   - Yazılarım
@@ -19,8 +22,6 @@ tags:
   - bilekler
   - tuzlu
 ---
-<div class="ttr_start">
-</div>
 
 _-Altı tekila lütfen&#8230;_  
 **.flashback.**
@@ -37,6 +38,3 @@ soldier of fortune kulakta&#8230;_
 
 &#8230; says:  
 &#8220;Rüyamda gördüm seni dün gece, arabada şarkı söylüyordun bağırarak, yanında birisi daha vardı, ben arka koltuktaydım&#8230;&#8221; _06.08.2007_
-
-<div class="ttr_end">
-</div>

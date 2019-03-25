@@ -3,12 +3,15 @@ id: 860
 title: 'Yalnızlıklar &#8211; Hasan Ali Topbaş'
 date: 2011-11-22T06:03:54+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=860
 permalink: /yalnizliklar-hasan-ali-topbas/
 dsq_thread_id:
   - "5501586367"
-image: /wp-content/uploads/2011/11/Yalnızlıklar-Hasan-Ali-Topbaş.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/Yalnızlıklar-Hasan-Ali-Topbaş.jpg
 categories:
   - Tapınak
 tags:
@@ -19,8 +22,6 @@ tags:
   - yalnızlıklar
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 &#8220;ben ninemi yalnızlık sanmıştım bir keresinde.
 
@@ -138,6 +139,3 @@ dururdum ve bir uçurum dolanırdı ayak bileklerime.
 yalnızlık, uçurumları giyinmektir biraz da.&#8221;
 
 ~Yalnızlıklar
-
-<div class="ttr_end">
-</div>

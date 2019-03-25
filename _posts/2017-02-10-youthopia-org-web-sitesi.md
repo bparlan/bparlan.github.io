@@ -3,14 +3,17 @@ id: 3374
 title: Youthopia.org Web Sitesi
 date: 2017-02-10T20:59:54+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3374
 permalink: /youthopia-org-web-sitesi/
 dsq_thread_id:
   - "5541619540"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3380";s:11:"_thumb_type";s:5:"thumb";}'
-image: /wp-content/uploads/2017/02/youthopia_header.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/02/youthopia_header.jpg
 categories:
   - Portfolyo
   - Web Site Tasarım
@@ -21,8 +24,6 @@ tags:
   - youthopia
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 WordPress üzerine kurulan ButterBelly temasının Youthopia.org sitesi için modifiye edilmesi şeklinde üretilen web sitesi, bütün bilgi içeriğini ve site kontrolünü müşteriye sağlamanın yanında, her türlü platform üzerinden erişim sırasında hiç bir sıkıntı yaşatmamaya özen göstermek amacı ile responsive olarak tasarlanmıştır.
 
@@ -72,7 +73,4 @@ Site adres: [www.youthopia.org](http://www.youthopia.org)
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

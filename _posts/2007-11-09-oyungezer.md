@@ -3,12 +3,15 @@ id: 147
 title: 'Oyungezer &#8211; Türkiyenin Oyun Dergisi'
 date: 2007-11-09T15:32:53+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=147
 permalink: /oyungezer/
 dsq_thread_id:
   - "5705501524"
-image: /wp-content/uploads/2007/11/ogz.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2007/11/ogz.jpg
 categories:
   - Blog
   - 'İnceleme &amp; Tanıtım'
@@ -21,8 +24,6 @@ tags:
   - türkiye
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 **LEVEL, ProGamer ve PC Gamer dergilerini hazırlayan ekipten yepyeni bir oyun dergisi geliyor: Oyungezer &#8211; Türkiye&#8217;nin Oyun Dergisi!**
 
@@ -48,6 +49,3 @@ _Telefon:_ (216) 235 80 62
 <p style="text-align: center;">
   <img src="https://i2.wp.com/www.oyungezer.com.tr/images/stories/makale/merdi_-_kopya3.jpg?w=780" alt="Oyungezer Ekibi" data-recalc-dims="1" />
 </p>
-
-<div class="ttr_end">
-</div>

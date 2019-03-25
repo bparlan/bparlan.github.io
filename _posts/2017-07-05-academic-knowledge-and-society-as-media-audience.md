@@ -3,14 +3,17 @@ id: 3613
 title: Academic Knowledge and Society as Media Audience
 date: 2017-07-05T18:53:47+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3613
 permalink: /academic-knowledge-and-society-as-media-audience/
 wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "5966155901"
-image: /wp-content/uploads/2017/07/society-as-media-audience.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/07/society-as-media-audience.jpg
 categories:
   - English
 tags:
@@ -21,8 +24,6 @@ tags:
   - ted
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <div class="usertext-body may-blank-within md-container ">
   <div class="md">
@@ -66,7 +67,4 @@ format: image
       Reddit user <a href="https://www.reddit.com/user/shaialon">Shaialon</a> built an aggregator application which sends updates about new videos of Kurzgesagt, SciShow, Mental Floss and 10 other &#8220;Knowledge in a nutshell&#8221; channels via FB Messenger and Viber. You can start to use application by clicking <a href="https://embed.chatleap.com/Smart-UP?ref=bparlan">this link</a>, which would be greatest point to start following most valuable information sources hand-picked around internet by a science lover.
     </p>
   </div>
-</div>
-
-<div class="ttr_end">
 </div>

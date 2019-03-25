@@ -3,10 +3,13 @@ id: 137
 title: Kırıl bir başına
 date: 2007-10-16T14:58:23+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=137
 permalink: /kiril-bir-basina/
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -16,8 +19,6 @@ tags:
   - edebiyat
   - kırıl
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Aynaya suikast girişimlerimden arta kalan dişleri kırık kelimeler bunlar. Buruk bir fesleğen çiçeğinin suya hasret balkon bekleyişlerinde saklı olan aşk hasreti gibi, ki fesleğen müziği de bir o kadar efkârlıdır bu konularda ayna yankılarında.
@@ -34,6 +35,3 @@ tags:
 <p style="text-align: justify;">
   Ne zaman iki anlamsız kelime bir araya gelip bir şeyler ifade etmeyi başarsa, başarısızlığım acıtır kalbimi bu sözcük oyunlarında. Evet &#8220;kelime kadar olamadık&#8221; ama, iki aynı kelimeyken bile bu kadar anlamlı kalamadık&#8230; Hatta bir başınalığımızla aynaya baksak bile, ancak ağlamayı başardık&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

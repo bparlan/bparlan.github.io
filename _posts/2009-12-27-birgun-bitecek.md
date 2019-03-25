@@ -3,15 +3,16 @@ id: 944
 title: Birgün Bitecek
 date: 2009-12-27T12:44:31+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=944
 permalink: /birgun-bitecek/
-image: /wp-content/uploads/3009/12/birgunbitecek.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/3009/12/birgunbitecek.jpg
 categories:
   - 'Video &amp; Animasyon'
 ---
-<div class="ttr_start">
-</div>
 
 
 
@@ -25,11 +26,11 @@ Done in 2007:  old graduation project of my friend. it&#8217;s meaningles witho
 > Ve bir akşam üstünün ürperten serinliğinde, sana son mektubumda bir kez daha soruyorum, içimizdeki sonsuz çığlıklara sondurak uydunuz mu Sayın Parlan? Ya bir daha hiç uyuyamazsak? Hayatını hiç bir zaman başkaları yönlendirmemeli diyen sen değil miydin? Kendime karşı olan mücadelemde bunu başaramadım.
 > 
 > Hasta insanları iyleştirdikten sonra asarlarmış, kaybedecek daha çok şeyleri olsun diye&#8230;  
-> Kaybedecek bir şeyim yok, birkaç dosttan başka…
+> Kaybedecek bir şeyim yok, birkaç dosttan başka...
 > 
 > Hayatın bana ihtiyacı yok&#8230;
 > 
-> Bir gün bitecek dedim ve bitti dostum…
+> Bir gün bitecek dedim ve bitti dostum...
 
 Credits:  
 written & directed by  
@@ -60,6 +61,3 @@ barış parlan
 .spacialthanksto  
 ferdiye gence  
 barış parlan
-
-<div class="ttr_end">
-</div>

@@ -3,14 +3,17 @@ id: 1960
 title: 'SMART &#038; Ubuntu Server ile Harddisk Check'
 date: 2014-12-24T10:38:51+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1960
 permalink: /smart-ubuntu-server-ile-harddisk-check/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5487647082"
-image: /wp-content/uploads/2014/09/unix.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Unix | Linux
 tags:
@@ -22,8 +25,6 @@ tags:
   - ubuntu
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Elimizde 4-5 Harddisk var, bozuk mu her birisi? Ömrü ne kadar? gibi soruların cevaplarını alacağız Ubuntu Server kullanarak. Zira harddiskleriniz S.M.A.R.T. adlı teknolojiyi destekliyor ise, muazzam detaylı bilgi alabiliyoruz. Bu teknoloji, harddiskin kendi kendisinin sağlığını kontrol etmesini sağlamaktadır. Aşağıda anlatılanlar için önce kontrol etmek istediğiniz harddisk&#8217;i, bilgisayarınıza takıyorsunuz, normal ubuntu server açılıyor, yani büyük ihtimal 2. harddiskiniz &#8220;sdb&#8221; oluyor
 
@@ -64,6 +65,3 @@ _sudo smartctl -a /dev/sdb_
 
 Detaylı SMART Sonuçları için: (SATA)  
 _sudo smartctl -a -d ata /dev/sdb_
-
-<div class="ttr_end">
-</div>

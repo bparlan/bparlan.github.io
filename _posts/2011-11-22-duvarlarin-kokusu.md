@@ -3,14 +3,12 @@ id: 830
 title: Duvarların Kokusu
 date: 2011-11-22T05:57:50+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=830
 permalink: /duvarlarin-kokusu/
 categories:
   - Tapınak
 ---
-<div class="ttr_start">
-</div>
 
 Akşamüstü duvarların kokusu artardı evde  
 sütü içeri sıkıntıyı dışarı akıtmam gerekirdi  
@@ -47,6 +45,3 @@ onu cüce kendimi deve yaptım
 bu şiiri yazdım.
 
 Eylül Akıncı ~Duvarların Kokusu
-
-<div class="ttr_end">
-</div>

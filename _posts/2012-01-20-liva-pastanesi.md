@@ -3,12 +3,15 @@ id: 1227
 title: 'Liva Pastanesi &#8211; Web Sitesi'
 date: 2012-01-20T00:16:24+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1227
 permalink: /liva-pastanesi/
 dsq_thread_id:
   - "5510663097"
-image: /wp-content/uploads/2012/01/011.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/011.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - tasarım
   - web sitesi
 ---
-<div class="ttr_start">
-</div>
 
 Liva Pastanesi, Mağusa&#8217;nın önde gelen pastane şirketinin internet üzerinden ürün sergileme ve kurumsal tanıtımını yerine getirme amacı ile geliştirilmiş, bütünü ile Adobe Flash, ActionScript2 ve MySQL kullanılarak hazırlanmış bir sitedir. Sitenin tamamı müşterinin kendisine ait panelden kontrolüne sunulmuştur, bu sistemin çalışması için gerekli MySQL komutları, ActionScript ve PHP işbirliği ile Flash içerisine aktarılmıştır. Flash kullanımının getirdiği avantaj ile site baştan sona animasyonlu ve yumuşak bir akış içerisinde ziyaret edilebilmektedir.
 
@@ -108,6 +109,3 @@ Liva Pastanesi, Mağusa&#8217;nın önde gelen pastane şirketinin internet üze
 &nbsp;
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 169
 title: 'Virgül &#8211; Cümlede Dört Eylem I'
 date: 2008-07-27T13:47:23+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=169
 permalink: /virgul-cumlede-dort-eylem-i/
 dsq_thread_id:
   - "5631561382"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -19,11 +22,9 @@ tags:
   - virgül
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p class="MsoNormal" style="text-align: center;">
-  <em>Kanayan bileklere ithaf olunur…</em>
+  <em>Kanayan bileklere ithaf olunur...</em>
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">
@@ -31,11 +32,11 @@ format: image
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">
-  <em>“İçim sığ olmadığı için belki de taşamıyor göz pınarlarımdan yaşlar” </em>cümlemizi pek çok psikolog not almıştır ancak hiç birimizin kalbindeki kraterler belediye çukurları gibi yapmacık maddelerle doldurulamamıştır. İlk yağmurda ortaya çıkıverir ruhumuzun pürüzü. Uçurum bakışlı gözlerimiz dalar gider sarı yapraklı endamına son baharın ilk yağmurunda… Yalnızlığımızı birilerine mâl etmeye çalışmayız asla, ilk tercihten kazanmışızdır zaten bu yegâne dostumuzu ve bunu hep son şık ( e- Hiç biri) olarak görenler alışmıştır bizi son’larda görmeye. Gözlerimizi zamana yatırır, sevdiğimizi ıraklarda ararız, beklemek bizim arama eylemimizin en fırtınalı hâlidir. Beklenen nasıl bir cinayet işlediğini hiç bir zaman anlayamaz gecelerin o soğuğunda bizlere göre, misâl Sonsuzluk içimizdeki en yalancı, en eli bıçaklı olanıdır. O kristal bardakların kırılan en keskin parçalarıyızdır, sevilmelerimiz bir hata sonucudur çoğu zaman, tıpkı kırılmalarımız gibi. İnadına, kanamak pahasına sevenleri vardır kimimizin geçmişinde, kan kaybından kaybolmuş olan… Biz de onları sevmişizdir elbette. Ancak söylemiş miydim? Sevebildiğimiz şeylerin bütünü kayıptır, kaybolmak için bizim sevmemizi mi beklemişlerdir bilinmez elbet…
+  <em>“İçim sığ olmadığı için belki de taşamıyor göz pınarlarımdan yaşlar” </em>cümlemizi pek çok psikolog not almıştır ancak hiç birimizin kalbindeki kraterler belediye çukurları gibi yapmacık maddelerle doldurulamamıştır. İlk yağmurda ortaya çıkıverir ruhumuzun pürüzü. Uçurum bakışlı gözlerimiz dalar gider sarı yapraklı endamına son baharın ilk yağmurunda... Yalnızlığımızı birilerine mâl etmeye çalışmayız asla, ilk tercihten kazanmışızdır zaten bu yegâne dostumuzu ve bunu hep son şık ( e- Hiç biri) olarak görenler alışmıştır bizi son’larda görmeye. Gözlerimizi zamana yatırır, sevdiğimizi ıraklarda ararız, beklemek bizim arama eylemimizin en fırtınalı hâlidir. Beklenen nasıl bir cinayet işlediğini hiç bir zaman anlayamaz gecelerin o soğuğunda bizlere göre, misâl Sonsuzluk içimizdeki en yalancı, en eli bıçaklı olanıdır. O kristal bardakların kırılan en keskin parçalarıyızdır, sevilmelerimiz bir hata sonucudur çoğu zaman, tıpkı kırılmalarımız gibi. İnadına, kanamak pahasına sevenleri vardır kimimizin geçmişinde, kan kaybından kaybolmuş olan... Biz de onları sevmişizdir elbette. Ancak söylemiş miydim? Sevebildiğimiz şeylerin bütünü kayıptır, kaybolmak için bizim sevmemizi mi beklemişlerdir bilinmez elbet...
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">
-  Bizler birilerine el sallarken giden ile kalan arasında hiç bir fark olmadığını bilenlerizdir. Giden tam gitmeyi becermişse kalan zaten huzurla sıfır oluverir ancak ne giden yeterince becerikli değildir ne de kalan sırtındaki virgülden sonrakilerle mutlu kalamaz. <em>Bizler için ayrılık sadece bir virgüldür. </em>Ve biliriz ki ondan sonrası öncesinden her daim çok daha uzun ceryan eder. Bu yüzden ayrılırken söylenecek sözlerin pek önemi yoktur dudaklarımızda, yarın görüşecekmiş gibi el sallarız birbirimize. Aşk cinayeti daha işlenmediğinden ve bunu tartışmak için bolca zamanımız olduğunu hissettiğimizden suçlu aramayız, itelemeyiz kızıl günâhları birbirimize o anda. Buruk gülümseme ile tadını çıkartarak ufak bir virgül koymayı, korkmadan, adamakıllı yaparız nice havalimanlarında, otogarlarda, tren istasyonlarında… Birbirimizin gözlerinin içine bakarak nokta koymayı beceremediğimizden dolayı havalimanları, otogarlar, tren istasyonları bizler için virgül konulacak durak’lar olmuşlardır.
+  Bizler birilerine el sallarken giden ile kalan arasında hiç bir fark olmadığını bilenlerizdir. Giden tam gitmeyi becermişse kalan zaten huzurla sıfır oluverir ancak ne giden yeterince becerikli değildir ne de kalan sırtındaki virgülden sonrakilerle mutlu kalamaz. <em>Bizler için ayrılık sadece bir virgüldür. </em>Ve biliriz ki ondan sonrası öncesinden her daim çok daha uzun ceryan eder. Bu yüzden ayrılırken söylenecek sözlerin pek önemi yoktur dudaklarımızda, yarın görüşecekmiş gibi el sallarız birbirimize. Aşk cinayeti daha işlenmediğinden ve bunu tartışmak için bolca zamanımız olduğunu hissettiğimizden suçlu aramayız, itelemeyiz kızıl günâhları birbirimize o anda. Buruk gülümseme ile tadını çıkartarak ufak bir virgül koymayı, korkmadan, adamakıllı yaparız nice havalimanlarında, otogarlarda, tren istasyonlarında... Birbirimizin gözlerinin içine bakarak nokta koymayı beceremediğimizden dolayı havalimanları, otogarlar, tren istasyonları bizler için virgül konulacak durak’lar olmuşlardır.
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">

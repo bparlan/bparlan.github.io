@@ -3,12 +3,15 @@ id: 56
 title: Annem be, ben çok sıkıldım
 date: 2007-07-13T16:45:07+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=56
 permalink: /annem-be-ben-cok-sikildim/
 dsq_thread_id:
   - "5623940570"
-image: /wp-content/uploads/2007/07/575560_649593798399587_307325099_n-e1424073863190.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2007/07/575560_649593798399587_307325099_n-e1424073863190.jpg
 categories:
   - Blog
   - Yazılarım
@@ -19,8 +22,6 @@ tags:
   - edebiyat
   - hayat
 ---
-<div class="ttr_start">
-</div>
 
 > Ben çok sıkıldım bu şehirden&#8230;  
 > Babamın hayallerinden,  
@@ -48,6 +49,3 @@ tags:
 
 Anlatamadım belki, ama inan denedim be Anne, çok sıkıldım hem&#8230;  
 Benim çok acele terk-î diyâr eylemem lazım&#8230;
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 1278
 title: Profix Web Sitesi Tasarımı
 date: 2012-03-05T14:01:30+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1278
 permalink: /profix-web-sitesi-tasarimi/
 dsq_thread_id:
   - "6006893119"
-image: /wp-content/uploads/2012/03/Profix-Web-Site-3.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/Profix-Web-Site-3.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web site
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Profix Sanayi Tipi Su Arıtma ve Aktiviye Sistemleri hizmeti sunan şirketin online internet kimliği sunumu, ayrıca Ürün ve Hizmet Tanıtımları için hazırlanan HTML &#8211; PHP &#8211; CSS temelli bir web sitesidir. Sitenin tamamı Mevcut CSS HTML taslaklarının üzerine kodlama ve görsel düzenlemeler ile yapılmıştır. Resimler Google&#8217;dan alınmıştır. Her ne kadar bu tarz çalışmalar gurur ile gösterilecek çalışmalar olmasa da, yapım tarihi ve şartları gereğince &#8220;hızlı bir toplama&#8221; olarak adlandırabileceğimiz sitenin portfolyo olarak sunulmasının tek sebebi, sitenin tamamının 6 saat gibi kısa bir sürede üretilmiş olmasıdır. Renk harmonisi tutturabilmenin başarılı olduğu bir çalışma olarak kayıtlara geçsin istedim&#8230;
 
@@ -140,7 +141,4 @@ Ulaşım Adresleri:
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

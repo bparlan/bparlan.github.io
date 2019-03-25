@@ -3,12 +3,15 @@ id: 854
 title: Sahibini Arayan Mektuplar
 date: 2011-11-22T06:02:57+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=854
 permalink: /sahibini-arayan-mektuplar/
 dsq_thread_id:
   - "5479484894"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Tapınak
 tags:
@@ -18,8 +21,6 @@ tags:
   - sahibini arayan mektuplar
   - ümit oğuzcan
 ---
-<div class="ttr_start">
-</div>
 
 ### Birinci Mektup
 
@@ -536,6 +537,3 @@ Seni bensizliğe ve kendimi sana mahkûm ediyorum.
 İstanbul, Haziran &#8211; Eylül 1962
 
 Ümit Yaşar Oğuzcan ~Sahibini Arayan Mektuplar
-
-<div class="ttr_end">
-</div>

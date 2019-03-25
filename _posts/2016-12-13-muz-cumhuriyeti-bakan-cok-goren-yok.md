@@ -3,12 +3,15 @@ id: 3205
 title: 'Muz Cumhuriyeti: Bakan çok, Gören yok.'
 date: 2016-12-13T22:21:13+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3205
 permalink: /muz-cumhuriyeti-bakan-cok-goren-yok/
 dsq_thread_id:
   - "5494328612"
-image: /wp-content/uploads/2016/12/muz-cumhuriyeti.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/12/muz-cumhuriyeti.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -20,8 +23,6 @@ tags:
   - yasa
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 _Muz Cumhuriyeti, kendi olay kurgularımı yazıp düşünce yetimi geliştirme çabamın sonucu uydurduğum hayali bir yerdir. Bu yazı Kanada hükümetini ve bakan listesini örneklemekte ve Muz Cumhuriyetine dair saptamalar / çözümlemeler üretmektedir. Dünya üzerindeki hiç bir legal / illegal devleti hedef almamaktadır. Benzerlikler tamamen rastlantısaldır._
 
@@ -79,6 +80,3 @@ Benim özet listem:
 Aslında bir yıl bile sürmeyecek reformsal uygulamalar ile elde edilebilecek güzel bir yaşamı bile &#8220;imkansız&#8221; olarak görüyor olan, şu yukarıdaki satırları bile &#8220;fütüristik&#8221; bulan her birey, sistemin tam istediği şekilde düşünüyor demektir. Ama asla unutulmamalıdır ki değişmeyen tek şey değişimdir, ve tarih dünyanın düz olduğunu iddia edenlerden ne kadar utanıyorsa, gelecekte de bugünki problemlere _&#8220;bakan&#8221;_ kitleden de o kadar utanacaktır.
 
 _Not: Yazının başlığında kullanılan görsel, Hitler döneminde bir açılışta nazi selamı vermeyen tek kişi olarak ünlenen [August Landmesser](https://tr.wikipedia.org/wiki/August_Landmesser)&#8216;in fotoğrafı olarak bilinmektedir._
-
-<div class="ttr_end">
-</div>

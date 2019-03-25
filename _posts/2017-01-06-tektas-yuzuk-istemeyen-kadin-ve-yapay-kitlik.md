@@ -3,12 +3,15 @@ id: 3164
 title: Tektaş Yüzük İstemeyen Kadın ve Yapay Kıtlık
 date: 2017-01-06T11:48:55+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3164
 permalink: /tektas-yuzuk-istemeyen-kadin-ve-yapay-kitlik/
 dsq_thread_id:
   - "5499445747"
-image: /wp-content/uploads/2017/01/tektas.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/01/tektas.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - yapay kıtlık
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Buldum ve evlendim o tektaş yüzük istemeyen kadın ile. Tektaş öte dursun, gelinliğini arkadaşından ödünç aldı, düğün günü saçına kendisi fön çekti ve yeter dedi (yetti de), makyajını kendisi yaptı, bir tek siyah eldiven istedi ekstradan, onu da 15 tl&#8217;ye aldık çarşıdan. Bütün bunlara para harcamayı saçmalığın dibi olarak görme yetisi, sosyologluğundan ve zihinsel kapasitesinin muhteşemliğinden geliyor. Soracaksınız &#8220;madem öyle neden düğün yaptınız hiç yapmayaydınız&#8221;, biz de öyle diyorduk, ama işte bir anne ricasıdır ki kırmayalım dedik&#8230; Masrafsız ve içtenlice bir güzellikle atlattık o olayları.
 
@@ -45,6 +46,3 @@ _gelen mesajlar üzerine ekleme not: hayır baldız yok. ve paylaşımlar için 
 <p style="padding-left: 30px;">
   <em>instela sözlük bünyesinde yer alan &#8220;<a href="https://tr.instela.com/tektas-yuzuk-istemeyen-kadin--158378">tektaş yüzük istemeyen kadın</a>&#8221; adlı başlığa yazdığım yazının gelişmiş halidir. <a href="https://tr.instela.com/tektas-yuzuk-istemeyen-kadin---15862295">Orjinali</a> 1500 küsur defa paylaşılmış, web sitemde de bir kaydı dursun istedim. Vesile ile, instela davetiyesi isteyenler seslenebilir efendim. Son olarak, &#8220;Buldum ve evlendim o kadınla&#8221; ifadesi kadını metalaştırmak için değildir, femin konular değerlidir.</em>
 </p>
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 3174
 title: 4600 intihar bombası saldırısını incelemek
 date: 2016-11-28T21:34:13+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3174
 permalink: /4600-intihar-bombasi-saldirisi/
 dsq_thread_id:
   - "5586474423"
-image: /wp-content/uploads/2016/11/4600-intihar-bombasi-saldirisi.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/11/4600-intihar-bombasi-saldirisi.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - terör
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 4600 intihar bombası saldırısını incelemek Chicago Üniversitesinde, Chicago Güvenlik ve Terörizm Projesi&#8217;ni kuran profesör [Robert Pape](https://en.wikipedia.org/wiki/Robert_Pape "robert pape"){.bkz.ajax.ajax-binded} adlı politik bilim insanının yapmış olduğu girişimdir. 1980&#8217;den 2016&#8217;ya kadar dünyada gerçekleşmiş 4600 intihar bombası saldırısını alıp araştırıyor ve tek tek inceliyor. Sonuç olarak diyor ki: _&#8220;intihar bombası saldırılarının %95&#8217;inin ortak noktası din değildir, &#8216;askeri müdahaleye tepki olarak yapılmış stratejik hareket&#8217; olmalarıdır.&#8221;_ Bu ifadenin her iki bölümü de çok önemlidir, zira tarih boyu olduğu gibi günümüzde de savaşlarda &#8220;kazanan&#8221; tek taraf &#8220;silah üreticileri&#8221; olmuştur. İnsanlar ise hiç bir &#8220;savaş&#8221; konseptinde bu şirketlere dair haberler duymazlar. Bu araştırma sonucu söylenen cümlenin ilk kısmı, Din&#8217;in suçlu algılanması için sarf edilen çabanın göstergesidir. İkinci kısmı ise Din&#8217;i alet edip güdümleyenlere dairdir&#8230; Benim için önemli olan ise, bu gerçeği görmek ve hakkında konuşabilmek için bir dine inanmaya gerek yoktur.
 
@@ -39,6 +40,3 @@ Kontrol edilemiyen _&#8220;terörizm&#8221;_, zenginlere de zarar verebildiği i
 Araştırmanın konu alındığı haber kaynağı: [Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives](https://www.thenation.com/article/heres-what-a-man-who-studied-every-suicide-attack-in-the-world-says-about-isiss-motives/)
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

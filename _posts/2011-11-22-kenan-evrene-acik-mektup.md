@@ -3,14 +3,12 @@ id: 842
 title: 'Kenan Evren&#8217;e Açık Mektup'
 date: 2011-11-22T06:00:13+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=842
 permalink: /kenan-evrene-acik-mektup/
 categories:
   - Tapınak
 ---
-<div class="ttr_start">
-</div>
 
 Sayın Kenan Bey,
 
@@ -37,6 +35,3 @@ Shakira nasıl, biz hastasıyız.
 Hürmetler.
 
 Küçük İskender ~Kenan Evren&#8217;e Açık Mektup
-
-<div class="ttr_end">
-</div>

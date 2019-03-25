@@ -3,14 +3,17 @@ id: 3521
 title: 'CryptoCurrency: Ripple, Litecoin, IOTA, Monero, Golem'
 date: 2017-06-21T04:35:51+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3521
 permalink: /cryptocurrency-ripple-litecoin-iota-monero-golem/
 dsq_thread_id:
   - "5928855607"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2017/06/CryptoCurrency.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/06/CryptoCurrency.jpg
 categories:
   - Bilişim
 tags:
@@ -22,8 +25,6 @@ tags:
   - ripple
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Dijital para, sanal para, sayısal para, kripto para olarak türkçeye çevrilen Cryptocurrency terimi, ilk olarak Bitcoin ile başlayıp günümüzde binlerce çeşide ulaşmış, hiç bir devlet &#8211; kurum veya kuruluşa bağlı olmadan bireylerin kendi bilgisayarlarının ve kollektivitenin gücünü kullanarak bugünlere getirdikleri takas edilebilir ekonomik değer birimlerinin bütününe verilen isimdir.
 
@@ -90,6 +91,3 @@ Ve sıra geldi benim için en heyecan verici projeye: Golem. 2016 Kasımında g�
 Not: <a href="http://www.bparlan.com/bitcoin-ve-kriptopara-alim-satim-rehberi/" target="_blank" rel="noopener">Bitcoin ve Kriptopara Alım Satım Rehberi</a> adlı yazıma da göz atmak isteyebilirsiniz.
 
 _Rica: eğer yazıyı faydalı bulduysanız, lütfen paylaşınız._
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 134
 title: Gerisi İnleyen Nameler
 date: 2007-10-12T16:10:18+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=134
 permalink: /gerisi-inleyen-nameler/
 dsq_thread_id:
   - "6070730544"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - inleyen
   - nameler
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Koca bir soru işareti, öğertmenler hep cevabını bildikleri soruları sorardılar. Bu sefer soran öğretemiyor, cevabını kendisi de yazamıyor. Yazamaması yaşamadığı anlamına gelmiyor, lâkin aynı anda başladı bu dert. Gülümsemek, dudaklardaki açı, kalpteki acı&#8230; Hadi anlat bana masalcı&#8230;
@@ -53,6 +54,3 @@ sıfat (riya:kâ:rı) Arapça riy¥ + Farsça -k¥r**
 **Okunak:**  
 [Hayal Akademisi](http://www.hayalakademisi.net/)  
 [Zemsiz &#8211; Sana Boğuluyor Kimsesizliğim](http://zemsiz.deviantart.com/art/Sana-Boguluyor-Kimsesizligim-44439192)
-
-<div class="ttr_end">
-</div>

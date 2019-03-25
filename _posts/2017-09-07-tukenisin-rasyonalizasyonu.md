@@ -3,7 +3,7 @@ id: 3686
 title: Tükenişin Rasyonalizasyonu ve Doğal Afetler
 date: 2017-09-07T17:14:09+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3686
 permalink: /tukenisin-rasyonalizasyonu/
 wp_featherlight_disable:
@@ -16,7 +16,10 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6126492322"
-image: /wp-content/uploads/2017/09/hurricane__blender_3d__by_tomwalks-d5gur1a.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/09/hurricane__blender_3d__by_tomwalks-d5gur1a.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -29,8 +32,6 @@ tags:
   - tükeniş
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Günümüz akşam haberlerinde sıradanlaşmaya başlayan doğal afetlerin benim için ne anlama geldiğini anlatmaya çalıştım. Bütün bu çaba, Kıvanç Giritli adlı arkadaşımın yaptığı paylaşıma katıldığımı ifade etmek ile başladı, gerisi kendiliğinden aktı.
 
@@ -60,13 +61,8 @@ Son olarak düşünmeniz için küçük bir soru işareti ile bitirmek istiyorum
   </p>
 </blockquote>
 
-
-
 **Not:** İlgisini çekenler için, bugünlere ve biraz daha geleceğe dair yayımladığım <a href="https://www.youtube.com/watch?v=LPB6Qv4QMdI" target="_blank" rel="noopener">Holocene Extinction</a> videosu konuya bilimsel verilerle yaklaşmakta.
 
-https://www.youtube.com/watch?v=LPB6Qv4QMdI
+<div>{%- include extensions/youtube.html id='LPB6Qv4QMdI' -%}</div>
 
 Image: <a href="https://tomwalks.deviantart.com/art/Hurricane-Blender-3D-330639454" target="_blank" rel="noopener">Hurricane by Tom Walks</a>
-
-<div class="ttr_end">
-</div>

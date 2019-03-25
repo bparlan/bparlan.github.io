@@ -3,12 +3,15 @@ id: 3288
 title: 'Unutulmayacak Bir Gece &#8211; Witcher Öyküsü'
 date: 2017-01-08T10:49:20+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3288
 permalink: /unutulmayacak-bir-gece-witcher-oykusu/
 dsq_thread_id:
   - "5496418099"
-image: /wp-content/uploads/2017/01/2017-01-08-unutulmayacak-bir-gece.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/01/2017-01-08-unutulmayacak-bir-gece.jpg
 categories:
   - Bilişim
   - Oyunlar
@@ -20,8 +23,6 @@ tags:
   - witcher
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bu yazı, Witcher adlı bilgisayar oyunu tanıtımı için yayımlanan _&#8220;Unutulmayacak Bir Gece&#8221;_ adlı videonun konusuna dair yazdığım bir anlatıdır. Oyunu oynamayan (ve hatta oynayan) pek çok kişinin gözden kaçırması muhtemel hikayeyi öyküsel değeri sebebi ile açıklama ihtiyacı hissettim. Yazıyı okuduktan sonra seyredebilmeniz için video vs. aşağıda mevcuttur. **Witcher**, canavar avlaması için kiralanan kişilere verilen addır. Kişinin witcher okulunda zihinsel, fiziksel ve mistik rütel konularında kapsamlı eğitime tabi tutulması gereklidir. **Geralt**, oyun içerisinde kararlarına ve davranışlarına yön verdiğimiz ana karakterimiz, bir witcher&#8217;dır.
 
@@ -81,6 +82,3 @@ Müziğin adını &#8220;Kederin Ninnisi&#8221; olarak çevirmeyi uygun gördüm
 _Teknik not: Kulübeye girerken içtiği Kara Kan iksiri, oyun içerisinde üç ölçek vitrol ve bir ölçek rebis&#8217;in ether&#8217;de karıştırılması ile elde edilir. Bütün aksiyon detayları oyun içi kuralları bünyesinde ceryan etmektedir._
 
 _Teknik ve duygusal karışık not: Bilgisayarımın özellikleri oyunu hak ettiği akıcılıkta / kalitede oynamaya yetmediği için, Lore tadında öykülerini okuyorum, izliyor ve takip ediyorum oynamaktan ziyade. Bu sebepten hatalı bir anlatımım olduysa affola._
-
-<div class="ttr_end">
-</div>

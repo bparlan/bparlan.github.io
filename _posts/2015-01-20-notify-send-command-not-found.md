@@ -3,12 +3,15 @@ id: 1984
 title: 'notify-send: command not found'
 date: 2015-01-20T09:37:30+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1984
 permalink: /notify-send-command-not-found/
 dsq_thread_id:
   - "5583530916"
-image: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
 categories:
   - Unix | Linux
 tags:
@@ -19,8 +22,6 @@ tags:
   - ubuntu
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 _Ubuntu Server 14_&#8216;ümüze Wifi AP Hotspot sistemi kurduğumdan beri şöyle bir sıkıntı yaşıyordum, sistem açıldıktan sonra kendi kendisine Hotspot&#8217;u başlattığından dolayı ekrana şu mesaj geliyor:
 
@@ -34,6 +35,3 @@ ve sonrasında bu mesaj gün boyu tekrar tekrar ekrana çıkıyordu. Bu, termina
 `sudo apt-get install libnotify-bin`
 
 yani bilgisayarın notify-send komutunu kullanabilmesini sağlıyoruz. Bize açılınca wireless active ulan diyor, ve bitiyor. tty1&#8217;i de problemsiz bir şekilde kullanabiliyoruz.
-
-<div class="ttr_end">
-</div>

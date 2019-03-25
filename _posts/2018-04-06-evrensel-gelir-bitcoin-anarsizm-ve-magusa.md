@@ -3,12 +3,15 @@ id: 3853
 title: Evrensel Gelir, Bitcoin, Anarşizm, ve Mağusa
 date: 2018-04-06T18:22:09+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3853
 permalink: /evrensel-gelir-bitcoin-anarsizm-ve-magusa/
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2018/04/Blog-Cover.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2018/04/Blog-Cover.jpg
 categories:
   - Blog
 tags:
@@ -20,8 +23,6 @@ tags:
   - universal basic income
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bugün değerli bir iş arkadaşım ile cryptocurrency&#8217;nin currency olmayan teknolojik yeniliklerinin dünya düzenine katması muhtemel sosyolojik değişimlere dair sohbet ettik. Sohbetin bir noktasında konu <a href="https://en.wikipedia.org/wiki/Basic_income" target="_blank" rel="noopener">Universal Basic Income</a>&#8216;a (kısaca UBI) geldi. Evrensel Asgari Gelir olarak çevirebileceğimiz bu yapı, her bir bireyin herhangi bir işe gitmeden belirlenen bir miktarda aylık ödeme alması, ve bu ödeme sayesind ev kirası, karnını doyurmak gibi temel ihtiyaçlarını gidermesi, bu süreç içerisinde eğer çalışır ise yapacağı kazancın kendisine ekstra gelir olarak yansımasıdır. Sanayi devrimi ve sonrasında gelen teknolojik devrim toplumlara kaçınılmaz bir işsizlik olarak yanısmış durumdadır. Kaçınılmaz şekilde kapımızı çalan Artificial Intelligence ve Machine Learning konuları, tarigte eşi görülmemiş şiddette bir işsizliğin habercisi olmakta. İşte bu öngörülen işsizlik anında mevcut 8 milyar insanın yaşama devam edebilmesi için mezarından geri çıkan bir konudur UBI. Kendisine UBI konusunun günümüzde nasıl bir artış içerisinde olduğunu ifade etmek için Google Trends&#8217;de sözkonusu kelimeyi arayarak şu grafiği gösterdim:
 
@@ -89,6 +90,3 @@ Son olarak global konuları bir kenara bırakıp benim için değerli bir lokal 
 
 
 Twitter&#8217;dan mesaj attığınızda cevap yazan, kişisel olarak blog paylaşımları yapan, belediyecilik vaadleri siyasi rant yerine buram buram _insani hizmet_ kokan Ulaş Gökçe&#8217;nin yarınki **&#8220;Cümbezin altında buluşuyoruz&#8221;** etkinliğine şu ufacık şehirde insan yerine konmayı özlemiş bütün dostları davet etmeyi bir borç bilirim.
-
-<div class="ttr_end">
-</div>

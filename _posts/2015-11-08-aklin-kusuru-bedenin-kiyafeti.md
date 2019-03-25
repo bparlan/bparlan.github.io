@@ -3,12 +3,15 @@ id: 2608
 title: Aklın Kusuru, Bedenin Kıyafeti
 date: 2015-11-08T11:32:46+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2608
 permalink: /aklin-kusuru-bedenin-kiyafeti/
 dsq_thread_id:
   - "5518078285"
-image: /wp-content/uploads/2015/11/AkilBedenKiyafet.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/11/AkilBedenKiyafet.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - sistem
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Milattan önce 776 yılında Antik Yunan topraklarında düzenlenerek başlayan ve bugün bütün dünyaya hitab eden 2700 yıllık olimpiyat geleneğinde atletler kıyafet giymezler, çıplak bir şekilde yarışırlardı. Zira o zamanlar atletlerin bedeni **&#8220;kusursuzluk&#8221;** sembolü olduğu için her hangi bir kumaş parçası ile kapatılması gereksiz bir durumdu. Günümüzde bütün günahların ve utançların insana &#8220;bir yaprak ile&#8221; aşılanmaya başladığını düşündüğümden dolayı ne zaman çıplak bir şekilde yaşamlarını sürdüren insanların fotoğraflarını görsem içim gider. Zira insan beyni nasıl bir sistemde nasıl bir manipülasyona uğramaktadır ki, her bir insan doğadaki istisnasız bütün canlılar gibi çırıl çıplak doğmakta, ama çıplaklık &#8220;aykırı&#8221; ve hatta &#8220;yasak&#8221; & &#8220;ayıp&#8221;, kıyafetler ise &#8220;doğal&#8221; algılanmaktadır.
 
@@ -47,6 +48,3 @@ Bir ütopya kurgusu olarak bedenlerimiz ile barışık olduğumuz ve norm çerç
 <img class="alignleft wp-image-2610 size-medium" src="https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/pic-adam-and-eve-overdressed.jpg?resize=300%2C274" alt="Adem ve Havva" width="300" height="274" srcset="https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/pic-adam-and-eve-overdressed.jpg?resize=300%2C274 300w, https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/pic-adam-and-eve-overdressed.jpg?w=444 444w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /> 
 
 Bir adım ileriye gitmek istiyorum; kıyafetler ile örtünme ihtiyacı hissetmediğimiz bir dünyada &#8220;bedenlerimize&#8221; çok çok daha özenli ve iyi bakmaya eğilimli bireyler olacağımızı, bu yüzden davranışlarımızın ve tercihlerimizin bedenimiz üzerinde _&#8220;zararı var mı?&#8221;_ şeklinde bir düşünce ile yaptığımız pek çok kararı geride bırakıp _&#8220;bedenimize yararı var mı?&#8221;_ sorgusu ile hareket ederek daha çok faydalı &#8211; sağlıklı davranış &#8211; yaşam biçimlerine öncelik vereceğimiz konusunda eminim. Zira en primitif formu ile bizler sosyal yapımızın değil &#8220;doğanın&#8221; bireyleri ve çocuklarıyız öncelikle, doğa ve ona dair olan her şey &#8220;utanılacak&#8221; bir şey obje değil, ruhlarımızı taşıyan ve salt bir şekilde kimliklerimizin parçası olan bedenlerimiz bütün değer yargılarımızda benliğimizin bir parçası olarak görülmeli &#8211; düşünülmeli ve algılanmalıdır. _&#8220;Bir yaprak ile başladığı&#8221;_ karikatürize edilen **&#8220;kendi bedenimizden duyduğumuz utanç&#8221;** sembolü kıyafetlerin &#8220;yapay&#8221; olduğunu, çıplaklığımızın doğal ve gerçekliğin bir parçası (doğamızın ve gerçekliğimizin parçası) olduğunu her daim anımsamak, insanlık olarak bugün hayatlarımızda yer kaplayan kıyafet konseptinin eleştirel düşüncesinin sonucu, aynı zamanda diğer pek çok olgunun da eleştirildiğinde altından neler çıkabileceğine dair önemli bir örnek olarak karşımızda durmaktadır.
-
-<div class="ttr_end">
-</div>

@@ -3,10 +3,13 @@ id: 906
 title: Huawei Ideos X5 İnceleme
 date: 2012-03-24T09:42:26+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=906
 permalink: /huawei-ideos-x5-inceleme/
-image: /wp-content/uploads/2011/11/huawei.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/huawei.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -18,8 +21,6 @@ tags:
   - x5
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <a title="GSM Arena - Huawei Ideos X5" href="http://www.gsmarena.com/huawei_u8800_ideos_x5-3596.php" target="_blank">Huawei Ideos X5</a>, Kendisi an itibari ile 6 aydır kullanmakta olduğum cep telefonum, <a title="Android" href="http://www.android.com/" target="_blank">android</a>&#8216;im. Aşağıdaki görsel telefonumda yüklü uygulamaların listesi. Kendi yaptığım oyunun telefonumda olması ayrı bir güzellik öncelikle belirtmeliyim. App&#8217;lardan 2-3 tanesini kullanmıyorum pek, ama genel olarak gerekliler listesini de katarsak bu app&#8217;ların hiç birisnde hiç bir poblem yaşamıyorum. Kendi yaptığımız oyun <a title="We Fall - Game for GGJ 2012" href="http://globalgamejam.org/2012/we-fall" target="_blank">We Fall</a> ve online kart oyunu <a title="Shadow Era - TCG" href="http://www.shadowera.com/" target="_blank">Shadow Era</a> market&#8217;ten indirmedim diye listede yoklar, gayet güzel çalışmaktalar. Hatta We Fall&#8217;daki glow effect <a title="iPhone" href="http://www.apple.com/iphone/" target="_blank">iPhone</a>&#8216;un HD ekranında nasıl bir gariplikse bizim ideos x5 ile kıyaslanınca çok çok kötü kalmakta.
 
@@ -50,6 +51,3 @@ Durum budur&#8230; Tavsiye eder miyim? Şiddetle&#8230;
 #### Önemli Güncelleme Bilgisi
 
 Huawei her ne kadar şirket olarak bu telefona Android güncellemesi sunmamış olsa da, XDA forumlarında bu telefonun nasıl Android KitKat 4.4 versiyonuna çıkarılacağı açıklanmıştır. Orada anlatılanları, ve daha bir çok kaynağı inceleyip kendimce bir yolla deneme yaptım, ve bu denemem başarılı oldu. Sonuç olarak Telefonumu 5 yaşında olmasına rağmen halen daha verimli bir şekilde kullanabilmekteyim. Eğer yorum yazılır, &#8220;anlat&#8221; denirse, o işlemleri de bir makale yapabilirim&#8230;
-
-<div class="ttr_end">
-</div>

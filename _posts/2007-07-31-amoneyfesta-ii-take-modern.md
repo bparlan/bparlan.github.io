@@ -3,12 +3,15 @@ id: 93
 title: 'Amoneyfesta II &#8211; Take Modern'
 date: 2007-07-31T08:04:43+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=93
 permalink: /amoneyfesta-ii-take-modern/
 dsq_thread_id:
   - "5566468957"
-image: /wp-content/uploads/2007/07/AMONEYFESTAII-e1424504059540.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2007/07/AMONEYFESTAII-e1424504059540.jpg
 categories:
   - Blog
 tags:
@@ -19,8 +22,6 @@ tags:
   - kktc
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p align="left">
   <a title="Amoneyfesta @ Hi5" href="http://amoneyfesta.hi5.com/" target="_blank">&#8220;-Bu ada yapmak istediklerimizi kaldırır mı?</a>
@@ -83,6 +84,3 @@ Deniz kıyısında düş kurmaya gidiyorum izninizle&#8230;
 
 Barış Parlan  
 31/07/2007
-
-<div class="ttr_end">
-</div>

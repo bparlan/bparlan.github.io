@@ -3,14 +3,17 @@ id: 2414
 title: 'LoreKeeper &#8211; Zenginlik Hikayede Saklıdır'
 date: 2015-03-07T15:11:45+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2414
 permalink: /lorekeeper-zenginlik-hikayede-saklidir/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5479874752"
-image: /wp-content/uploads/2015/03/lorekeeper-banner.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/03/lorekeeper-banner.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -21,8 +24,6 @@ tags:
   - site
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <a title="LoreKeeper.Net" href="http://lorekeeper.net/" target="_blank">LoreKeeper.net</a> adında bir web sitesi açılmış, siteyi tanıtmak çok basit, bilgisayar oyunlarının &#8220;konu&#8221; &#8211; &#8220;hikaye&#8221; bazında olay örgüleri anlatılıyor, kâh masalsı, kâh anı gibi&#8230; Ancak bazılarınızın bildiği gibi, konu hikâye olunca, hakkında biraz daha konuşmak gerekir&#8230; Çünkü zenginlik hikayede saklıdır.
 
@@ -67,6 +68,3 @@ Facebook: <a title="Lorekeeper Facebook Page" href="https://www.facebook.com/lor
 </blockquote>
 
 
-
-<div class="ttr_end">
-</div>

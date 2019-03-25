@@ -3,12 +3,15 @@ id: 1739
 title: 'Nexus Font &#8211; Yazı Tipi Yönetimi'
 date: 2012-05-29T15:41:45+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1739
 permalink: /nexus-font-yazi-tipi-yonetimi/
 dsq_thread_id:
   - "5488559659"
-image: /wp-content/uploads/2012/05/wordle2.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/05/wordle2.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -20,8 +23,6 @@ tags:
   - yönetim
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <a title="Xiles" href="http://www.xiles.net/" target="_blank">Xiles</a> [http://www.xiles.net/] adlı şirketin sunduğu pek çok muazzam ve ücretsiz üründen birisi olan <a title="Nexus Font" href="http://www.xiles.net/nexusfont" target="_blank">Nexus Font</a> [http://www.xiles.net/nexusfont] Yazı Tipi yönetimi konusunda şimdiye kadar ciddi şekilde Corel Draw kullanan hemen herkesin bildiği, sevdiği, kullandığı, ancak kullanmayanların hayatında farkında olmadıkları için eksikliğini hissetmedikleri bir problemin gelmiş geçmiş kullandığım en iyi çözümü. Onca zamandır artıları ile eksileri ile pek çok yazılım geliştirilmesine rağmen, pek çok başarılı özelliğin bir arada olduğu tek bir poblem yoktu ki, Nexus Font ile karşılaştım. Bilen bilir severim böyle yazılımları orjinal kullanmayı, sonra bir baktım ki, Freeware! Saygı ile önlerinde eğiliyor, ve programın ne işe yaradığını kısaca tarif ediyoruz:
 

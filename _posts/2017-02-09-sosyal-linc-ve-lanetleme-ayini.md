@@ -3,12 +3,15 @@ id: 3358
 title: Sosyal Linç ve Lanetleme Ayini
 date: 2017-02-09T21:34:17+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3358
 permalink: /sosyal-linc-ve-lanetleme-ayini/
 dsq_thread_id:
   - "5537293225"
-image: /wp-content/uploads/2017/02/2017-02-09-sosyal-linc.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/02/2017-02-09-sosyal-linc.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -21,8 +24,6 @@ tags:
   - zoofili
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Hüseyin Cengiz’in yazdığı ve [Destek Yayınları](https://www.facebook.com/DestekYayinevi/) tarafından yayımlanan “Ve Sonra Yol Bitti” adlı kitapta bulunan zoofili içerikli anlatım sebebi ile kitabın toplatılmasını talep eden sosyal linç durumuna dair kişisel düşüncemi ifade etmek istiyorum. Kitabın söz konusu paragrafının fotoğrafı çekilerek sosyal medyada dalga dalga paylaşılan bir içerik haline sokulmuştur. İnsanlar ise bu görseli lanet temelli dileklerini ekleyerek paylaşmış, bunu yapmanın rahatlatmadığı kişiler yayınevinin facebook sayfasına girip dava açılsa kazanılacak raddede hakaretlerle &#8220;düşüncelerini ifade etmişler&#8221;.
 
@@ -50,6 +51,3 @@ Sosyal linç, tarih boyu benzerlerinin gözlemlendiği bir durumdur. Patrick Sus
 Bir profesörün, köpek öldürdüğü için profesörlük ünvanının alınması olayı söz konusuydu bir süre önce. Her gün dana, kuzu, kuş, balık, tavuk vb. pek çok hayvanın sistematik bir şekilde öldürülüp marketlerde kasaplarda etlerinin sergilenerek yenilmek üzere satıldığı bir toplumda, köpeğin ölmesi derin bir yaraya sebep olmuştu. Söz konusu &#8220;suçlu&#8221; şahsın suçunun cezası neyse çekmesi elbette mantıklıydı, ancak 20 küsur yılda elde edilen bir profesörlük ünvanı gerçekten de bir cinnet anı ile kaybedilmeli midir? sorusu kritiktir bu noktada. Özellikle de bu köpeğin, bu profesörün kedisini parçaladığı gerçeği öğrenilince, hikayenin rengi değişmeye başlamamakta mıdır? Peki ya o köpek orada bilinçli bir durumduysa? Hayvan severlerin öfkesi yönlendirilmişse konuya? Adamın meslekten uzaklaştırılmasından fayda sağlayacak çok farklı merciler olayın içerisindeydi, ve kimse bu kısmını tahmin edemediyse? Hiç kimse gidip adamın ne tür bir savunma yaptığını okudu mu meselâ? Elbette ki hayır&#8230; Ama sonuçta adam ünvanını yitirdi artık. Kedisi de öldü. Sosyal olarak linç de edildi. Hiç kimse de sormadı &#8220;kim böyle bir örgütlenme yaratır, ne elde eder?&#8221; diye&#8230;
 
 Burada konu Black Mirror dizisini seyretmeyenlerin idrak edemeyecekleri bir noktaya gelmektedir. Ancak net olan durum şudur: Dünyada cep telefonu &#8211; sosyal medya &#8211; internet kullanıcısı kitle muazzam bilinçsiz bir haldedir. Bu kitle, kendisini bilgili, bilinçli ve yeterli sanmaktadır, bu çok daha kötü bir durumdur. Bu kitle, suistimal edilmeye çok müsait haldedir&#8230; Bu yazıyı yazarken &#8220;bir zoofili&#8217;nin tarafını tuttu&#8221; etiketinin koşaradım bana yapıştırılacağının farkındayım. Ancak bilinçsiz kitlenin varlığı karşısında, haklı insanların bastırılmasına göz yummaya içim el vermedi, düşüncelerimi ifade etmeye karar verdim. Zira geçmişte ben de linç edildim, ve gelecekte siz de linç edilebilirsiniz&#8230;
-
-<div class="ttr_end">
-</div>

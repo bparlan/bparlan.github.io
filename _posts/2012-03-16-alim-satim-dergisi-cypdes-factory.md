@@ -3,12 +3,15 @@ id: 1295
 title: 'Alım Satım &#038; CypDes Web Sitesi'
 date: 2012-03-16T00:41:41+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1295
 permalink: /alim-satim-dergisi-cypdes-factory/
 dsq_thread_id:
   - "5531318088"
-image: /wp-content/uploads/2012/03/feature.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/feature.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - tasarım
   - web sitesi
 ---
-<div class="ttr_start">
-</div>
 
 Alım Satım Dergisi ve derginin sahibi olan CypDes Factory şirketinin ikisi bir arada istediği web site tasarımında bütünüyle kendi yazdığımız bir sistem kullandık. CypDes Factory, temel seviyede portfolyo &#8211; haber eklenebilen tasarım &#8211; kullanışlılık öncelikli bir site olarak hazırlandı. Sitenin Alım Satım Dergisi kısmı ise müşterimizin talepleri üzerine pek çok fonksiyon ve modülün yazılıp bir araya getirilmesi ile ortaya çıktı. Site içerisinde farklı sektörlerden müşterilerin rehber olarak sunulması, otogalerilerin sanal-galeri oluşturabilmeleri, site kullanıcılarının hesap bilgileri ve panel sayfaları, bütün bunları yönetebilen 2 ayrı seviyede yönetici hesabı, site içerisindeki reklamların düzenlenmesi gibi pek çok modül çalışmakta.
 
@@ -165,7 +166,4 @@ Ulaşım Adresleri:
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

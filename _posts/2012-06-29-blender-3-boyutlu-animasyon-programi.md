@@ -3,12 +3,15 @@ id: 1767
 title: 'Blender &#8211; 3 Boyutlu Animasyon Programı'
 date: 2012-06-29T11:25:15+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1767
 permalink: /blender-3-boyutlu-animasyon-programi/
 dsq_thread_id:
   - "5664577678"
-image: /wp-content/uploads/2012/06/t3_b-e1424095594412.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/06/t3_b-e1424095594412.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -19,8 +22,6 @@ tags:
   - ücretsiz
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Ücretsiz, açık kaynak kodlu <a title="Blender Official" href="http://www.blender.org" target="_blank">Blender</a> adlı şeytan icadı 3 Boyutlu animasyon program, vakti zamanının 100.000€&#8217;ya satışa çıkan, 2002 yılında ise pek çok kullanıcının bir araya gelip &#8220;ortak satın aldığı&#8221; ve akabinde kaynak kodlarını ücretsiz olarak piyasaya sürdüğü, bu sayede de gelmiş geçmiş en iyi 3d Modelleme &#8211; dokulama &#8211; rigging &#8211; sıvı & duman simülasyon &#8211; parçacık simülasyon &#8211; animasyon &#8211; hareket eşleme &#8211; renderleme &#8211; video editing ve compositing programı olma özelliği kazanana kadar sayısız insan tarafından geliştirilmeye bşalanmıştır.
 
@@ -44,6 +45,3 @@ Kendi içinde bulundurduğu renderin sistemleri ve built-in oyun motoru, z-brush
   * <a href="http://www.daimablender.com/" target="_blank">Daima Blender</a>
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

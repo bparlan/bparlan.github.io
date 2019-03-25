@@ -3,12 +3,15 @@ id: 1836
 title: Facebook Tehditlerine Dair Yapılacaklar
 date: 2013-04-16T08:35:17+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1836
 permalink: /facebook-tehditlerine-dair-yapilacaklar/
 dsq_thread_id:
   - "5515982783"
-image: /wp-content/uploads/2013/04/o-OHIO-DEPARTMENT-OF-NATURAL-RESOURCES-PORN-facebook-e1424504401955.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2013/04/o-OHIO-DEPARTMENT-OF-NATURAL-RESOURCES-PORN-facebook-e1424504401955.jpg
 categories:
   - Genel | Yazılım
   - Rehber
@@ -21,8 +24,6 @@ tags:
   - yardım
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Geçmişten bir dostumun &#8220;değerli&#8221; bir tanıdığı kız, facebook üzerinden muhabbet ettiği bir başka kız ile ilişkisini ilerletiyor, ve kendisinin çıplak fotoğraflarını göndermeye başlıyor. Her türlü zevke ve eğilime saygı sonsuz, kesinlikle yargılamıyorum. Ve fakat bir süre sonra kendisinden yaşca büyük olan karşı taraftaki kız, değerli dostumuzu tehdit etmeye başlıyor. Bu kişiye ulaşmak ve durumu kontrol altına almak için eski dostum bana danıştı. Onun için yaptığım araştırmalar güzel meyve verdi, kişiye dair isim soyisim, şehir, okul bilgileri problem çözümünde büyük adım olarak düşünmekteyim.
 
@@ -39,6 +40,3 @@ KKTC polisi bilgisizliğinden, face&#8217;de sahte hesap açıp kişilere bu şe
 <a title="Facebook Law Records" href="https://www.facebook.com/records" target="_blank">https://www.facebook.com/records</a>
 
 Dilerim ihtiyacı olanlar, bu bilgiler ışığında maduriyetlerini daha hızlı giderebilirler.
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 1077
 title: 'Yüklem &#8211; Cümlede Dört Eylem III'
 date: 2011-12-10T13:02:14+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1077
 permalink: /yuklem-cumlede-dort-eylem-iii/
 dsq_thread_id:
   - "5837702294"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - yüklem
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: center;">
   <em>Kanayan bileklere ithaf olunur&#8230;</em>
@@ -53,6 +54,3 @@ format: image
 <p style="text-align: center;">
   Devamı gelecek&#8230; (Cümlede Dördüncü Eylem, Gizli Özne)
 </p>
-
-<div class="ttr_end">
-</div>

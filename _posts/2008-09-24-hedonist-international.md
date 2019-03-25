@@ -3,7 +3,7 @@ id: 185
 title: Hedonist International
 date: 2008-09-24T11:53:24+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=185
 permalink: /hedonist-international/
 dsq_thread_id:
@@ -18,8 +18,6 @@ tags:
   - organization
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: center;">
   <strong>Manifesto &#8211; </strong><a title="Hedonist International" href="http://hedonist-international.org" target="_blank"><strong>The Hedonist International</strong></a>
@@ -73,7 +71,4 @@ format: image
 
 <div class="content" style="text-align: center;">
   <strong>The playground of ideas is vast. Do what you like, not what you must!</strong>
-</div>
-
-<div class="ttr_end">
 </div>

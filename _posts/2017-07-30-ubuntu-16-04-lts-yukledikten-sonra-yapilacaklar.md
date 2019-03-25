@@ -3,7 +3,7 @@ id: 3647
 title: Ubuntu 16.04 LTS Yükledikten Sonra Yapılacaklar
 date: 2017-07-30T15:18:48+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3647
 permalink: /ubuntu-16-04-lts-yukledikten-sonra-yapilacaklar/
 wp_featherlight_disable:
@@ -16,7 +16,10 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6027994318"
-image: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
 categories:
   - Unix | Linux
 tags:
@@ -29,8 +32,6 @@ tags:
   - yükleme
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Ubuntu 16.04 LTS (Long-Term Support / Uzun Süreli Destek) sürümünü bilgisayarınıza yükledikten sonra tam olarak neler yapmanız gerektiğine dair bir fikriniz yok ise, aşağıdaki listeyi adım adım takip ederek hem çok daha sağlıklı bir ubuntu işletim sistemine kavuşmuş olursunuz, hem de genel olarak linux bünyesinde işlerin nasıl yürüdüğüne dair rehber eşliğinde uygulama yaparak deneyim kazanma fırsatını değerlendirmiş olursunuz.
 
@@ -139,6 +140,3 @@ sudo apt-get upgrade</pre>
  19. **_Başka insanlara Ubuntu&#8217;dan bahset!_**
 
 Ayrıca bu yazının size bir faydası dokunduğunu düşünüyorsanız bana teşekkür etmek için yazıyı paylaşmanız ve sitedeki mail listesine üye olmanız gayet yeterli olur (: Kaynaklarınız açık olsun!
-
-<div class="ttr_end">
-</div>

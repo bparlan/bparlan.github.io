@@ -3,14 +3,17 @@ id: 1967
 title: Linux Sisteminiz 32bit mi 64bit mi?
 date: 2014-12-25T16:37:03+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1967
 permalink: /linux-sisteminiz-32bit-mi-64bit-mi/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5484134076"
-image: /wp-content/uploads/2014/09/unix.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Unix | Linux
 tags:
@@ -21,8 +24,6 @@ tags:
   - ubuntu
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Evet, bazen çok saçma ve basit gelebilir, bir insanın kullandığı linux sisteminin 32bit mi 64bit mi olduğunu öğrenmesi gerekliliği, ancak deneyim göstermiştir ki, bazen çok gereklidir. (:
 
@@ -32,6 +33,3 @@ Aşağıdaki kod, kernel ismini, network host ismini, sürüm, versiyon, makine 
 
 i686 ve i386&#8217;lar 32bit demektir.  
 x86_64&#8217;ler ise 64bit.
-
-<div class="ttr_end">
-</div>

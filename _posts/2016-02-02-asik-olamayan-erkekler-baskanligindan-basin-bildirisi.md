@@ -3,12 +3,15 @@ id: 2744
 title: 'Aşık Olamayan Erkekler Başkanlığından: Basın Bildirisi'
 date: 2016-02-02T17:04:02+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2744
 permalink: /asik-olamayan-erkekler-baskanligindan-basin-bildirisi/
 dsq_thread_id:
   - "5482289130"
-image: /wp-content/uploads/2016/01/AOEBBB.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/01/AOEBBB.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - toplum
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Sevgili, kendisine aşık olunmasını isteyen kadınlar birliği, bilgilerinize sunmak isteriz ki (her ne kadar hali hazırda yüzyıllardır bilip de, bunun getirdiği farkındalık acısına katlanmak istemediğiniz için, bilmemezlikten geldiğiniz konusunda ciddi şüphelerimiz olsa da), şimdiye kadar yaşanılan yanlış anlaşılmalar ve hatta anlaşılamamalar sebebi yüzünden biz erkekler, kesin bir şekilde ifade etmek durumunda kaldık:
 
@@ -41,6 +42,3 @@ Saygılırımızla.
 _Sevmek için de, beynini kullanan bütün erkekler adına&#8230;_
 
 > Devamı: <a href="http://www.bparlan.com/2016/asik-olamayan-erkekler-bskn-ii-basin-bildirisi" target="_blank">II. Basın Bildirisi</a>
-
-<div class="ttr_end">
-</div>

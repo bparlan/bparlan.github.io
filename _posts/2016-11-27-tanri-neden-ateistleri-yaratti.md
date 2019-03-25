@@ -3,12 +3,15 @@ id: 3154
 title: Tanrı Neden Ateistleri Yarattı?
 date: 2016-11-27T17:28:45+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3154
 permalink: /tanri-neden-ateistleri-yaratti/
 dsq_thread_id:
   - "5487119136"
-image: /wp-content/uploads/2016/11/Tanri-Neden-Ateistleri-Yaratti.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/11/Tanri-Neden-Ateistleri-Yaratti.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - tanrı
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 &#8220;Tanrı neden Ateistleri yarattı?&#8221; sorusuna din / inanç temelli yazılar içerisinde, Ateist olarak hayatımda ilk defa &#8220;ateizmin düşünce sistemini doğru aktaran&#8221; bir metin okudum. Lütfen dikkat ediniz,  burada sözünü ettiğim önem, &#8220;pozitif&#8221; bir ateizm sergilemesi değil, bir ateistin nasıl düşündüğünü çarpıtmadan aktarmasıdır. 18. yüzyıl Doğu Avrupa&#8217;sında oluşmaya başlayan [Hasidik Yahudi](https://en.wikipedia.org/wiki/Hasidism) inancının yazılı ve sözlü öğretilerini kaleme alan Yahudi filozofu [Martin Buber](https://en.wikipedia.org/wiki/Martin_Buber)&#8216;in &#8220;Hasidim Öyküler&#8221; şeklinde çevirebileceğimiz &#8220;[Tales of the Hasidim](https://en.wikipedia.org/wiki/Tales_of_the_Hasidim)&#8221; adlı kitabında geçiyor bu öykü. &#8220;Geç Dönem Ustaları&#8221; (The Later Masters) adlı 2. cildinde yer alan &#8220;Tanrı neden Ateistleri yarattı?&#8221; adlı öykünün Türkçe metnini bulamadığım için kendim çevirip burada konu ile ilgilenen insanlar ile paylaşmak istedim.
 
@@ -49,6 +50,3 @@ Ayrıca merak edenler için orjinal ingilizce metine de yer vermek istiyorum. B�
 > &#8220;This means,&#8221; the Master continued &#8220;that when someone reaches out to you for help, you should never say ‘I pray that God will help you.’ Instead for the moment, you should become an atheist, imagine that there is no God who can help, and say ‘I will help you.’&#8221;
 > 
 > ETA source: Tales of the Hasidim, Vol. 2: The Later Masters [Martin Buber, Olga Marx]
-
-<div class="ttr_end">
-</div>

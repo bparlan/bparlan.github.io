@@ -3,14 +3,17 @@ id: 2669
 title: Öğretmenler Gardiyan, Okullar Zindan
 date: 2015-11-24T20:07:47+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2669
 permalink: /ogretmenler-gardiyan-okullar-zindan/
 dsq_thread_id:
   - "5521320131"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2015/11/anarsizm_7193_14-41-27.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/11/anarsizm_7193_14-41-27.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -22,8 +25,6 @@ tags:
   - zindan
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 > &#8220;Öğretmenler gardiyan, okul zindandır!&#8221;  
 > ~İzmir Liseli Anarşistler
@@ -50,6 +51,3 @@ Not: Yazıyı yazdıktan ortalama 2 yıl sonra konu ile ilgili olarak **&#8220;F
 Bu görsel de anı maiyetindedir efendim&#8230;
 
 <img class="aligncenter wp-image-2670 size-full" src="https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/12246719_10153656369641827_6603439009549540303_n.jpg?resize=480%2C480" alt="Öğretmenler ve Sistem" width="480" height="480" srcset="https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/12246719_10153656369641827_6603439009549540303_n.jpg?w=480 480w, https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/12246719_10153656369641827_6603439009549540303_n.jpg?resize=150%2C150 150w, https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/12246719_10153656369641827_6603439009549540303_n.jpg?resize=300%2C300 300w, https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/12246719_10153656369641827_6603439009549540303_n.jpg?resize=160%2C160 160w, https://i1.wp.com/www.bparlan.com/wp-content/uploads/2015/11/12246719_10153656369641827_6603439009549540303_n.jpg?resize=320%2C320 320w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" /> 
-
-<div class="ttr_end">
-</div>

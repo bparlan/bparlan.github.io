@@ -3,14 +3,17 @@ id: 2314
 title: 'Lmgtfy.com &#8211; Sizin için Googleda Arayayım'
 date: 2015-02-18T22:10:18+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2314
 permalink: /lmgtfy-com-sizin-icin-googleda-arayayim/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5515357729"
-image: /wp-content/uploads/2015/02/google-rankings.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/02/google-rankings.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -20,8 +23,6 @@ tags:
   - lmgtfy
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Lmgtfy.com &#8211; Sizin için Googleda Arayayım adlı web sitesi, aslında bir kurtarıcı melek. Eğer ki sizin de hayatınız &#8220;kendi kendisine araştırıp bulmak &#8211; çözmek&#8221; yerine doğrudan sırf kolay olduğu için size soru soran insanlarla dolu ise, <a title="lmgtfy.com" href="http://adf.ly/138J7R" target="_blank">lmgtfy.com</a> tam olarak sizin için üretilmiş bir sayfa. &#8220;Let me Google that for you&#8221; şeklinde açılan isim, Türkçe &#8220;Sizin için Google&#8217;da Arayayım&#8221; anlamına geliyor.
 
@@ -35,7 +36,4 @@ Lmgtfy.com &#8211; Sizin için Googleda Arayayım adlı web sitesi, aslında bir
 
 > Belki de insanlığın yegane kurtuluşu, ki bu kadar basit olduğu için bu kadar &#8220;genel geçer&#8221;, ve bu kadar avuç içinde, ve bu kadar küçümseniyor&#8230; &#8220;Arayın&#8221;. Araştırın! Kaldırın diyor o götünüzü ve araştırın, duyduklarınızdan gördüklerinizden bir adım öteye gidin ve &#8220;sorgulayın&#8221;. Başkalarını tekrar etmeyi bırakın ve o kalorilerinizi beyninizi kullanmaya harcayın, harcayın ki kendi fikriniz olsun, oluşsun. Öğrenin ki bir kıymeti olsun fikrinizin&#8230; Nasıl olsa bir yerlerde birileri çözer demek yerine, kendiniz arayın, öğrenin, kendi başınıza çözün&#8230; Google, çok uzakta değil. Hatta neredeyse hepinizin cebinde&#8230; Gelişmenin &#8211; ilerlemenin, sosyal medya ile aynı mesafede olduğu şu dünyada, bu kadar mı asosyalleşilir ve cahilleşilir ey insanlık&#8230;
 
-[youtube https://www.youtube.com/watch?v=DVwHCGAr_OE&feature=share]
-
-<div class="ttr_end">
-</div>
+<div>{%- include extensions/youtube.html id='DVwHCGAr_OE' -%}</div>

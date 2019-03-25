@@ -3,12 +3,15 @@ id: 1221
 title: 'TurKorea &#8211; Web Sitesi'
 date: 2012-01-20T00:14:40+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1221
 permalink: /turkorea-web-sitesi/
 dsq_thread_id:
   - "5531324252"
-image: /wp-content/uploads/2012/01/TurKorea-v5-Ana-Sayfa.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/TurKorea-v5-Ana-Sayfa.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - turkorea
   - web sitesi
 ---
-<div class="ttr_start">
-</div>
 
 Türkiye &#8211; Kore arasındaki ilişkilerde katkıları ile tanınan Burak Karakurt&#8217;un hazırlanmasını talep ettiği TurKorea, talihsizlikler sonucu hayata geçememiş olsa da, kullanıma hazır bir noktaya gelmiş bir proje olarak arşivimizde yer almıştır. Site sistemi MySQL, PHP, CSS, Flash ve jQuery kullanılarak hazırlanmış, bütün kontrolü yöneticinin kişisel panelinden üstlenebileceği bir şekilde hazırlanmış durumdadır. Site Türkçe, İngilizce ve Kore dilini desteklemektedir.
 
@@ -115,7 +116,4 @@ Proje Yönetimi & CSS & Flash: Barış Parlan
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

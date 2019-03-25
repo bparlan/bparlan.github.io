@@ -3,12 +3,15 @@ id: 2592
 title: 'Fata Morgana &#8211; Gemiler Nasıl Uçar?'
 date: 2015-10-20T14:47:53+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2592
 permalink: /fata-morgana-gemiler-nasil-ucar/
 dsq_thread_id:
   - "5480822946"
-image: /wp-content/uploads/2015/10/fata-morgana-gemiler-nasil-ucar.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/10/fata-morgana-gemiler-nasil-ucar.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -20,8 +23,6 @@ tags:
   - yanılgı
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 ### Tarih
 
@@ -49,6 +50,3 @@ _&#8220;Türkçesini aramayacağım, zira %90&#8217;ı &#8216;uzun&#8217; diye o
 
   * <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="nofollow">Fata Morgana (Wikipedia)</a>
   * <a href="http://www.wired.com/2015/01/fantastically-wrong-fata-morgana/" target="_blank">Fantastically Wrong &#8211; Fata Morgana (Wired)</a>
-
-<div class="ttr_end">
-</div>

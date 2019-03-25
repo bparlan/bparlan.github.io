@@ -109,3 +109,28 @@ ko: &KO
 
 ko-KR:
   <<: *KO
+
+## => Türkçe
+########################
+tr: &TR
+  SUBSCRIBE               : "Üyelik"
+  READMORE                : "Devamını Oku"
+  SEARCH                  : "Ara"
+  CANCEL                  : "İptal"
+  VIEWS                   : "görüntüleme"
+  LAST_UPDATED            : "Son güncelleme"
+  PREVIOUS                : "Önceki"
+  NEXT                    : "Sonraki"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] yazı, [PAGE_COUNT] sayfa."
+  LICENSE_ANNOUNCE        : "Bu çalışma [LICENSE] lisansına sahiptir."
+  POST_ON_GITHUB          : "Github'da düzenle"
+  FOLLOW_ME               : "Beni [NAME]'da takip et."
+  FOLLOW_US               : "Bizi [NAME]'da takip et."
+  EMAIL_ME                : "Bana e-posta gönder."
+  EMAIL_US                : "Bize e-posta gönder."
+  COPYRIGHT_DATES         : "2019"
+
+tr-TR:
+  <<: *TR

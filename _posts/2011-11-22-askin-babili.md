@@ -3,7 +3,7 @@ id: 813
 title: 'Aşkın Babil&#8217;i'
 date: 2011-11-22T05:54:38+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=813
 permalink: /askin-babili/
 dsq_thread_id:
@@ -11,8 +11,6 @@ dsq_thread_id:
 categories:
   - Tapınak
 ---
-<div class="ttr_start">
-</div>
 
 _&#8220;Erkekler daha çok acı çekiyor. Şöyle de diyebiliriz: Bu işlerde erkeklerin daha az karşı koyma güçleri var. Oysa kadınlar suçları olmadan acı çekerler.&#8221;_
 
@@ -33,6 +31,3 @@ Tam işerken yaralı kadın ve öperken adamı korkularını söyler adamın kul
 Kimin daha çok acı çektiğine gelince&#8230; Eli kalem tutan hangisiyse odur en çok acı çeken. Çünkü tarihi kazananların yazması gibi aşkın acısı da mektupları yazanda kalır&#8230;
 
 Ece Temelkuran ~Aşkın Babil&#8217;i
-
-<div class="ttr_end">
-</div>

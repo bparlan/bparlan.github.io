@@ -3,12 +3,15 @@ id: 2721
 title: Ideas About Game Studies
 date: 2016-02-20T13:27:47+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2721
 permalink: /ideas-about-game-studies/
 dsq_thread_id:
   - "5560545495"
-image: /wp-content/uploads/2016/01/GameStudies.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/01/GameStudies.jpg
 categories:
   - English
   - Oyunlar
@@ -21,8 +24,6 @@ tags:
   - ludology
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 I&#8217;m keeping and organizing my notes about recent news of communication and game studies area which may be furtherly researched within academic aspect in order to express the need of scientifical (psychological &#8211; sociological &#8211; economical &#8211; political) understanding.
 
@@ -55,6 +56,3 @@ Things need research:
   * <a href="https://www.kickstarter.com/projects/53020943/dan-arielys-irrational-card-game" target="_blank">Irrational Card Game</a> &#8211; Dan Ariely
 
 Link to &#8220;Critical Political Economy of the Game&#8221; article.
-
-<div class="ttr_end">
-</div>

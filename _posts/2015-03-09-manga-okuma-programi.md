@@ -3,12 +3,15 @@ id: 1835
 title: Manga Okuma Programı
 date: 2015-03-09T11:54:37+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1835
 permalink: /manga-okuma-programi/
 dsq_thread_id:
   - "5481443930"
-image: /wp-content/uploads/2014/05/Manga-Okuma-Programı.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/05/Manga-Okuma-Programı.jpg
 categories:
   - Fikir Kutusu
 tags:
@@ -19,8 +22,6 @@ tags:
   - program
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Ülkemizde çok yaygın olmasa da, Manga &#8211; Çizgi Roman okuma olayı pek keyifli bir kültürdür. Bu aktiviteyi daha pratik ve &#8220;yaygınlaşabilir&#8221; hale getirmek için yaşanılan eksiklikleri gideren manga okuma programı fikri geldi aklıma. Kısacası gözlemlenebilir en büyük eksiklik &#8220;dil desteği&#8221;. Bir manga programı düşünün ki manga yapımcıları bu program desteğiyle hazırlıyorlar kitaplarını, bu hazırlık sırasında &#8220;konuşma kutuları&#8221; şeklinde belirlenen alanlar, yazıları yazı dökümanından (text file) çekiyorlar. Çevirmenler sadece bu yazı dökümanlarını çeviriyorlar, böylece manga açılırken sadece dil seçiliyor, ve bütün manga&#8217;nın konuşma kutuları doğrudan o dilin yazı dökümanı ile yüklenip istenilen dilde görüntülenmiş oluyor. Burada daha net bir şekilde belirtmek isterim ki, &#8220;çeviri&#8221; opsiyonu programda her kullanıcıya açık halde olacak. Yani hem profesyönelce çeviri yapanlara hizmet verecek, hem de isteyen kendince, hatta gerekirse konudan bağımsızca internet meme&#8217;si oluşturma tadında bile çok farklı altyazılarını geçerek bir çeviri dökümanı hazırlayabilecek. İleri noktada, basit bir server &#8211; client ilişkisi ile, yüklenen manga&#8217;nın mevcut çevirileri, çeviriye verilen &#8220;puan&#8221; sistemi desteği ile okuyucuya sunulabilir, böylece hem &#8220;kaliteli çevirmenler&#8221; kendilerini gösterebilmiş olur, ki bu kaliteye yine okuyucular karar verir, hem de ulaşılabilirlik mümkün olur&#8230; (Çeviri tekeli de oluşmamış olur, isteyen okuyucu küfürlü bir çeviri versiyonuna rahatlıkla sansürsüzce ulaşabilir)
 
@@ -47,6 +48,3 @@ _Volkan Gündeşlioğlu_&#8216;na fikirsel katkılarından dolayı teşekkür ed
 <img class=" size-full wp-image-2436 alignleft" src="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2014/05/Art-tuzki-touhou-flandre-scarlet-girl-wings-crystals-ribbon-bow-anime.jpg?resize=780%2C423" alt="Tuzki Touhou Flandre - Scarlet Girl" width="780" height="423" srcset="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2014/05/Art-tuzki-touhou-flandre-scarlet-girl-wings-crystals-ribbon-bow-anime.jpg?w=1000 1000w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2014/05/Art-tuzki-touhou-flandre-scarlet-girl-wings-crystals-ribbon-bow-anime.jpg?resize=300%2C163 300w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2014/05/Art-tuzki-touhou-flandre-scarlet-girl-wings-crystals-ribbon-bow-anime.jpg?resize=768%2C416 768w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2014/05/Art-tuzki-touhou-flandre-scarlet-girl-wings-crystals-ribbon-bow-anime.jpg?resize=923%2C500 923w" sizes="(max-width: 780px) 100vw, 780px" data-recalc-dims="1" /> 
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

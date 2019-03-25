@@ -3,7 +3,7 @@ id: 836
 title: İnsan Sözden İbarettir ve Şair Ne Güzel İnsandır
 date: 2011-11-22T05:58:55+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=836
 permalink: /insan-sozden-ibarettir-ve-sair-ne-guzel-insandir/
 dsq_thread_id:
@@ -11,8 +11,6 @@ dsq_thread_id:
 categories:
   - Tapınak
 ---
-<div class="ttr_start">
-</div>
 
 Bir meyve, bir çekirdek&#8230;
 
@@ -42,6 +40,3 @@ Hadis:18
 &#8220;Şiirin hikmetli olanları da mevcuttur.&#8221;
 
 Muvatta II, 986; Müsned (Ahmed b. Hanbel) I, 303; Sahih-i Buhari VII, 30; Sahih-i Müslim I, 594; Mesnevi III. b.4079
-
-<div class="ttr_end">
-</div>

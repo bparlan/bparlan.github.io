@@ -3,7 +3,7 @@ id: 851
 title: Şafak Türküsü
 date: 2011-11-22T06:02:07+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=851
 permalink: /safak-turkusu/
 dsq_thread_id:
@@ -11,8 +11,6 @@ dsq_thread_id:
 categories:
   - Tapınak
 ---
-<div class="ttr_start">
-</div>
 
 1  
 Beni burada arama anne  
@@ -322,6 +320,3 @@ sen hazır tut dizini anne
 o mükemmel güne&#8230;
 
 Nevzat Çelik ~Şafak Türküsü
-
-<div class="ttr_end">
-</div>

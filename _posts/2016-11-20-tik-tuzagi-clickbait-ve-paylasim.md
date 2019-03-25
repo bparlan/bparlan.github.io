@@ -3,12 +3,15 @@ id: 3141
 title: Tık Tuzağı / Clickbait ve Paylaşım
 date: 2016-11-20T15:45:06+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3141
 permalink: /tik-tuzagi-clickbait-ve-paylasim/
 dsq_thread_id:
   - "5490521964"
-image: /wp-content/uploads/2016/11/Tık-Tuzagi.png
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/11/Tık-Tuzagi.png
 categories:
   - Bilişim
   - Genel | Yazılım
@@ -20,8 +23,6 @@ tags:
   - politik ekonomi
   - tık tuzağı
 ---
-<div class="ttr_start">
-</div>
 
 <div id="js_zue" class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <p>
@@ -91,7 +92,4 @@ tags:
   <p>
     <em>Bu metinin orjinal halini, açık fikirli olduğunu düşündüğüm bir takım arkadaşlardan oluşan kapalı bir grubumuz için yazmıştım. Akabinde metni biraz daha derleyip toparlayarak böyle bir paylaşım yapıp, konuya dair gerek gördüğüm zamanlarda tekrar tekrar ahkâm kesmek yerine doğrudan bu yazının linkini vererek düşüncelerimi pratikten anlatmış olma kararı aldım. Mâlum gruba saygılar&#8230;</em>
   </p>
-</div>
-
-<div class="ttr_end">
 </div>

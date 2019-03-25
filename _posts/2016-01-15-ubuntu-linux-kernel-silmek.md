@@ -3,12 +3,15 @@ id: 2759
 title: Ubuntu Kullanılmayan Linux Kernel Silmek
 date: 2016-01-15T12:09:32+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2759
 permalink: /ubuntu-linux-kernel-silmek/
 dsq_thread_id:
   - "5479564870"
-image: /wp-content/uploads/2014/09/unix.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Bilişim
   - Unix | Linux
@@ -20,8 +23,6 @@ tags:
   - ubuntu
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Ubuntu Server Linux sisteminizde /boot full olduğunda, eski kullanılmayan kernel dosyalarınız biriktiği için bir takım problemler yaşamaya başlarsınız, onları silmek gerekir. Örneğin herhangi bir yükleme yapacağınızda şöyle bir hata almanız çok normaldir:
 
@@ -109,6 +110,3 @@ sudo apt-get upgrade       # Strictly upgrades the current packages
 sudo apt-get dist-upgrade  # Installs updates (new ones)</pre>
 
 Bu noktadan sonra devam etmeden önce bir reboot tavsiye edilir, zira yüklenen kernele geçiş henüz sağlanmadı.
-
-<div class="ttr_end">
-</div>

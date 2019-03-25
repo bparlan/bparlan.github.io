@@ -3,14 +3,17 @@ id: 2017
 title: 'Yavuz Balkan&#8217;ın Söyleyemedikleri &#8211; Aforoz'
 date: 2015-02-10T15:27:17+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2017
 permalink: /aforoz-yavuz-balkan/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5522507082"
-image: /wp-content/uploads/2015/02/aforoz2-e1424504384908.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/02/aforoz2-e1424504384908.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -21,8 +24,6 @@ tags:
   - yavuz balkan
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Düşünmek güzel bir eylemdir, doğru fikirlerin düşünürü olmak ise çok zorundan bir zanaattir. Ancak sadece düşünür olmak yeterli değildir, zira doğru ifade edilemeyen düşünce, yanlış anlaşılmalara sebep olur. _Diyalog kurduğunu sanmak, yargılanmadan asılmaktır._ Geçmişten feyz alarak konuyu Avukat Yavuz Balkan&#8217;ın dilekçesine getireceğim&#8230;_  
 _ 
@@ -50,6 +51,3 @@ Bir diğer önemli etken ise elbette ekonomik yetersizliktir. Ekonomik olarak in
 Öncelikle twitter&#8217;da yapılan &#8220;Yavuz Balkan&#8221; aramsı sonucu çıkan tweet&#8217;lerden bir kısmını şu linke tıklayarak okuyabilirsiniz, zira konunun &#8220;algılanış&#8221; biçimini idrak etmeniz için güzel bir özet olarak durmakta: <a title="Yavuz Balkan - Twitter" href="http://adf.ly/12ZxyW" target="_blank">Yavuz Balkan &#8211; Twitter</a>
 
 * Birilerinin sevişmesi için vergi verme fikrinden midesi bulanandan, &#8220;Koca eşine tecavüz edemeyince dövüyor&#8221; neden-sonuç ilişkisini kuranına nice Twitter kullanıcıları varmış, bilmelerini isterim ki vergilerimizle nice Bilal&#8217;ler doğdu büyüdü, nice polisler gençleri öldürdü gömdü, halen vergilerimizle binlerce insan bir ömür geçiriyor da icraat olarak &#8220;oral seks orucu bozar mı&#8221; sorusuna cevap veriyor&#8230; Aile içi şiddet, çocuk yaşta evlilik, öğretmenlere ödenek ayrılmaması ve atanmamaları gibi konular, kendi başlarına problemdir. _Bu problemlerin &#8220;önem / öncelik sırası&#8221; yoktur, hepsi toplum olarak bizim sıçtığımız boktur_, bu çerçeveden bakarsanız eğer, bir yerlerde olacak olan bir değişiklik, diğerlerini de daha çözülebilir hale getirebilmektedir&#8230;
-
-<div class="ttr_end">
-</div>

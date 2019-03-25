@@ -3,12 +3,15 @@ id: 3213
 title: 'Yanlış Bildiklerimiz: Bilim, Din, Teori ve Kanun'
 date: 2016-12-15T12:18:57+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3213
 permalink: /yanlis-bildiklerimiz-bilim-din-teori-ve-kanun/
 dsq_thread_id:
   - "5479375237"
-image: /wp-content/uploads/2016/12/Yanlis-Bildiklerimiz.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/12/Yanlis-Bildiklerimiz.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -20,8 +23,6 @@ tags:
   - teori
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <div data-contents="true">
   <p>
@@ -74,7 +75,4 @@ format: image
   <p>
     Bütün bunlara rağmen, bilim hiç bir zaman Evrimi veya Yerçekimini &#8220;Kanun&#8221; olarak adlandırmayacaktır. Bir bilgiyi &#8220;sabitlemek&#8221;, eleştirel düşünce destekli <em>&#8220;sorgulama&#8221;</em> açık-fikirliliğine ters düşmektedir. Bunun hiç bir zaman bilimde yeri olmamıştır. Tabii bunu <em>&#8220;kitapları asla değişmeyen&#8221;</em> insanlara anlatmak çok sıkıntı oluyor, Teori ve Kanun kelimelerinin anlamları halk dilinin azizliğine uğruyor. Ama bu durum <em>&#8220;açık fikirliliğe gösterilen hoşgörünün cilvesi&#8221;</em>dir kişisel kanaatimce. En büyük hata ise, bütün bu bilgilerin Lise yıllarımızda okul sıralarında net bir şekilde ifade edilmemesidir gözümde&#8230; Dilerim bu yazdıklarımın birilerine bir faydası dokunur.
   </p>
-</div>
-
-<div class="ttr_end">
 </div>

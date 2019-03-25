@@ -3,14 +3,12 @@ id: 821
 title: Bana Bak General
 date: 2011-11-22T05:56:05+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=821
 permalink: /bana-bak-general/
 categories:
   - Tapınak
 ---
-<div class="ttr_start">
-</div>
 
 12 Eylül darbesinin idam ettiği ve 25 yıl boyunca mezarı bulunamayan Veysel Güney üzerine Ethem Dinçer’in 6.9.2009 tarihinde Radikal-2’de yayımlanmış ‘Beni hatırladın mı general?’ yazısına devam olarak&#8230;  
 Bana bak general! Yüzüme iyi bak! Çünkü general, benim çocuğum da bana benzeyecek. Aklında tut yüzümü.  
@@ -32,6 +30,3 @@ Ben sekiz yaşındaydım ve sen gelip bana böyle bir hayat verdin, böyle bir �
 Bana bak general! İyi bak general. Adımı ezberle. İyi bak general. Çünkü benim çocuğum da bana benzeyecek.
 
 Ece Temelkuran ~Bana Bak General
-
-<div class="ttr_end">
-</div>

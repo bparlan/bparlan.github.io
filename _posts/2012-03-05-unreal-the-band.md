@@ -3,12 +3,15 @@ id: 1276
 title: Unreal The Band Web Site
 date: 2012-03-05T14:01:00+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1276
 permalink: /unreal-the-band/
 dsq_thread_id:
   - "5734115049"
-image: /wp-content/uploads/2012/03/Unreal-The-Band-SS-1.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/Unreal-The-Band-SS-1.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web site
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Kıbrısın önde gelen Heavy Rock &#8211; Metal müzik grubu olan Unreal The Band&#8217;ın dinleyicileri ile iletişim içerisinde olabilmesini ve medya için malzeme sunabilmesini sağlayan web sitesi, Indexhibit sistemi , MySQL ve jQuery ile hazırlanmıştır. Site içerisindeki modüller sayesinde fotoğraf galerisi, video galerisi, dinleyicilerine yönelttikleri anket sistemi, albümleri hakkında bilgi ve şarkı sözü sunabilecekleri bölümler yanı sıra iletişim, grup elemanları listesi ve bir de haberler bölümü ilave edilmiştir.
 
@@ -122,7 +123,4 @@ Barış Parlan
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

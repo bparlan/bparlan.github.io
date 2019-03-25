@@ -3,12 +3,15 @@ id: 157
 title: Katli Vacip
 date: 2008-02-24T14:44:31+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=157
 permalink: /katli-vacip/
 dsq_thread_id:
   - "5545676052"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - vacip
   - yaşam
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Bileklerim çizik, kalbim yazar, kesildi o dalgalanan saçlar, yeter artık esmesin bu dondurucu rüzgâr, buralarda düşünmeye çok vaktim var, bil ki halimi ancak kayan yıldızlar anlar. yaşamak basitçe uçurumdan dişmektir, anladım ki hayatın zemini pek derindir.
@@ -43,6 +44,3 @@ Halbuki ıslık çalmak için
 Birşey lazım değil._
 
 _Melih Cevdet Anday_
-
-<div class="ttr_end">
-</div>

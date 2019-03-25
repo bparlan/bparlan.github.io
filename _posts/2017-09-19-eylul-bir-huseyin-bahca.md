@@ -3,14 +3,17 @@ id: 3706
 title: Eylül Bir | Hüseyin Bahca
 date: 2017-09-19T17:09:31+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3706
 permalink: /eylul-bir-huseyin-bahca/
 wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "6155145603"
-image: /wp-content/uploads/2017/09/header.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/09/header.jpg
 categories:
   - Grafik Tasarım
 tags:
@@ -20,8 +23,6 @@ tags:
   - şiir
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 &nbsp;
 
@@ -32,6 +33,3 @@ format: image
 [<img class="size-medium wp-image-3710 alignleft" src="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg?resize=300%2C239" alt="" width="300" height="239" srcset="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg?resize=300%2C239 300w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg?resize=768%2C611 768w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg?resize=1060%2C843 1060w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg?resize=629%2C500 629w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg?w=1465 1465w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/mid.jpg)Kitabın içinde yer alan Eylül Bir adlı şiirin arka kapağa taşan küçük bir kısmını sizlerle paylaşmak istiyorum. İçinde bulunduğumuz eylül ayına yakışır tınıyı yaşamına katmak isteyen şiir sever dostlar, Işık Kitabevi&#8217;nin websitesinden online satışı bulunan Eylül Bir&#8217;i bu <a href="http://www.isikkitabevi.net/store/kitap-detay_en.php?id=63870" target="_blank" rel="noopener">linke tıklayarak</a> sipariş verebilirler.
 
 [<img class="alignright size-large wp-image-3727" src="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg?resize=780%2C439" alt="Eylül Bir - Hüseyin Bahca" width="780" height="439" srcset="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg?resize=1060%2C596 1060w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg?resize=300%2C169 300w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg?resize=768%2C432 768w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg?resize=889%2C500 889w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg?w=1560 1560w" sizes="(max-width: 780px) 100vw, 780px" data-recalc-dims="1" />](https://i0.wp.com/www.bparlan.com/wp-content/uploads/2017/09/eylulbirkitap.jpg)
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 2680
 title: 'Fahişe Lehçesi ~Zaman üzerine&#8230;'
 date: 2015-12-01T00:05:15+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2680
 permalink: /fahise-lehcesi-zaman-uzerine/
 dsq_thread_id:
   - "5517355824"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - zaman
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 > Fahişe Lehçesi, aklımda toparladığım bir takım konulara farklı bakış açıları ile değinmeye çalıştığım kurgusal bir roman oluşumu. **Zaman** konseptine dair olan paylaştığım bu bölüm hakkında bilmeniz gereken detay, fahişenin _intihar mektubundan_ bir parça okuyor oluşumuz.
 
@@ -42,6 +43,3 @@ Ortam iyice karanlıklaşır, şıklatışı daha rahat duyulabilsin diye mikrof
 
 _konuşma böyle devam ediyor. detayı anımsıyor musun? doktora yapmak, bilgisayar masası&#8230; bunlar benim her gün bu yatakta saniyelerin uzunluğunu hissederken kurduğum fahişe lehçesi hayallerim, ve zamanı algılama biçimim&#8230; Gözlerimin bağlanmasını o sahnede bile kurgulamış olmam, sanırım buna muhtaçlığımın ince bir ironik göstergesi&#8230;  
 _ 
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 863
 title: Yarın Çok Geç Olabilir Sevgilim
 date: 2011-11-22T06:04:28+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=863
 permalink: /yarin-cok-gec-olabilir-sevgilim/
 dsq_thread_id:
   - "5494940213"
-image: /wp-content/uploads/2011/11/BParlanThumbs2.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/BParlanThumbs2.jpg
 categories:
   - Tapınak
 tags:
@@ -19,8 +22,6 @@ tags:
   - yarın çok geç olabilir
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 **1  
 ** en çok istanbula benzeyen gözlerini sevdim  
@@ -471,6 +472,3 @@ doğmamış bir çocuğu yetim bırakıp
 ölmeyi deneyeceğim şimdi
 
 Uğur Özakıncı ~Yarın Çok Geç Olabilir Sevgilim
-
-<div class="ttr_end">
-</div>

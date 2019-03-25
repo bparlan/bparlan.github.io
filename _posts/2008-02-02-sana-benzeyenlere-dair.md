@@ -3,7 +3,7 @@ id: 155
 title: Sana Benzeyenlere Dair
 date: 2008-02-02T22:06:19+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=155
 permalink: /sana-benzeyenlere-dair/
 dsq_thread_id:
@@ -17,8 +17,6 @@ tags:
   - sana
   - yaşam
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Rüzgârdır buralarda gözyaşlarımı silen genelde, sırf bu yüzdendir onu sevgilimmiş gibi benimsemem. Ve uçan kuşlardır hayattaki destek ünitelerim, baktıkça serseri kurşun gibi özgürlük hevesi vurur ruhumu topuklarından, sonrasında yaylım gözyaşı, işte maksat rüzgârı dudak niyetine hayal edebilmek, belki ısıtır diye&#8230; Gerçi pek keskin, cildimi acıtıyor ama olsun canım, bu sana en benzeyen yanı rüzgârın.
@@ -35,6 +33,3 @@ tags:
 <p style="text-align: justify;">
   Biliyorum yalnızlığım gözlerinde nokta nöbeti tutuyor, jilet çaprazda&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

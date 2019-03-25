@@ -3,12 +3,15 @@ id: 3305
 title: 'Noocracy: Erdemin Otoritesi &#8211; Bir Politik Sistem'
 date: 2017-01-10T14:00:34+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3305
 permalink: /noocracy-erdemin-otoritesi/
 dsq_thread_id:
   - "5485520418"
-image: /wp-content/uploads/2017/01/2017-01-10-noocracy.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/01/2017-01-10-noocracy.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - toplum
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 _Demokrasi adı altında dayatılan monarşiye dair tartışmaların yaşandığı şu günlerde, &#8220;kahrolsun bazı şeyler&#8221; şeklinde düşünüyorum. Bu sebeple gündeme getirmek istediğim bir kelime, bir politik sistem var: Noocracy._
 
@@ -59,6 +60,3 @@ Sonuç olarak, tezim **A.I. Noocracy**, yani Yapay Zekanın yönetimden mesul ol
 Değerli yorumlarınızı katarsanız, tartışırsak, güzel bir sistemde yaşamıyor olsak bile, en azından kendimce &#8220;tartışmaya değer&#8221; bir şeyler hakkında okuyup yazıyor olmanın mutluluğunu yaşamış oluruz. Yazıyı paylaşarak başka insanların da tartışmaya katılmasına vesile olmuş olursunuz efendim. Sevgiler ve saygılar.
 
 _Başlıktaki fotoğraf çalışması, [Benoit Paillé](http://www.benoitp.com/)&#8216;in &#8220;Alternative Landscapes&#8221; serisinden alınmıştır._
-
-<div class="ttr_end">
-</div>

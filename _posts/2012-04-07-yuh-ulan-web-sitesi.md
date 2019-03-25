@@ -3,14 +3,17 @@ id: 1495
 title: 'Yuh Ulan &#8211; Web Sitesi'
 date: 2012-04-07T00:14:17+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1495
 permalink: /yuh-ulan-web-sitesi/
 dsq_thread_id:
   - "5539706647"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2012/04/logo_yuhulan-e1424263544481.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/04/logo_yuhulan-e1424263544481.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -21,8 +24,6 @@ tags:
   - yuh ulan
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 WordPress üzerine siyah basit bir tema uygulaması sonucu görseli ortaya çıkan basit seviye bir haber sitesi olan <a title="Yuh Ulan" href="http://www.yuhulan.com" target="_blank" rel="noopener">YuhUlan</a>, kişisel olarak kendi &#8220;insanlığıma&#8221; yediremediğim, duyunca sadece o an tepki verip yaşamaya devam etmeyi haz edemediğim olayları bir araya getirip haber niteliği taşıyacak boyutta internet üzerinden paylaştığım yazıların arşivlenmesi sistemidir. Kategorilere ayrılan site Kıbrıs&#8217;dan bütün Dünya&#8217;ya, fotoğraf, video, dinsel veya devletsel bazda pek çok &#8220;insanlığın içler acısı&#8221; halini ifade etme fırsatı sunmaktadır.
 

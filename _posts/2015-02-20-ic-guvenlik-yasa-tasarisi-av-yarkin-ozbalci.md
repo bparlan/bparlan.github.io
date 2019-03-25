@@ -3,14 +3,17 @@ id: 2345
 title: 'İç Güvenlik Yasa Tasarısı &#8211; Av. Yarkın Özbalcı'
 date: 2015-02-20T12:35:11+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2345
 permalink: /ic-guvenlik-yasa-tasarisi-av-yarkin-ozbalci/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5583308063"
-image: /wp-content/uploads/2015/02/icguvenlik.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/02/icguvenlik.jpg
 categories:
   - Tapınak
 tags:
@@ -21,8 +24,6 @@ tags:
   - yasa
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <div class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <blockquote>
@@ -298,7 +299,4 @@ format: image
   <p>
     <a title="İç Güvenlik Yasası" href="http://adf.ly/13KYxk" target="_blank">Kaynak Link</a>
   </p>
-</div>
-
-<div class="ttr_end">
 </div>

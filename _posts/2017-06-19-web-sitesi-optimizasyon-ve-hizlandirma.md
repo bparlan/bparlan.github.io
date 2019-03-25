@@ -3,14 +3,17 @@ id: 2806
 title: Web Sitesi Optimizasyon ve Hızlandırma
 date: 2017-06-19T20:20:09+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2806
 permalink: /web-sitesi-optimizasyon-ve-hizlandirma/
 dsq_thread_id:
   - "5924465869"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2017/06/website-optimizasyon.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/06/website-optimizasyon.jpg
 categories:
   - Bilişim
   - Rehber
@@ -22,8 +25,6 @@ tags:
   - website
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Google ve insanların en büyük ortak noktası, hızlı açılan websitelerini sevmeleridir. Başarılı optimizasyon bu yüzden çok önemlidir. İster wordpress, joomla, drupal vb. CMS (content management system) kullanıyor olun, isterseniz kendi sitenizi baştan sonra kendiniz yazmış olun, sayfanızın yüklenme hızı bütünüyle sitenize yaptığınız optimizasyon ile ilgilidir. Bu yazıda dört temel optimizasyon testini tanıtmanın yanında, nice zamandır notlarını düştüğüm daha pek çok optimizasyon ile ilgili yöntem ve aracın da tanıtımlarını yaptım. Öncelikle mahşerin dört atlısı olarak adlandırabileceğimiz dört önemli optimizasyon test sistemini tanıtmak ile başlayalım: Pingdom, GTmetrix, Varvy ve Google PageSpeed.
 
@@ -58,6 +59,3 @@ Google ve insanların en büyük ortak noktası, hızlı açılan websitelerini 
 **Bonus:** Aşağıdaki problem ile karşılaşırsanız, uğraşmayın!  
 **_Server static content from a cookieless domain_  
 ** Eğer websiteniz için CloudFlare CDN kullanıyorsanız ne yazık ki bu problemin bir çözümü yok. KeyCDN veya diğer alternatiflerde uzun ve ciddi adımlarla çözülebilecek bu problem bir başka yazı konusu olacak kadar uzun ve incelikli bir iş.
-
-<div class="ttr_end">
-</div>

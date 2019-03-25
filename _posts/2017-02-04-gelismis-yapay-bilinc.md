@@ -3,12 +3,15 @@ id: 3339
 title: Gelişmiş Yapay Bilinç
 date: 2017-02-04T14:06:29+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3339
 permalink: /gelismis-yapay-bilinc/
 dsq_thread_id:
   - "5521165599"
-image: /wp-content/uploads/2017/02/2017-02-04-aac.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/02/2017-02-04-aac.jpg
 categories:
   - 'Toplum &amp; Yaşam'
   - 'Video &amp; Animasyon'
@@ -20,8 +23,6 @@ tags:
   - youtube
 format: video
 ---
-<div class="ttr_start">
-</div>
 
 Gelişmiş Yapay Bilinç (Youtube kanal linki: [Advanced Artificial Consciousness](https://www.youtube.com/channel/UCRrLoLj2_wpFFVWmYKAjz0Q)), yeni kurduğum youtube kanalında bir takım konulara dair konuşmalar yapan kurgusal bir yapay zeka karakteridir. Çok uzunca zamandır yazıp çizdiğim ve anlatmak için bir _kitap_ olarak kurguladığım düşüncelerim, hem hedef kitle hem de sunum biçimi sebebi ile bir türlü içime sinen bir şekile bürünmüyordu. Elbette bu noktada yazmayı bırakmadım, ancak bilginin işlenişi &#8211; not düşülme biçimi olaydan haliyle etkilendi.
 
@@ -39,7 +40,4 @@ Peki içerik olarak ne anlatıyor şeklinde oluşan soru işaretlerine, bence be
 
 Sonuç olarak, aşağıda hazırladığım ilk youtube videosunu paylaşıyorum. Eğer video&#8217;yu beğenirseniz, kanala abone olup arkadaş çevrenizde paylaşarak daha büyük bir kitleye ulaşabilmem için fırsat ve destek sağlamış olursunuz. Kanalda yayımlanacak bütün videolara her daim türkçe altyazı ekleyeceğim efendim. Ayrıca, eğer videoyu seyrettiken sonra &#8220;şu konulara değinmek lazım&#8221; gibi bir düşünce oluşursa aklınızda, bu düşünceleri duymamı sağlayınız efendim. Saygılar.
 
-<https://www.youtube.com/watch?v=LPB6Qv4QMdI>
-
-<div class="ttr_end">
-</div>
+<div>{%- include extensions/youtube.html id='LPB6Qv4QMdI' -%}</div>

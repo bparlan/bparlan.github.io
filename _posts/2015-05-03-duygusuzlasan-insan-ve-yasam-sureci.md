@@ -3,12 +3,15 @@ id: 2488
 title: Duygusuzlaşan İnsan ve Yaşam Süreci
 date: 2015-05-03T10:32:15+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2488
 permalink: /duygusuzlasan-insan-ve-yasam-sureci/
 dsq_thread_id:
   - "5499690887"
-image: /wp-content/uploads/2015/05/duygusuz-insan-ve-yasam-sureci.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/05/duygusuz-insan-ve-yasam-sureci.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -20,8 +23,6 @@ tags:
   - yaşam
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Eğer topuklarınız normalden fazla sürtünmeye / yürümeye maruz kalırsa, nasır tutar. Bu nasır, mevcut yaşanılanların bir sonucu olmakla birlikte benzer bir sürecin devam etmesi durumunda ayaklarınızın daha dayanıklı olmasını sağlar, ancak aynı zamanda bu durum hissizleşme ile de sonuçlanır, ayağınız ile bastığınız çimlerin yumuşaklığı gıdıklamaz artık ayaklarınızı. Eğer böyle bir aşırı sürtünme daha hassas bir yerde, misal göz kapağınızda meydana gelirse, göz kapağınız nasır tutamaz, çürür. Yani bazı noktalar da var ki, belirli bir duyarsızlığa ulaşmak onun görevini icra edememesini sağlar&#8230;
 
@@ -38,6 +39,3 @@ En biyolojik tabiri ile &#8220;daha az gör, daha az duy, daha az hisset&#8221;&
 * * *
 
 _Gecenin bir vakti uyku öncesi muhabbetlerimizde bunları konuşan ve konuşturan **<a href="http://www.pacozkontes.com" target="_blank">Paçoz Kontes</a>**&#8216;e teşekkürler&#8230;_
-
-<div class="ttr_end">
-</div>

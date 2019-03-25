@@ -3,7 +3,7 @@ id: 1919
 title: Kali Linux Yükledikten Sonra Yapılacaklar
 date: 2014-09-21T20:49:35+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1919
 permalink: /kali-linux-yukledikten-sonra-yapilacaklar/
 post_views_count:
@@ -12,7 +12,10 @@ dsq_thread_id:
   - "5479395123"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2014/09/unix.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Rehber
   - Unix | Linux
@@ -24,8 +27,6 @@ tags:
   - rehber
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bilgisayarınıza Kali Linux yükledikten sonra yapılacaklar şeklinde bir liste oluşturdum ki, hem kendim ihtiyaç hissettiğimde doğrudan danışayım, hem de başkaları faydalanabilsin bu rehberden. Eklenmesi gerektiğini düşündüğünüz maddeler veya güncellenmesi gerekenler olursa eğer, yazıya yorum olarak yazabilirsiniz.
 

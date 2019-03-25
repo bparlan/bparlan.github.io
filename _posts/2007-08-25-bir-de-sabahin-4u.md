@@ -3,10 +3,13 @@ id: 115
 title: 'Bir de sabahın 4ü&#8230;'
 date: 2007-08-25T18:27:07+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=115
 permalink: /bir-de-sabahin-4u/
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -16,8 +19,6 @@ tags:
   - edebiyat
   - sabah
 ---
-<div class="ttr_start">
-</div>
 
 <p align="center">
   Titrek parmaklarda ojeli tırnaklarım ve onlar kadar isyânkar görünmeseler de aynı rengi yansıtan / kıvranan / kıvrılmış uyuyan / uyandıkça müzik kutusuna sarılan / sarsılan ruhum var&#8230;
@@ -46,6 +47,3 @@ tags:
 <p align="center">
   Sayın Rahme&#8230; Ve Tanyacan&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

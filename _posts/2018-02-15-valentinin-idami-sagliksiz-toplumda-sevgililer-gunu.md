@@ -3,12 +3,15 @@ id: 3817
 title: 'Valentin&#8217;in İdamı &#038; Sağlıksız Toplumda Sevgililer Günü'
 date: 2018-02-15T18:55:19+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3817
 permalink: /valentinin-idami-sagliksiz-toplumda-sevgililer-gunu/
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2018/02/bparlan_com-valentin.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2018/02/bparlan_com-valentin.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -21,8 +24,6 @@ tags:
   - valentines day
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Valentin, 14 Şubat 278&#8217;de İmparator 2. Claudius tarafından giyotin ile idam edildi. Günümüz toplumunun &#8220;sevgililer günü kutlaması&#8221; esasen bu olayın tarihteki yankısıdır. Benim isyanım kapitalizm&#8217;e değil, yankıların olay&#8217;dan ve anlamdan kopuk şekilde ağır basmasınadır. Sevgi tanımının ve sevme biçimlerinin bile tartışmalı olduğu günümüz hastalıklı ilişkiler silsilesi bugün de pek çok insani değer gibi ayaklar altındadır.
 
@@ -49,6 +50,3 @@ _Buraya kadar yazdıklarımı okuyan ve vakti olan sanatçı ruhlu arkadaşları
 Öte yandan, devletin empoze ettiği ve toplumun büyük kısmının da hiç bir ilgisi / bilgisi olmadan &#8220;savunduğu&#8221; dinin takvimine göre 1405 yılının Cemaziyelevvel ayının 24&#8217;ünde dünyaya geldim ben. 1439&#8217;u yaşadığımız bu yıl çerçevesinde yaşım 34, doğum günüm ise 4 gün önce idi&#8230; Buna rağmen miladi takvimi takip ederek kutlayanlara ayrıca sevgiler efendim (:
 
 _Yazı görseli: Los Romanos de la Decadencia, Museo de Orsay (1847)_
-
-<div class="ttr_end">
-</div>

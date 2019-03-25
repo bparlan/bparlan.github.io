@@ -3,12 +3,15 @@ id: 2603
 title: 2015 Türkiye Seçim Değerlendirmesi
 date: 2015-11-05T19:01:38+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2603
 permalink: /2015-turkiye-secim-degerlendirmesi/
 dsq_thread_id:
   - "5691052224"
-image: /wp-content/uploads/2015/11/secim-2015.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/11/secim-2015.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -20,8 +23,6 @@ tags:
   - türkiye
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 1 Kasım 2015 tarihinde gerçekleştirilen Türkiye Genel Seçimlerine (<a href="https://tr.wikipedia.org/wiki/Kas%C4%B1m_2015_T%C3%BCrkiye_genel_se%C3%A7imleri" target="_blank">1 Kasım Türkiye Genel Seçimleri &#8211; Wiki</a>) dair düşülmesi gereken notlar mevcuttur. Öncelikle, seçimlerle ilgili resmî kaynaklardan açıklanan tek sonuç, %10 barajını aşan dört parti olduğu bilgisidir (<a href="http://www.ysk.gov.tr/ysk/docs/Kararlar/2015Pdf/2015-2193.pdf" target="_blank">YSK Kararı</a>), hangi partinin % kaç oy aldığına dair herhangi bir resmî ifade halen daha yoktur. Bu durum öncelikle “normal” değildir, neden bu seçimde resmî rakamlar için 10 gün bekleme gereği görülmüştür, öncelikle bu sorgulanmalıdır. Özellikle **“anket şirketlerinin hiç birisi doğru rakamlara yaklaşamadı”** şeklinde ifade edilen bir seçimin sonuçlarını biz nasıl medya şirketlerinin “doğru bildiği” şeklinde algılayabiliriz ki? Anti demokrat şartlar altında yapılan seçimin resmî olmayan sonuçlarını **“uygundur”** kabul etmeye neden bu kadar hevesli bir medyayı takip ediyoruz?
 
@@ -41,13 +42,10 @@ Bu noktada LDP Genel Başkanı Cem Toker’in _“Ben milli iradeye saygı duymu
 
 Sonuç olarak ise, Türk toplumu, yönetilmekten başka hiç bir vasfı kalmamış insanlar bütününün kullandığı oylar sonucunda, yaşam standartlarını – yaşam koşullarını değiştirmeye zorlanma sürecine en ağır fedakârlıklar ile devam etmek zorunda bırakılmıştır. Zira henüz net olarak rakamsal sonuçlarını bilmediğimiz seçimin yaşamsal sonuçlarını hissetmeye başlamıştır toplum (<a href="http://www.diken.com.tr/istanbulun-gobeginde-icki-icenlere-tayyip-erdogan-sloganli-saldiri/" target="_blank">Alkol kullananlara saldırı</a>). İstanbulda “Recep Tayip Erdoğan” ve “Ya Allah Bismillah” şeklinde sloganlar atan kitle, alkol satışı olan mekânda oturan insanlara saldırmış ve artık Türkiye Cumhuriyetinde alkol içilemeyeceğini beyan etmiş bulunmaktadır. Kabataş’ta tacize uğradığı iddia edilen “bacımızın” kocaları olması muhtemel bu kitle, ülkenin yaşayacağı iç çatışmaların ayak sesleri olarak medyamızda yer almaktadır.
 
-### Ciddi bir hazırlık…
+### Ciddi bir hazırlık...
 
 İşin özeti, seçimden bir gün öncesine kadar AKP ile arasını bozan her medyatik portre “batan gemiyi ilk fareler terk eder” şeklinde bir altyazı ile yayımlandı. Süreç sonucunda anlaşıldı ki o kişiler &#8220;bunlarla olmaz&#8221; diyerek temizlik esnasında gemiden atılan farelermiş. Algı hazırlığı da aynı şekilde devam etti kişisel kanaatimce. Misal &#8220;Nokta&#8221; dergisinde yayımlanan AKP&#8217;nin günlükleri, _&#8220;bu adamlar hatalarının farkındalar&#8221;_ algısını oluşturmuş durumdadır. Herkes seçimi kaybedip çekip gideceklerini umut ederken, muhteşem bir operasyon ile tek başına iktidara gelmeleri bir yana, bugün çıkıp &#8220;hile yapmadık, hatalarımızın farkındaydık aha **&#8216;nokta&#8217;** çaldı toplantı notlarımızı, biz o notları takip ettik ve başardık&#8221; şeklinde bir savunma ile muazzam haklı bir konuma geçmiş bulunabiliyorlar.
 
 Ve doğal olarak fatura “kendimizden başka” bir yere kesilmek zorunda olduğu için, sahnemizde MHP ve HDP kalıyor. Devlet Bahçeli’nin gitmesi gerektiğine dair bir fikrim yok, HDP’nin seçim kampanyasını yürütüp yürütemediğine dair de bir fikrim yok. Bildiğim tek bir şey var, MHP’li bir kitle HDP’nin %10’un altında kalması durumunda meclisin nasıl bir dağılım göstereceğini hesaplamıştır ve hayatlarında ilk defa “çok sesli olmanın” neden güzel bir şey olduğunu hissetmiştir. Yani iki seçim arası süreçte HDP Genel Merkez binasının da yakılması dâhil HDP binalarına yönelik 190 saldırının düzenlenmiş olduğunu ve seçim günü 500’e yakın HDP üye ve yöneticisinin tutuklu olduğunu bilmek, aynı şekilde HDP’lilerin de MHP kitlesini tanıması ve meclisteki yerini anlaması, en azından bundan birkaç yıl sonra olması muhtemel bir seçimde birbirlerinin değerini – kıymetini bilmelerini sağlar diye düşünmekteyim. Zira aslında tek söylenmesi gereken gerçek, kitlelerin birbirlerine muhtaç oldukları bir dönemde, bu muhtaçlığı red etmiş olmalarının sonucudur (faturasıdır) 1 Kasım seçimi.
 
 Konuya dair yazılacak her şey dönüp dolaşıp aynı kısır döngüye giriyormuş gibi durmaktadır, ancak öyle değildir. Kısır döngü, döngüsel düşünmeyi bıraktığımız noktada bitmektedir, ancak bu döngüsel düşüncelerin sonu &#8220;biz&#8221; de başlamaktadır. Önce toplumun bireyleri olarak bizler değişmeliyiz ki sonuç olarak toplum değişsin. Bu noktada yapılacak her şey bizlerde, sokaklardaki insanlarda başlamaktadır. İğne değil, çuvaldız ile büyük ilişkisi olan konulardır. Zira şimdi Emma Goldman&#8217;ın _&#8220;_<span class="st"><em>Oy vermek bir şeyleri değiştirseydi, yasaklanırdı&#8221;</em> sözünü söyleyeceğin kitlenin seni anlaması için, demokrasiye dair bir miktar fikri olması gerekir.</span>
-
-<div class="ttr_end">
-</div>

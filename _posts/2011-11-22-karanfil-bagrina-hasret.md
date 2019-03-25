@@ -3,10 +3,13 @@ id: 839
 title: Karanfil Bağrına Hasret
 date: 2011-11-22T05:59:45+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=839
 permalink: /karanfil-bagrina-hasret/
-image: /wp-content/uploads/2011/11/BParlanThumbs.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/BParlanThumbs.jpg
 categories:
   - Tapınak
 tags:
@@ -17,8 +20,6 @@ tags:
   - zemsiz
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Kırık cümleler atadım yâdıma&#8230;
 
@@ -81,6 +82,3 @@ Seni yalnız koyacak mıyız sandın?
 A yiğidim yetim mi kaldın?!&#8221;</em>
 
 Umay Zemsiz ~Karanfil Bağrına Hasret
-
-<div class="ttr_end">
-</div>

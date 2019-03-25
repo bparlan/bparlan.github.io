@@ -3,12 +3,15 @@ id: 123
 title: Uysal Yankılarım
 date: 2007-09-10T17:39:43+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=123
 permalink: /uysal-yankilarim/
 dsq_thread_id:
   - "5481315002"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - yalnızlık
   - yankı
 ---
-<div class="ttr_start">
-</div>
 
 <p align="center">
   Uslansada yalnızlığım, senin yanında<br /> Uzlaşamadım yalnızlığımla senin ardında<br /> Uyuyabilirdim yalnızca senin bakışlarında<br /> Uğurlandım yalnızlığa senin kaçışlarında<br /> Utanırdım yalın yalın senin yatışlarında

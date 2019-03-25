@@ -3,12 +3,15 @@ id: 2469
 title: HSBC Kampanyası ve Dijital Taciz
 date: 2015-04-16T19:15:56+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2469
 permalink: /hsbc-kampanyasi-ve-dijital-taciz/
 dsq_thread_id:
   - "5523901510"
-image: /wp-content/uploads/2015/04/dijital_taciz.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/04/dijital_taciz.jpg
 categories:
   - Blog
   - 'İnceleme &amp; Tanıtım'
@@ -20,8 +23,6 @@ tags:
   - taciz
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 HSBC&#8217;nin _SMS, email ve telefon aracılığı ile reklam yapma izni almak için_ yaptığı kampanyayı günümüzde **Dijital Taciz** olarak tanımlamak doğru mudur? Hiç bir kurum veya kuruluşa saygısızlık etmeden, ismini kötülemeden bu konuyu incelemek istiyorum.
 
@@ -121,6 +122,3 @@ Bütün bu yazıyı ise bu noktaya kadar okuyan kişilere yürekten teşekkür e
 Gelen yorumlar aracılığı ile öğrendim ki, 24 Ekim 2014&#8217;de yasaklanma geçmiş TBMM&#8217;den, geçiş &#8211; uyum süreci olarak da 6 ay izin verilmiş. Sonuç olarak 1 Mayıs 2015&#8217;den itibaren hiç bir şirket sizin onayınız olmadan  telefon ile sizi arayamayacak, sms mesaj gönderemeyecek. Şirketlerin panik olmasını sağlayan olay buymuş&#8230; Yasa duyurusunu aşağıda belirtiyor, herkese hayırlı olsun diyorum.
 
 > Özellikle bankalar başta olmak üzere bazı firmalar, bir şekilde iletişim bilgilerine eriştikleri kişileri cep telefonlarından arıyor. Eğer yanıt verilmezse aramaya ısrarla devam ediliyor. Hiçbir ilginizin bulunmadığı yerlerden SMS’ler, elektronik postalar ve benzeri ticari iletiler geliyor, tüketici adeta bombardımana tutuluyor. Herkesi bıktıran bu durum karşısında yasa koyucu harekete geçti ve kanun 23 Ekim 2014’te Türkiye Büyük Millet Meclisi’nde kabul edildi, 6 aylık da geçiş süresi tanındı. Yasanın 6’ncı maddesinde ’Ticari elektronik iletiler, alıcılara ancak önceden onayları alınmak kaydıyla gönderilebilir. Bu onay, yazılı olarak veya her türlü elektronik iletişim araçlarıyla alınabilir’ şeklinde yasaklayıcı açık hüküm var. Kanunun 12’nci maddesinde izinsiz mesaj gönderilmesi ve arama yapılması halinde bin ile 5 bin TL arasında idari para cezası uygulanması öngörülüyor. Ancak birden fazla kimseye gönderide bulunulursa bu ceza 10 katına dek artırılarak uygulanabilecek, 50 bin TL’ye kadar yükselecek. Ticari kuruluşların 1 Mayıs Cuma gününden itibaren çok dikkatli olmasında fayda var, aksi halde ciddi para cezalarıyla karşı karşıya kalabilirler. Tüketiciler de izin vermedikleri halde ticari bir tanıtım amacıyla rahatsız edilmeleri durumunda, yasanın yetkili kıldığı Gümrük ve Ticaret Bakanlığı’na ve bu bakanlığa bağlı birimlere başvurabilir.
-
-<div class="ttr_end">
-</div>

@@ -4,10 +4,13 @@ title: 'Nokta &#8211; Cümlede Dört Eylem II'
 date: 2008-08-17T06:47:55+02:00
 author: Barış Parlan
 excerpt: 'Eğer yalnızlığın özeti diye bildiğiniz şey bir başınıza içtiğiniz sigara ise kış akşamları buz soğuğu arka sokak balkonlarında, siz gittikten sonra tablanın içinde sabaha karşı  rüzgârdan savrulan küllerin bile terk ettiği yağmurda boğulan izmaritleriyizdir bizler hayatın. Aslında bırakıldığımız yerin adı kültablasıdır ve bu mekânın adında bile bizlere yer yoktur. En yıkılmış karakter bile filmlerde sigara yakarak bir başlangıcı simgeler bu bağlamda ve çoğunda da ayaklar altında terk ederiz zaten kendi kendimizi yakmaktan başka anlamı olmayan hayatlarımızı...'
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=170
 permalink: /nokta-cumlede-dort-eylem-ii/
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,11 +21,9 @@ tags:
   - nokta
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p class="MsoNormal" style="text-align: center;">
-  <em>Kanayan bileklere ithaf olunur…</em>
+  <em>Kanayan bileklere ithaf olunur...</em>
 </p>
 
 <p class="MsoNormal">
@@ -52,6 +53,3 @@ format: image
 <p class="MsoNormal" style="text-align: center;">
   Devamı: <a title="Yüklem" href="http://www.bparlan.com/2011/yuklem-cumlede-dort-eylem-iii/">Yüklem &#8211; Cümlede Dört Eylem III</a>
 </p>
-
-<div class="ttr_end">
-</div>

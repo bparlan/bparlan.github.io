@@ -3,14 +3,17 @@ id: 1956
 title: Windows cannot access the specified path file or device
 date: 2014-12-24T10:11:37+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1956
 permalink: /windows-cannot-access-the-specified-path-file-or-device/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5523867255"
-image: /wp-content/uploads/2014/12/blue_screen_microsoft_windows_blue_screen_of_death_1440x900_wallpaper_Wallpaper_1920x1200_www.wall321.com_-e1424505349544.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/12/blue_screen_microsoft_windows_blue_screen_of_death_1440x900_wallpaper_Wallpaper_1920x1200_www.wall321.com_-e1424505349544.jpg
 categories:
   - Windows | PC
 tags:
@@ -20,8 +23,6 @@ tags:
   - windows
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Hata: &#8220;Windows cannot access the specified path file or device&#8221;
 
@@ -41,6 +42,3 @@ SafeMode&#8217;da aşamaları takip edip, bittiğinde Add/Remove Programs&#8217;
 #### Detay
 
 Derin plan&#8217;da olan ise, bilgisayarın bütün dökümanlarının &#8220;Ownership&#8221;lerinin değişmesi. Ve sizin Owner olmamanız. Bunların toplu çözümü o yazılımda. Normal açılan windows&#8217;a tekrar aynı firewall&#8217;ı yüklemek problem yaratmıyor.
-
-<div class="ttr_end">
-</div>

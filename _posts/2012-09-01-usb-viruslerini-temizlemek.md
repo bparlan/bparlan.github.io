@@ -3,12 +3,15 @@ id: 1801
 title: Usb Virüslerini Temizlemek
 date: 2012-09-01T12:50:02+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1801
 permalink: /usb-viruslerini-temizlemek/
 dsq_thread_id:
   - "5796860208"
-image: /wp-content/uploads/2012/03/Technolog.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/Technolog.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -19,8 +22,6 @@ tags:
   - virüs
 format: aside
 ---
-<div class="ttr_start">
-</div>
 
 Bütün insanlığın baş belası olan USB Virüs problemi, evet o dosyalarınızın USB memory stick&#8217;inizde olduğuna emin olduğunuz halde onları göremeyişiniz (ki aslında oradalar ve sadece görünmezler), veya onları görüyorken, tıkladığınızda açılmıyor olmaları (ki aslında tıkladıklarınız sadece onların &#8220;kısa yol kopyaları&#8221; ve orjinal dökümana gitmiyor bu kısa yollar, tıklanmak için sizi aldatıyorlar, zira tıklayınca bağlı bilgisayara da bulaşıyorlar), o ne işe yaradığını hiç anlamadığınız ama USB&#8217;nizde herdaim bulunan autorun.inf dökümanı&#8230; Uzatmayacağım, çok bir detay da açıklamayacağım, sadece nasıl kurtulursunuz, buna dair ileri seviye bir teknik paylaşacağım, dilerim ihtiyacı olanların işine yarar.
 
@@ -49,6 +50,3 @@ Hayırlı olsun efendim.
 &nbsp;
 
 X: -> Usb Flash Disk&#8217;in bulunduğu drive letter olacak.
-
-<div class="ttr_end">
-</div>

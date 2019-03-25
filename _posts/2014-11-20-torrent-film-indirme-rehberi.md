@@ -3,7 +3,7 @@ id: 1905
 title: Torrent Film İndirme Rehberi
 date: 2014-11-20T22:40:38+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1905
 permalink: /torrent-film-indirme-rehberi/
 post_views_count:
@@ -12,7 +12,10 @@ dsq_thread_id:
   - "5480349822"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2014/11/url-e1424505668231.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/11/url-e1424505668231.jpg
 categories:
   - Rehber
 tags:
@@ -23,8 +26,6 @@ tags:
   - torrent
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Gerek sinema için ekonomik olarak harcama yapamayanlar, gerekse sinema salonunda evinin konforunu bulamayanlar için, Torrent dünyasında kaliteli film indirmek (download) için bilinmesi gereken bütün kritik konuları içeren kapsamlı bir rehber &#8211; kılavuz hazırladım. Burada yazılan adresler &#8211; linkler çalışmaz ise eğer, lütfen yorum olarak belirtin, zira bu konular da bütün dijital dünya gibi sıklıkla değişmekte. Böyle olası değişikliklerde haber ederseniz, gerekli güncellemeleri hemen yapacağım&#8230;
 
@@ -84,6 +85,3 @@ uTorrent adlı program ile filmimiz inerken, bu indirme işlemini hızlandırman
 Televizyon &#8211; Plazma gibi cihazlarda, USB ile filmi seyretmek istiyorsanız size tavsiyem, filmin dosya adı ile, altyazının dosya adları AYNI olsun. Yani tam olarak filmi seçin, klavyeden F2&#8217;ye basın, CTRL+C ile kopyalayın. Aynı şekilde altyazıyı seçip F2&#8217;ye basıp Ctrl+V ile yapıştırın. Bilgisayar dahil bütün cihazlar &#8211; programlar, video ile aynı isimdeki altyazıyı otomatik olarak açarlar.
 
 Hepinize iyi seyirler efendim&#8230;
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 1667
 title: EU Photography Web Sitesi
 date: 2012-04-19T11:34:00+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1667
 permalink: /eu-photography-web-sitesi/
 dsq_thread_id:
   - "5539706252"
-image: /wp-content/uploads/2012/04/EU-Web-011-e1424529619264.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/04/EU-Web-011-e1424529619264.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web site
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Fotoğraf Sanatçısı Emre Uyar&#8217;ın bütün taleplerini en başarılı şekilde karşılamak amacı ile hazırlanan site, &#8220;Ne istediğini &#8211; neye ihtiyacı olduğunu bilen bir müşteriye ne kadar hızlı ve tatmin edici bir site hazırlanabileceği&#8221; konusuna en güzel örneği teşkil etmektedir. Sanatçının fotoğraflarını ön plana çıkarması için ihtiyacını hissettiği &#8220;sadelik&#8221; sitenin temel özelliğidir. Hazırlanan sistem sayesinde Sanatçı dilediği zaman çok kolay bir şekilde siteye kategori &#8211; resim &#8211; albüm ekleyip bunları kişisel sitesinde sunuma hazırlayabilmektedir.
 
@@ -100,7 +101,4 @@ Fotoğraf Sanatçısı Emre Uyar&#8217;ın bütün taleplerini en başarılı ş
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

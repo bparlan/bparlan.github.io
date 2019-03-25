@@ -3,14 +3,17 @@ id: 1921
 title: Mega Holdings Dolandırıcılığı
 date: 2014-09-21T21:52:00+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1921
 permalink: /mega-holdings-dolandiriciligi/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5479558606"
-image: /wp-content/uploads/2014/09/scamkeyboard-e1424504391355.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/scamkeyboard-e1424504391355.jpg
 categories:
   - Blog
   - 'İnceleme &amp; Tanıtım'
@@ -22,8 +25,6 @@ tags:
   - mega
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 **Güncelleme I:**
 
@@ -87,6 +88,3 @@ Bir Domain için neredeyse evrensel denebilecek fiyatı KDV dahil 23 TL&#8217;di
 Mega Holdings, yukarıda anlattığım ortalama 60 TL&#8217;lik Domain ve Hosting hizmetlerini size 2.150 TL&#8217;ye satmaktalar. Bu fahiş fiyatın açıklaması olarak ise &#8220;Sınırsız Disk Alanı&#8221; verdiklerini ifade etmektedirler. Neden sınırsız? Çünkü teknolojik konulardan anlamayan bir kişinin yıllık disk alanı gideri 50 TL&#8217;yi geçmez. Bunun yanında teknolojik gereklilik olarak sayabileceğimiz Yedekleme ve Güvenlik gibi teknolojilerin hiç birisini sunmamaktalar, zira kendileri de &#8220;hizmetin kullanılmayacağının&#8221; farkındalar. Üye olanların, verdikleri parayı geri kazanıp akabinde &#8220;zengin&#8221; olabilmeleri için tek yol, yeni kurbanlar bulup onları bu fahiş fiyattan üye yapmaktır&#8230;
 
 Ne yazık ki yaşadığımız ada küçük bir yer, ve dolandırılan insanlar eşlerine dostlarına düşman olmaktalar. Bütün bu olayların sonucunda ise tek kazanan, çok da uzak olmayan bir yerlerden gelip bilinçsiz insanlara bu hizmeti satmış, ve şimdi de daha çok insanın birbirine satmasını bekleyen &#8220;Zincirin başındakiler&#8221;. Lütfen aldanmayınız. _Bedava peynir, fare kapanında olur._
-
-<div class="ttr_end">
-</div>

@@ -3,11 +3,14 @@ id: 4094
 title: Din, Şiddet, Bilgisayar Oyunları
 date: 2019-03-18T02:42:01+02:00
 author: Barış Parlan
-excerpt: "Yeni Zellanda'da bir adamın camiye girip otomatik silahla onlarca insanı öldürmesini başına taktığı kamera ile facebook üzerinden canlı yayımlaması, haber sitelerinin saldırgan ile benzer ideolojilerle haber yapması ve sosyal medyaya sıçraması üzerine düşüncelerimdir.﻿"
-layout: post
+excerpt: "Yeni Zellanda'da bir adamın camiye girip otomatik silahla onlarca insanı öldürmesini başına taktığı kamera ile facebook üzerinden canlı yayımlaması, haber sitelerinin saldırgan ile benzer ideolojilerle haber yapması ve sosyal medyaya sıçraması üzerine düşüncelerimdir."
+layout: article
 guid: http://www.bparlan.com/?p=4094
 permalink: /din-siddet-bilgisayar-oyunlari/
-image: /wp-content/uploads/2019/03/DCCharlottesvilleSolidarityAction07-smaller.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2019/03/DCCharlottesvilleSolidarityAction07-smaller.jpg
 categories:
   - Oyunlar
   - 'Toplum &amp; Yaşam'
@@ -17,8 +20,6 @@ tags:
   - şiddet
   - yasak
 ---
-<div class="ttr_start">
-</div>
 
 _Yeni Zellanda&#8217;da bir adamın camiye girip otomatik silahla onlarca insanı öldürmesini başına taktığı kamera ile facebook üzerinden canlı yayımlaması, haber sitelerinin saldırgan ile benzer ideolojilerle haber yapması ve sosyal medyaya sıçraması üzerine düşüncelerimdir._
 
@@ -28,14 +29,13 @@ Giriş olarak okuduğunuz ifade zinciri bile aslında günümüzde din, ideoloji
 
 Olay örgüsünü ifade eden haber sitesi sayısı eminim ki çok fazladır, ben özellikle sosyal medyada paylaşıldığı formatına şahit olduğum için gzt.com&#8217;un <a href="https://www.gzt.com/haber/yeni-zelandadaki-terorist-neden-canli-yayin-yapti-3489724" target="_blank" rel="noreferrer noopener" aria-label="Yeni Zellanda'daki terörist neden canlı yayın yaptı? (yeni sekmede açılır)">Yeni Zellanda&#8217;daki terörist neden canlı yayın yaptı?</a> adlı haberinden yola çıkarak bu yazıyı yazmaya karar verdim.
 
-Orta doğu temelli İslam dinini günümüz inanç özgürlüğü çerçevesinde Yeni Zellanda&#8217;da yaşamak isteyen bireylerin yaşadıkları zorluklar, eminim ki bir Yeni Zellanda&#8217;lının Orta Doğu&#8217;da kendi inanç özgürlüğünü yaşama konusunda yüzleşeceği problemler ile benzeşmektedir. Günümüz dünyasında çok büyük oranda coğrafya ve çevresel faktörler ile belirlenen din mensupluğu, bilime ve ateizm&#8217;e karşı verdiği savaş kadar şiddetli savaşları her daim diğer dinlere de vermiştir. Dünya Ekonomi Formu&#8217;nun 25 Şubat 2019&#8217;da yayımlanan raporunda yer alan grafik 1975 &#8211; 2015 tarihleri arasında dünyada silahlı çatışmalar kapsamında Din temelli çatışmalardaki artışa işaret etmektedir. Grafikte görebileceğiniz gibi din ile ilgisi olmayan silahlı çatışmalardaki azalma, yerini istikrarla yükselen bir din temelli silahlı çatışma ortamına bırakmakta. Raporun haberine ve kendisine <a href="https://www.weforum.org/agenda/2019/02/how-should-faith-communities-halt-the-rise-in-religious-violence/" target="_blank" rel="noreferrer noopener" aria-label="bu linkten (yeni sekmede açılır)">bu linkten</a> ulaşabilirsiniz.<figure class="wp-block-image">
+Orta doğu temelli İslam dinini günümüz inanç özgürlüğü çerçevesinde Yeni Zellanda&#8217;da yaşamak isteyen bireylerin yaşadıkları zorluklar, eminim ki bir Yeni Zellanda&#8217;lının Orta Doğu&#8217;da kendi inanç özgürlüğünü yaşama konusunda yüzleşeceği problemler ile benzeşmektedir. Günümüz dünyasında çok büyük oranda coğrafya ve çevresel faktörler ile belirlenen din mensupluğu, bilime ve ateizm&#8217;e karşı verdiği savaş kadar şiddetli savaşları her daim diğer dinlere de vermiştir. Dünya Ekonomi Formu&#8217;nun 25 Şubat 2019&#8217;da yayımlanan raporunda yer alan grafik 1975 &#8211; 2015 tarihleri arasında dünyada silahlı çatışmalar kapsamında Din temelli çatışmalardaki artışa işaret etmektedir. Grafikte görebileceğiniz gibi din ile ilgisi olmayan silahlı çatışmalardaki azalma, yerini istikrarla yükselen bir din temelli silahlı çatışma ortamına bırakmakta. Raporun haberine ve kendisine <a href="https://www.weforum.org/agenda/2019/02/how-should-faith-communities-halt-the-rise-in-religious-violence/" target="_blank" rel="noreferrer noopener" aria-label="bu linkten (yeni sekmede açılır)">bu linkten</a> ulaşabilirsiniz.
 
-<img src="https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?fit=780%2C448" alt="" class="wp-image-4098" srcset="https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?w=2682 2682w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?resize=300%2C172 300w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?resize=768%2C442 768w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?resize=1060%2C609 1060w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?w=1560 1560w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?w=2340 2340w" sizes="(max-width: 780px) 100vw, 780px" /> </figure> 
+<img src="https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?fit=780%2C448" alt="" class="wp-image-4098" srcset="https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?w=2682 2682w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?resize=300%2C172 300w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?resize=768%2C442 768w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?resize=1060%2C609 1060w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?w=1560 1560w, https://i2.wp.com/www.bparlan.com/wp-content/uploads/2019/03/Cy4wKjRe8h37WKn8Xl_okbHlypsKe7VLRbSYpvJtVYY.png?w=2340 2340w" sizes="(max-width: 780px) 100vw, 780px" />
 
-Bu şiddetli uyuşmazlık geçmişi, bugün Avustralyalı bir adamın tam otomatik silah alıp İslam mensubu insanları katletmesi ile tekrarlanmış bulunmakta. Günümüzde bütün dinlerin temelinde yer alan ana düşünce, kültürel farklılıklardan soyutlanarak ele alındığında, ortaya çıkan mesaj <a rel="noreferrer noopener" aria-label="Charter for Compassion (yeni sekmede açılır)" href="https://charterforcompassion.org/" target="_blank">Charter for Compassion</a> isimli bir topluluğun anımsatmayı amaçladığı mesaj olarak karşımızda durmaktadır: Şefkat.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Bu şiddetli uyuşmazlık geçmişi, bugün Avustralyalı bir adamın tam otomatik silah alıp İslam mensubu insanları katletmesi ile tekrarlanmış bulunmakta. Günümüzde bütün dinlerin temelinde yer alan ana düşünce, kültürel farklılıklardan soyutlanarak ele alındığında, ortaya çıkan mesaj <a rel="noreferrer noopener" aria-label="Charter for Compassion (yeni sekmede açılır)" href="https://charterforcompassion.org/" target="_blank">Charter for Compassion</a> isimli bir topluluğun anımsatmayı amaçladığı mesaj olarak karşımızda durmaktadır: Şefkat.
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+<div>{%- include extensions/youtube.html id='wktlwCPDd94' -%}</div>
 
 İnancın dine dönüşmesi, üzerine milliyetçilik ve manipüle edilmiş diğer pek çok ideoloji eklenince, bireylerin ve kitlelerin böyle radikal noktalara sürüklenmesi neredeyse &#8220;doğal&#8221; bir sonuç olmaktadır. En basit örnek ile, saldırının yer aldığı kentin adının &#8220;ChristChurch&#8221; olması sizce konuya bir alt metin ekler mi?
 
@@ -75,6 +75,3 @@ Bilinçli aileler, bilinçli çocuklar yetiştirmek için güzel / eğitici / si
     Her yasak, kendi isyancısını doğurur.
   </p>
 </blockquote>
-
-<div class="ttr_end">
-</div>

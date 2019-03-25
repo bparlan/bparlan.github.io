@@ -3,12 +3,15 @@ id: 2631
 title: 'Kritik Düşünce: Google Kahin'
 date: 2015-11-20T11:43:26+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2631
 permalink: /kritik-dusunce-google-kahin/
 dsq_thread_id:
   - "5515364914"
-image: /wp-content/uploads/2015/11/Google-Kahin.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/11/Google-Kahin.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
   - 'Toplum &amp; Yaşam'
@@ -20,8 +23,6 @@ tags:
   - kritik
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <a href="http://betagoogle.com/" target="_blank">BetaGoogle.com</a> adresinde bulunan Google taklidi sistem aslında kahin kılığına girmiş bir farkındalık kampanyasını kritik düşünce ile inceleyelim. Siteye girdiğiniz zaman geleceğiniz ile ilgili ona soru sormanızı istiyor. Sorduğunuz soru çerçevesinde _Predict my future (Geleceğimi tahmin et)_ düğmesine basarak aramalar yapıp, geleceğinize dair sorunuzun en olası cevabını göstereceğini ifade ediyor.
 
@@ -48,6 +49,3 @@ Her ne kadar şirketin gerçek kimliği Google olmasa da, Google&#8217;ın da M�
 ### Kaynak olarak &#8220;insan&#8221;
 
 Bizlerden talep edilen şeyler paramız, zamanımız ve sevgimizdir. Sorgulamalarımız, beyin gücümüz, bilgi arzumuz kesinlikle onların işine yaramamaktadır. Yani işin en basit formatında, ortada bir problem yoktur. O topraklardaki **&#8220;petrol&#8221;** kadar **&#8220;insanlar&#8221;**a da &#8220;kaynak&#8221; olarak bakan uluslar ve çok uluslu şirketler bütününün bizlerden tek istediği, &#8220;mülteci&#8221; kelimesine ılımlı yaklaşmamız, neden bunlar oluyor diye sorgulamamamız, kirlenmekte olan mutfağı temizlemeye &#8220;yapısal çözümler&#8221; çerçevesinde yardım etmemizdir&#8230;
-
-<div class="ttr_end">
-</div>

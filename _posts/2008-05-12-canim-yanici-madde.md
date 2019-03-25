@@ -3,12 +3,15 @@ id: 166
 title: Canım Yanıcı Madde
 date: 2008-05-12T20:42:03+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=166
 permalink: /canim-yanici-madde/
 dsq_thread_id:
   - "5914518182"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - madde
   - yanıcı
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Tuzlu su emmiş sözlerim adada yaşadığımdandır, dört yanım hırçın, bakışın hırçın kıran. Kumsallar gibi alıştık dövülmeye dalgalar tarafından, balıkçı yanımız keserdi denizin çarşaf güzelliğini, dinginliğine aldırmadan olur olmaz saatlerde örtünürdü deliliklerimiz onunla, kıskandığından herhalde kıpraşırdı ışıl ışıl, bana garezi bu yüzdendir. Gözlerime de sızmış biraz bu denizin tuzu, pusu, geceler sağolsun. Sen kurardın hep<em> &#8220;yüklemi uçurum, öznesi almış başını gitmiş&#8221;</em> cümleleri, sanki sesini kaydetmeyi denesem, kaybedecektin nefesini. Bozgun cümlelerim çoktan bırakmış seninle savaşı, azâd ediyorum bütün benden gidişlerini, kendinden geçişlerini, bizde bekleyişlerini.
@@ -40,6 +41,3 @@ tags:
 <p align="center">
   <em> <strong>*</strong>Hassas Ruhlar Terazisi &#8211; Cem Mumcu</em>
 </p>
-
-<div class="ttr_end">
-</div>

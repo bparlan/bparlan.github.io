@@ -3,14 +3,17 @@ id: 2565
 title: Bitcoin Para Kazanma Rehberi
 date: 2015-09-23T10:15:56+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2565
 permalink: /bitcoin-para-kazanma-rehberi/
 dsq_thread_id:
   - "5479452315"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2015/09/btcn1.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/09/btcn1.jpg
 categories:
   - Rehber
 tags:
@@ -22,8 +25,6 @@ tags:
   - para
   - rehber
 ---
-<div class="ttr_start">
-</div>
 
 İnternette milyonlarca Bitcoin reklamlı sayfalar, ücretsiz para kazandırmaktadır. Öncelikle bilgi vererek işin güvenilirliğine dair bir konuyu netleştirelim, _bu insanlar neden bedava bitcoin dağıtmaktadırlar &#8211; bunu nasıl yapmaktadırlar?_ İnternet üzerinden gösterilen reklamlar, reklamı gösteren kişiye &#8220;göründüğü&#8221; kadar para kazandırmaktadır. Bu yüzden reklam yayımcıları örneğin 100$&#8217;lık bitcoin almakta, bunu çok küçük meblalar halinde sayfalarında ücretsiz dağıtmakta, bizim gibi ziyaretçiler de bu sayfalara girip bu küçük meblalık bitcoini alırken reklamlarını gördüğümüzden, örneğin onlar 100$ harcayıp 110$ gibi bir reklam geri dönüşü almaktadırlar. Bütün bu ziyaretlerimiz süresince biz de o 100$&#8217;ın bir kısmını kazanmaktayız.
 
@@ -97,6 +98,3 @@ Eğer bilgiler ve listeler için teşekkür etmek isterseniz BitCoin cüzdanıma
 _**1Ne63QXaZ62tGDeVyoxGYseDkrVpxgZvuF**_
 
 **Not:** Birkaç arkadaş mesaj atmış 1-2 tane faucet&#8217;in içinde para kalmamış diye, bazılarında para bitebiliyor, 2-3 gün içinde tekrar yüklüyorlar. Güvenilir olan ve tekrar yüklenenleri listeden silmiyorum. Yine de ilginiz için teşekkürler.
-
-<div class="ttr_end">
-</div>

@@ -3,10 +3,13 @@ id: 1237
 title: ArtView Productions Web Sitesi
 date: 2012-01-16T00:21:21+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1237
 permalink: /artview-productions-web-sitesi/
-image: /wp-content/uploads/2012/01/012.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/012.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -17,8 +20,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bütünüyle döneminin Macromedia Flash&#8217;ında AS1 kullanılarak hazırlanan ArtView Productions web sitesi müşteri ile yaşanan birtakım anlaşmazlıklar sebebi ile hiç aktif hayata geçememiş olsa da, o zamanların en zor görevleri olan Flash içerisinde database&#8217;den resim ve video gösterimi, müzik dinletisi ve DJ&#8217;lerin kişiselleştirilmiş sayfaları gibi özellikleri barındıran bir web sitesi olarak hazırlanmıştır. Flash&#8217;ın görsel ve animasyon temelli bütün nimetlerinden yararlanan site toplam swf olarak ulaştığı 800kb boyutu ile ne kadar bol efekt ve animasyon içerdiğini özetler durumdadır.
 
@@ -103,7 +104,4 @@ Geliştirme: Barış Parlan
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

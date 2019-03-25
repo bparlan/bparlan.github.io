@@ -3,12 +3,15 @@ id: 2550
 title: Ubuntu Server Linux Bahar Temizliği
 date: 2015-08-24T10:35:06+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2550
 permalink: /ubuntu-server-linux-bahar-temizligi/
 dsq_thread_id:
   - "5482626174"
-image: /wp-content/uploads/2014/09/unix.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/09/unix.jpg
 categories:
   - Unix | Linux
 tags:
@@ -20,8 +23,6 @@ tags:
   - upgrade
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Uzun süre bakım -temizlik yapılmamış ubuntu linux server için bahar temizliği zamanı geldiğini, bir program kurulumu sırasında aldığım hata mesajı ile anladım:
 
@@ -93,6 +94,3 @@ Ve işin özetinde başlangıçta girdiğimiz komut ile tekrar bakıyoruz:
 /dev/sda1  236M       106M          118M      48% /boot</pre>
 
 Artık diğer pek çok sanal ve reel hafızalarda yaşanan yer kazanımları, güncellenmiş olmanın ise güvenliksel rahatlığı içinde linux kullanımına devam edebilirsiniz.
-
-<div class="ttr_end">
-</div>

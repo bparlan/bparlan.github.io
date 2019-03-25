@@ -3,10 +3,13 @@ id: 160
 title: Sancı Aksanında
 date: 2008-03-22T18:32:40+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=160
 permalink: /sanci-aksaninda/
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -16,8 +19,6 @@ tags:
   - sancı
   - yaşam
 ---
-<div class="ttr_start">
-</div>
 
 <p align="center">
   Her doğum bir masala benzer, sancı aksanında&#8230;
@@ -50,6 +51,3 @@ tags:
 <p align="center">
   <em>AY</em><br /> Bir yalnız<br /> Gökyüzünün sözlüğünde.<br /> <em>İlhan Berk</em>
 </p>
-
-<div class="ttr_end">
-</div>

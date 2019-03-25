@@ -3,14 +3,17 @@ id: 3382
 title: Superkola.net Web Sitesi
 date: 2017-02-10T21:23:09+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3382
 permalink: /superkola-net-web-sitesi/
 dsq_thread_id:
   - "5540203142"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3383";s:11:"_thumb_type";s:5:"thumb";}'
-image: /wp-content/uploads/2017/02/header.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/02/header.jpg
 categories:
   - Portfolyo
   - Web Site Tasarım
@@ -22,8 +25,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Static-site prensibi ile hazırlanan Superkola.net, bütünü ile html-jquery kullanımı, &#8220;one-page&#8221; tasarımı sayesinde tek sayfa içerisinde muazzam akıcı parallax efekti ile ziyareti keyifli bir web sitesidir. Hem türkçe, hem ingilizce olarak hazırlanan web sitesi aynı zamanda lightbox fotoğraf albümü sunulmaktadır. Giriş sayfasında kodlanan slider, FontAwesome, GoogleFonts sistemleri sayesinde site boyutu mümkün olduğunca minimize tutulmakla birlite, responsive yapısı sayesinde her türlü cihazda da sıkıntısız erişim sağlamaktadır.
 
@@ -125,7 +126,4 @@ Site adresi: [www.superkola.net](http://www.superkola.net)
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

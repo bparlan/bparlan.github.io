@@ -3,12 +3,15 @@ id: 59
 title: 'O&#8217;Tuzlu Yaşlar'
 date: 2007-07-18T10:50:05+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=59
 permalink: /otuzlu-yaslar/
 dsq_thread_id:
   - "5522647684"
-image: /wp-content/uploads/2007/07/O__tuz__lu_Yas__lar____by_siyah-e1424077739375.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2007/07/O__tuz__lu_Yas__lar____by_siyah-e1424077739375.jpg
 categories:
   - Yazılarım
 tags:
@@ -20,8 +23,6 @@ tags:
   - yaşlar
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p align="center">
   annem haklıydı sevgilim en başından beri&#8230;<br /> <em>sen kalbimi çalan organ mafyası,<br /> ben edepsiz öpüşme meraklısı&#8230;</em>
@@ -40,6 +41,3 @@ format: image
 </p>
 
 _<a title="AltayÖktem.Net" href="http://www.altayoktem.net/" target="_blank">Altay Öktem</a>&#8216;in yardımı ile Yüxexes Karakalem&#8217;de çıkacak olan şiirim, kısmen eskidi, kelimeleri gibi anlamları da&#8230;_
-
-<div class="ttr_end">
-</div>

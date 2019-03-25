@@ -3,10 +3,13 @@ id: 1248
 title: 'We Fall &#8211; Game for GGJ 2012 (English)'
 date: 2012-01-30T17:17:50+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1248
 permalink: /we-fall-game-for-ggj-2012/
-image: /wp-content/uploads/2012/01/feature11.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/feature11.jpg
 categories:
   - English
   - Portfolyo
@@ -18,8 +21,6 @@ tags:
   - we fall
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   I&#8217;m prodly presenting the &#8220;We Fall&#8221; game that developed in Global Game Jam (GGJ) 2012 &#8211; Famagusta Eastern Mediterranean University JamSite by me and Aram Azhari.
@@ -67,7 +68,4 @@ format: image
       <strong>Idea:</strong> Aram Azhari and Baris Parlan<br /> <strong>Programming:</strong> Aram Azhari<br /> <strong>Graphics:</strong> Baris Parlan<br /> <strong>Music and Sound Effects:</strong> Aram Azhari
     </p>
   </div>
-</div>
-
-<div class="ttr_end">
 </div>

@@ -3,12 +3,15 @@ id: 2725
 title: 'yıl: ondört'
 date: 2016-01-08T08:36:36+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2725
 permalink: /yil-ondort/
 dsq_thread_id:
   - "6026156071"
-image: /wp-content/uploads/2016/01/10429419_10153516889443912_2192784586720318845_n.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/01/10429419_10153516889443912_2192784586720318845_n.jpg
 categories:
   - Blog
   - Yıllık
@@ -20,8 +23,6 @@ tags:
   - yıllık
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 &#8220;Nice insanlarla tanıştım, nice dostluklar kuruldu, nice müzikli, alkollü, muhabbetli günler ve gecelerle süslendi geçmiş olan 365 gün. Ve fakat aralarında paçoz ruhlu bir kadın var ki, &#8220;Barış&#8221;ın dönüp kendisine bakabilmesine, sarılabilmesine, kendi yaşantısının aslında o kadar da &#8220;garip&#8221; olmadığını, ve her şeye rağmen &#8220;paylaşılmak istenebileceğini&#8221; anlamasını sağladı. İnsan, kendi içinde barındırdığı bu kadar çok mutluluk ve mutsuzluk kaynağına dokunabilen birisine karşı hissettiği duyguları nasıl ifade edebilir? Bilinmez&#8230;&#8221; Şeklinde bitirmiştim onüç&#8217;ü&#8230; Evet, onüç&#8217;ü yazarken, oniki&#8217;den ne kadar da farklı olduğunu, yaşadıklarımın nasıl da diğer bütün hayatlar gibi öngörülemez ve beklenti dışı olabileceğini anlamıştım. Zira çok zor olmadı hiç bir şey, neredeyse &#8220;ben yapmadım&#8221; bile denebilecek basitlikte aslında, elden tek gelen, hayatın bizlere getirdiklerine kapı, pencere, yürek ve kucak açmamız&#8230; Hayat dediğimiz zaten beklenmedik şeyler ve şaşkınlık yaratan olaylar silsilesi değil midir?
 
@@ -39,6 +40,3 @@ format: image
   * Sonuç olarak, okudum, yazdım, çizdim, piknik yaptım, arkadaşlarımla içtim, muhabbetleştim. Kendime doğru birkaç adım attım, atamadığım yerlerde kendimi daha rahat görebilmek için birkaç adım uzaklaştım, yılın son günü mavi renk gömlek giydim misâl, farklılıklara açık olmayı, hissiyatı &#8220;hissedebilmeyi&#8221;, içtenlikle sevmeyi, ve sevilmeyi yeniden öğrendim&#8230;
 
 _&#8220;Kalp, dokunulması ayıp bir yerdir&#8230; Ne de olsa yazmak, edepsizce öpmektir&#8230;&#8221;_
-
-<div class="ttr_end">
-</div>

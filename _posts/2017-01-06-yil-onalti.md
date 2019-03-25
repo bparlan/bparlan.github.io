@@ -3,12 +3,15 @@ id: 3266
 title: 'yıl: onaltı'
 date: 2017-01-06T19:21:23+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3266
 permalink: /yil-onalti/
 dsq_thread_id:
   - "5486048876"
-image: /wp-content/uploads/2017/01/onalti-1.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/01/onalti-1.jpg
 categories:
   - Blog
   - Yıllık
@@ -20,8 +23,6 @@ tags:
   - yıllık
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 İnsanların 2016da (kısaca onaltı) yaşanılan bütün kötü olaylardan ötürü takvimin rakamlarına gücenmeleri, ve hatta &#8220;yeni yıl&#8221; olarak kutlama sırasında 2017ye dair iyi dilek dileme çılgınlıklarına facebook&#8217;da bir paylaşımım ile tepki göstermiştim:
 
@@ -54,6 +55,3 @@ Elbette her bir şeye &#8220;tepki&#8221; veren bir insan olmaktan öte, çözü
 > Whoever can evade the &#8220;Self&#8221; transcends  
 > this world and as a lover he ascends.  
 > ~simorgh efsanesi
-
-<div class="ttr_end">
-</div>

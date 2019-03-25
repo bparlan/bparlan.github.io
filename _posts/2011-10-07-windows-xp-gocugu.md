@@ -3,17 +3,18 @@ id: 717
 title: 'Windows XP Göçüğü&#8230;'
 date: 2011-10-07T07:17:07+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=717
 permalink: /windows-xp-gocugu/
 dsq_thread_id:
   - "6025590227"
-image: /wp-content/uploads/2012/03/Technolog.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/Technolog.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 ---
-<div class="ttr_start">
-</div>
 
 Evet bir başka Murphy haftası, en yoğun iki iş günü arası elime babamın göçmüş windows XP&#8217;si geldi, tamir için gece vakti oturdum bilgisayar karşısına, buyrun seyir defteri:
 
@@ -44,6 +45,3 @@ pratik olarak external harddisk&#8217;de bir folder yaratıp, o folderin içinde
 F:\SysBackup\> **xcopy &#8220;c:\Documents and Settings\<span style="color: #ff0000;"><em>Username</em></span>&#8221; -e**
 
 Dolu boş bütün file ve folder&#8217;ları aynı düzende kopyalıyor. Akabinde en azından dökümanların kaydı alınmış bir şekilde formata gidebiliriz, döküman aktarımı sırasında göze çarpan &#8220;LimeWire&#8221; virüsün nerden gelmiş olabileceği konusunda bana büyük bir ipucu verdi. Ayrıca &#8220;henüz format atmadım&#8221;, işe gideceğim, döndüğümde formatsız opsiyonu kendimi sınamak için deneyeceğim, bir gelişme olursa not düşülecektir.
-
-<div class="ttr_end">
-</div>

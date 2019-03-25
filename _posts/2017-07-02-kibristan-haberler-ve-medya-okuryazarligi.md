@@ -3,14 +3,17 @@ id: 3564
 title: 'Kıbrıs&#8217;tan Haberler ve Medya Okuryazarlığı'
 date: 2017-07-02T18:55:42+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3564
 permalink: /kibristan-haberler-ve-medya-okuryazarligi/
 dsq_thread_id:
   - "5958610671"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2017/07/Kıbrıs-Cyprus.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/07/Kıbrıs-Cyprus.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -23,8 +26,6 @@ tags:
   - okuryazarlık
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Kıbrıs basınında geçtiğimiz hafta yer alan haberler bir arada okunduğunda medya / toplum idrakı çok daha verimli olmaktadır. Aşağıda hakkında konuşmaya / yazmaya değer bulduğum haberler ve medya okuryazarlığı çerçevesinde yorumlarım mevcut.
 
@@ -81,6 +82,3 @@ Medya ise bu masa hakkında olduğu gibi bu ada hakkında da olan bitene dair ha
 Bu noktada patronun ve işçinin kabahati kadar, bu kararı kabullenen hakimin &#8211; savcının &#8211; mahkemenin dağıttığı &#8220;adalet&#8221; kavramı da sorgulanmalıdır diye düşünmekteyim. Ve haber denilen olgu eğer bu tür bir sorgulama yaklaşımını içermiyor ise, o haber kanalının haberciliği de sorgulanmalıdır.
 
 Özet olarak insanlar sorgulamadıkça ve hesap sormadıkça, bu komik &#8211; iğrenç &#8211; rezil &#8211; ayıp olaylar tekrar etmeye devam edecek. Bu noktada **medya okur-yazarlığı** olarak adlandırılan medya içeriğini okumaktan öte sorgulanmasını öğreten metod ilköğretim kapsamında müfredata alınmalıdır. Ancak günümüz yetişkinlerinin de kendilerini bu konuda geliştirmeleri ve yukarıda sözünü ettiğim _yalan haber, taraflı haber, ideoloji sömüren haber_ gibi konularda duyarlı olmaları şarttır. Zira günümüzde hakkı yenen her bireyin yanında olmayan her bireyin de bir gün hakkı yenecektir. Ve medyanın görevi manipülasyonlar ile bu durumu örtbas etmek değil, ifşa etmek olmalıdır. Aksini icra eden medya kanalları ekonomik güçlerin kitle kontrol &#8211; manipülasyon araçlarıdır.
-
-<div class="ttr_end">
-</div>

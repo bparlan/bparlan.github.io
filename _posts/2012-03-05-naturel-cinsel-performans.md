@@ -3,12 +3,15 @@ id: 1280
 title: Naturel Cinsel Performans Web Sitesi
 date: 2012-03-05T14:01:54+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1280
 permalink: /naturel-cinsel-performans/
 dsq_thread_id:
   - "5487119625"
-image: /wp-content/uploads/2012/03/Naturel-Cinsel-Performans-01.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/Naturel-Cinsel-Performans-01.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Naturel Cinsel Performans Web Sitesi, PHP, jQuery ve CSS ile yapılan, içinde 3 farklı formmail ve SSL güvenlik barındıran bir online ürün tanıtım sitesidir.
 
@@ -110,7 +111,4 @@ Ulaşım Adresi:
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

@@ -3,12 +3,15 @@ id: 2884
 title: CS:GO Behavioral Psychology
 date: 2016-06-08T11:03:29+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2884
 permalink: /csgo-behavioral-psychology/
 dsq_thread_id:
   - "5480566578"
-image: /wp-content/uploads/2016/06/csgo.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/06/csgo.jpg
 categories:
   - English
   - Oyunlar
@@ -19,8 +22,6 @@ tags:
   - game studies
   - psychology
 ---
-<div class="ttr_start">
-</div>
 
 This note is about my personal observation of CS:GO (Counter Strike: Global Offensive) and it&#8217;s &#8220;win condition&#8221; dynamics which may affect behavioral psychology of player. Look at the most played online games on earth, we know it with numbers actually, for example DOTA2 is having +820.000 players online and CS:GO +320.000 players playing the game at the moment that I write this small note. If we consider a little bit critically, second most played game online at this moment, is a real time killing simulator, endless repeatation of rounds within war.
 
@@ -33,6 +34,3 @@ I wish to imagine what I told in team channel as same as any war moment you can 
 The war period and events happened around the world nowadays is enough to understand this psychology, &#8220;bomb explosion&#8221; takes attention, no one bothers with being alive after explosion of it. This level of dedication is formed by a CS:GO within my instincts.
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 2693
 title: Hastalık ve Beklenilen Ölüm
 date: 2015-12-18T15:47:27+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2693
 permalink: /hastalik-ve-beklenilen-olum/
 dsq_thread_id:
   - "5588333329"
-image: /wp-content/uploads/2015/12/time-watch.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/12/time-watch.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -20,8 +23,6 @@ tags:
   - hayat
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Güneşli günlerde biraz olsun ısınabilmek için arada sırada soğuk evimiz yerine ev yakınlarında bir parka gidip banklarında yemek yemekteyiz eşimle birlikte. Yemek dediğim de öyle ciddiye alınmasın, börek &#8211; kek olayı aslında, sadece termosa konulan demli çay işin içine girince güzelleşiyor. İşte böyle bir günde 70 yaşlarında bir amca yanımızdan ağır ağır geçti ve dümdüz yürümeye devam etti. Ortalama 2 dakika sonra parkta oynayan çocuğu ile ilgilenen ortalama 50lerinde bir teyze yanımızda durum o amcaya seslendi, seslenişinde &#8220;bu taraftayım, buraya gel&#8221; ifades, &#8220;kör&#8221; ihtimalini doğurdu önce aklımda. Ancak eşim konuyu anlamıştı, kör değildi, sadece yaşlılık ile gelişmiş alzheimer hastasıydı.
 
@@ -38,6 +39,3 @@ Her ne kadar eşimin dedesi 5-6 yıl yaşayabilmiş olsa da, daha uzun zamanın 
 > Kader kahrolsun 20 yaş var aramızda&#8230;
 
 Evet aynen böyle söyledi teyze, bizim dede meğersem kocasıymış, kadın hem çocuklarına bakıyor parkta, hem çocuktan fena muhtaç haldeki kocasına bakıyor. Sevgi herhangi bir tartışma konusu olmamalı sanırım bu noktadan sonra, insan biraz empati yapma yetisine sahipse eğer, sadece zorluğunu anlamalı ve susmalı çaresizlikten. Değer verdiğin bir insanın ölüm haberinin yıkıcılığından daha kötü olan bir şey varsa eğer, o da sevdiğin kişinin ölmesini beklemektir diye düşündüm kendi kendime. Çaresizlik zaten kötü bir şey, çaresizce üzülmeye devam etmek, ölümü beklemek, bu duruma tanık olmak, düşüncelerimi not düşmemi sağladı&#8230;
-
-<div class="ttr_end">
-</div>

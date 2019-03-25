@@ -3,10 +3,13 @@ id: 112
 title: Hadi beni sev, kefenimi ütüle
 date: 2007-08-23T15:23:45+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=112
 permalink: /hadi-beni-sev-kefenimi-utule/
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -16,8 +19,6 @@ tags:
   - kefen
   - ölüm
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   <strong>yankılar</strong>, <em>( peki &#8211; biraz yanıklar )</em> kulaklarınızı tıkayabilirsiniz, aşk gibi bu satırlar, gözlerden girer ilk ışık, ve yaş olarak yine gözlerden çıkarlar. Bunca aktım ama hiç ağlamadım, nasıl diye sorusu olan varsa, eskici dükkânını ziyaret etsin, uzakta değil hem, o artık seyyar.
@@ -46,6 +47,3 @@ tags:
 <p style="text-align: justify;">
   <em>&#8211; kefenin rengi önemli değil, hissettirdikleri&#8230;</em>
 </p>
-
-<div class="ttr_end">
-</div>

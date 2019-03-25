@@ -3,12 +3,15 @@ id: 866
 title: 'Yer Yön Yol &#8211; Oruç Aruoba'
 date: 2011-11-22T06:04:54+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=866
 permalink: /yer-yon-yol-oruc-aruoba/
 dsq_thread_id:
   - "5605507380"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Tapınak
 tags:
@@ -20,8 +23,6 @@ tags:
   - yön
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Yol, kendine bir yer bulamamış  
 kişinin özlemidir.
@@ -163,6 +164,3 @@ kendi yeri
 — kendisidir&#8230;
 
 Oruç Aruoba ~Yürüme
-
-<div class="ttr_end">
-</div>

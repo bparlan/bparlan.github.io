@@ -3,12 +3,15 @@ id: 2379
 title: Bulut Depolama ve Dropbox
 date: 2015-12-28T14:03:28+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2379
 permalink: /bulut-depolama-ve-dropbox/
 dsq_thread_id:
   - "5515977413"
-image: /wp-content/uploads/2015/12/Bulut.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/12/Bulut.jpg
 categories:
   - Bilişim
   - 'İnceleme &amp; Tanıtım'
@@ -21,8 +24,6 @@ tags:
   - organizasyon
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bulut Depolama, en basit örnekleme ile cep telefonunuzda çektiğiniz bir fotoğrafı, çekme işleminden başka hiçbir şey yapmadan evinizdeki bilgisayarınızda kullanabilmeniz, akşam evinizdeki bilgisayarınızda yazdığınız bir word dökümanına yine fazladan hiç bir işlem yapmadan, ertesi günü ofisinizdeki bilgisayarınızdan ulaşıp üzerinde değişiklik yapabilmeniz işlemlerini sağlayan teknolojidir. Teknik tanım olarak:
 
@@ -64,6 +65,3 @@ OneDrive (Microsoft) &#8211; <a href="https://onedrive.live.com/" target="_blank
 
 Ayrıca yazıma DropBox için referans linkimi eklemek istiyorum. Bu linke tıklayarak üye olacağınız hesap normal şekilde yapacağınız üyelikten tamamen farksız durumdadır. Sadece benim 500 MB daha dropbox alanı kazanmamı sağlamaktadır. Eğer buradan üye olursanız çok sevinirim.  
 <a href="https://db.tt/xCBrBNdt" target="_blank">Dropbox Referans Linki</a>
-
-<div class="ttr_end">
-</div>

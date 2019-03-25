@@ -3,12 +3,15 @@ id: 1726
 title: Wordle ile Kelime Bulutu
 date: 2012-05-29T15:14:41+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1726
 permalink: /wordle-ile-kelime-bulutu/
 dsq_thread_id:
   - "5489622738"
-image: /wp-content/uploads/2012/05/kelimelerim-karisti-e1424529478365.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/05/kelimelerim-karisti-e1424529478365.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -19,8 +22,6 @@ tags:
   - wordle
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bilene yâd bilmeyene nasihat olsun maksatlı duyurmak, adına iki ahkâm kesmek istedim, web sitemizin adı <a title="Wordle" href="http://www.wordle.net/" target="_blank">Wordle</a> Jonathan Feinberg abimize teşekkür ediyoruz öneclikle böyle bir sistem yazıp ücretsiz olarak herkesin kullanımına sunduğu için. Kendi tasarımınızı yaratmaya başladıktan sonra, ister kelimeleri panele keniniz yazın, isterseniz bir txt dökümanı girin, renkleri ve font typeları, nasıl bir form &#8211; şekil istediğinizi belirtin, ve bırakın wordle bütün kelimeleri bir araya getirsin. Çok tekrar eden kelimeler daha büyük çıkar mantığı ile, dilerseniz kendi anahtar kelime listenizi çıkartın, onları daha sık tekrar ettirerek dah büyük formatta çıkmalarını sağlayın, birkaç randomise, biraz photoshop, muazzam bir worde cloud [kelime bulutu] sahibi oluyorsunuz akabinde&#8230;
 
@@ -106,7 +107,4 @@ Bilene yâd bilmeyene nasihat olsun maksatlı duyurmak, adına iki ahkâm kesmek
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

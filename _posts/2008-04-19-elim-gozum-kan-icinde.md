@@ -3,12 +3,15 @@ id: 161
 title: Elim Gözüm Kan İçinde
 date: 2008-04-19T17:37:58+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=161
 permalink: /elim-gozum-kan-icinde/
 dsq_thread_id:
   - "5990762094"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - gözüm
   - kan
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Ova tavşanını kafese koyarsan, kahrından çatlarmış, öğrendiğimde içim titredi, yalnızlığım tuttu beni elimden, kırıldı umudum belinden. Ruh-u ispat maksatlı çabalarımın bir kısmı kendime kendimi anımsatma ihtiyacımdan, bunların harici ise geçmişin o kadar kolay geçmediğine dair yeni oluşan farkındalığımdan (bunu iyi düşünün, gerçekten geçmiyor). Bilmediğim dillerde rüyalar görüyorum, bu yüzden mi anlaşamıyoruz senle ey bilincimin altı? Altımı ıslattım derken söylemek istediğim ne sendin ne de göz yaşlarım&#8230; Kolay olmasada başaracağım, yeni hayata yirmidörtden de başlarım.
@@ -40,6 +41,3 @@ tags:
 <p style="text-align: justify;">
   Sevdiğim, sevenim: Gözlerim niagara, hadi düş&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

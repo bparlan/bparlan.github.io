@@ -3,12 +3,15 @@ id: 857
 title: 'Seyahatname &#8211; Mercan Dede'
 date: 2011-11-22T06:03:21+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=857
 permalink: /seyahatname-mercan-dede/
 dsq_thread_id:
   - "5494938643"
-image: /wp-content/uploads/2011/11/mercan-dede-seyahatname.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/mercan-dede-seyahatname.jpg
 categories:
   - Tapınak
 tags:
@@ -19,8 +22,6 @@ tags:
   - seyahatname
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Neyin feryadı ile başlar Mesnevi&#8217;sine Mevlana, doğduğu topraklardan kopuşunu, hayat dediğimiz bize ayrılan zaman dilimindeki seyahatini, bir diyardan diğerine, bir sevdadan başka sevdalara gidişini anlatır ney&#8217;in.
 
@@ -38,6 +39,3 @@ name&#8217;lerimin, seyahati sırasında sayıklayan bir meczubun samimi içten,
 
 Mercan Dede, montreal, ocak 2001.  
 _(seyahatname albümünün giriş yazısı)_
-
-<div class="ttr_end">
-</div>

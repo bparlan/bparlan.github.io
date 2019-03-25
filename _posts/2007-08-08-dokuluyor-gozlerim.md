@@ -3,12 +3,15 @@ id: 97
 title: Dökülüyor Gözlerim
 date: 2007-08-08T00:37:53+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=97
 permalink: /dokuluyor-gozlerim/
 dsq_thread_id:
   - "5837716956"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Blog
   - Yazılarım
@@ -20,8 +23,6 @@ tags:
   - korku
   - video
 ---
-<div class="ttr_start">
-</div>
 
 **Benimkisi sadece çığlık atmak&#8230;**
 
@@ -50,6 +51,3 @@ yere dökülen gözlerim
 Son günlerde video art&#8217;la ilgilenmeye başladım, ilk olarak Adobe Premiere Pro2 ile başladım fakat gördüm ki Adobe After Effects CS3 çok daha iyi. Halen daha ufak saçma görüntüler editliyerek pratik yapıyorum ( örnek olarak sayfanın üstüne bakınız ). Yakın dostum bana navigasyon ve film yükleme sistemi kodluyor flash&#8217;da, sonrasında listeden filmleri seçme şansına sahip olacaksınız. Sanırım bir ay sonra ufak tefek senaryoları bu yöntemle görüntülemeye çalışacağım. İş olarak yoğun çalıştığım için, bu işe ayırdığım kısıtlı zaman aslında çok değerli ve <a title="siyah.dArt" href="http://siyah.deviantart.com" target="_blank">dArt</a>&#8216;a daha az zaman kalıyor, bunun için üzgünüm&#8230;
 
 Nowadays i&#8217;m interesting about video art, first started with Adobe Premiere Pro2 but now i see that Adobe After Effects CS3 is much better than Pro2. Still im just editing small drafts, as example look at top of page ). My friend is coding me a navigation and movieloader system in flash, after it you will be able to select movies from list. After a month i think, i&#8217;ll try to explain some small scenarios by that way. I&#8217;m working hard at my job actually, so there is really precious time to spend such work and less time for <a title="siyah.dArt" href="http://siyah.deviantart.com" target="_blank">dArt</a>, sorry for that&#8230;
-
-<div class="ttr_end">
-</div>

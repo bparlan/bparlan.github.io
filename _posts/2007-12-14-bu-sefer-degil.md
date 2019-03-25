@@ -3,12 +3,15 @@ id: 150
 title: 'Bu sefer değil&#8230;'
 date: 2007-12-14T18:57:24+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=150
 permalink: /bu-sefer-degil/
 dsq_thread_id:
   - "5723700721"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - edebiyat
   - eskici
 ---
-<div class="ttr_start">
-</div>
 
 Hayır dostum&#8230;  
 Bu sefer değil&#8230;
@@ -51,6 +52,3 @@ Bu sefer değil&#8230;
 <p align="right">
   <em>Yalnız çocuğun kalbinin siyah yanı&#8230;</em>
 </p>
-
-<div class="ttr_end">
-</div>

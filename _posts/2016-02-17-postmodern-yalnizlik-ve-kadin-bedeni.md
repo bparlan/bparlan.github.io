@@ -3,12 +3,15 @@ id: 2835
 title: Postmodern Yalnızlık ve Kadın Bedeni
 date: 2016-02-17T23:43:26+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2835
 permalink: /postmodern-yalnizlik-ve-kadin-bedeni/
 dsq_thread_id:
   - "5483648660"
-image: /wp-content/uploads/2016/02/kadin-bedeni.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/02/kadin-bedeni.jpg
 categories:
   - Blog
   - 'Toplum &amp; Yaşam'
@@ -20,8 +23,6 @@ tags:
   - toplum
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <a href="http://onedio.com/profil/mustesna" target="_blank">Müstesna</a> adlı Onedio editörünün &#8220;<a href="http://onedio.com/haber/postmodern-yalnizlik-17-basarili-cizimle-yalniz-yasamanin-dayanilmaz-hafifligi-675327" target="_blank">Postmodern Yalnızlık: 17 Başarılı Çizimle Yalnız Yaşamanın Dayanılmaz Hafifliği</a>&#8221; başlıklı paylaşımındaki <a href="https://www.instagram.com/idaliacandelas/" target="_blank">Idalia Candelas </a>isimli Meksikalı illüstratörün çizimlerini inceleyince, bir illüstrasyon serisinin bilinçli / bilinçsiz şekilde postmodern çerçevede yalnızlıktan çok kadın bedeninin ifade ettiklerine dair düşüncelerimi yazma ihtiyacı hissettim. Her ne kadar editör ismi &#8211; linki veriyor olsam da, mevcut illüstrasyonlar <a href="http://www.boredpanda.com/single-woman-illustrations-alone-postmodern-loneliness-idalia-candelas/" target="_blank">Bored Panda</a>, <a href="http://www.independent.co.uk/arts-entertainment/art/news/illustrator-captures-the-simple-joy-of-being-single-a6863071.html" target="_blank">Independent</a>, <a href="http://www.huffingtonpost.com/entry/black-and-white-illustrations-depict-women-quite-happily-being-alone_us_56ab9cfbe4b077d4fe8dd141" target="_blank">Huffington Post</a> ve <a href="http://9gag.com/gag/aq5j6jM/these-drawings-perfectly-capture-the-beauty-of-single-life-by-idalia-candelas" target="_blank">9Gag</a> gibi pek çok _&#8220;kültür tüketim merkezi&#8221;_nde ilgi odağı oldular birkaç günlüğüne, ve elbette unutulup gittiler ard arda gelen sosyal medya paylaşım furyası bir başka kültürel ürünü tüketmeye odaklandığı için. Ben ise hemen &#8220;geçip gitmesine&#8221; izin vermedim, bir süre baktım, inceledim, düşünmek için zaman tanıdım kendime, neden rahatsız olduğumu tam olarak ifade edebilmek için düşüncelerimi kelimelere dökmek, o kelimeleri ise cümlelere dönüştürmek için vakit harcayıp, en sonunda **&#8220;Yalnız yaşayan kadın&#8221;** illüstrasyonlarında beni muazzam derecede rahatsız eden şeyin ne olduğunu ifade etmek için bu satırları yazmaya başladım.
 
@@ -36,6 +37,3 @@ Ayrıca görsellerdeki kadının bütünüyle **&#8220;tüketici&#8221;** etiket
 Bu noktada hislerimi ve düşüncelerimi çok özet ve net bir şekilde ifade ettiğimi düşünüyorum. Son söz olarak, illüstrasyonlardan reklam filmlerine kadar, ekranlarınızda sunulan karakterleri düşünmenizi, onların size sunuluşlarının bir kurgu olduğunu anımsayarak, neden bu kurguların tercih edildiğini sorgulamanızı dilerim, zira bu satırlar hiç bir zaman sosyal medya furyasının odağı haline gelmezler&#8230;
 
 _Notun dibi: İllüstrasyonları dikkatle incelerseniz, duvarda asılı olan fotoğraflarda &#8220;el ele tutuşan çift&#8221; silüetini rahatlıkla fark edeceksinizdir, anlamını da siz düşünün artık._
-
-<div class="ttr_end">
-</div>

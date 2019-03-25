@@ -3,12 +3,15 @@ id: 1982
 title: 2TBdan Büyük Harddisk Ubuntu Server
 date: 2015-01-13T09:36:28+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1982
 permalink: /2tbdan-buyuk-harddisk-ubuntu-server/
 dsq_thread_id:
   - "5485651189"
-image: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
 categories:
   - Unix | Linux
 tags:
@@ -20,8 +23,6 @@ tags:
   - linux
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Eğer mevcut çalışır haldeki Linux Server&#8217;inize 2TB&#8217;dan daha büyük yeni bir harddisk eklemek istiyorsanız, _fdisk_ komutu 2TB limitinden dolayı işinize yaramayacaktır. Bu işlem için, _gdisk_ kullanacağız. Öncelikle harddiski sağlam takabilmişmiyiz, öğrenelim:
 
@@ -126,6 +127,3 @@ Bu dökümanın en altına, şu satırları ekliyoruz (kendi sisteminize göre d
 /dev/sdb1    /server    ext4    rw    0    0`
 
 Artık _reboot_ ile veya _mount -a_ komutu ile bu değişiklikleri uygulamaya geçirebiliriz. İsterseniz bu /server dosyasını paylaşıma açın, ister bütün arşivinizi oraya kopyalıyın. Coşun, eylenin.
-
-<div class="ttr_end">
-</div>

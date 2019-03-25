@@ -3,14 +3,17 @@ id: 2013
 title: Garip Numaradan Cevapsız Çağrı
 date: 2015-02-11T09:09:15+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2013
 permalink: /garip-numaradan-cevapsiz-cagri/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5482206252"
-image: /wp-content/uploads/2015/02/mc-irs-phone-scam-20150115-e1424504471428.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/02/mc-irs-phone-scam-20150115-e1424504471428.jpg
 categories:
   - Fikir Kutusu
 tags:
@@ -21,8 +24,6 @@ tags:
   - numara
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Telefonlarımıza bırakılan garip numaralardan cevapsız çağrılar, geri aradığımızda bizden para isteyen sahtekarların kurduğu bir tuzaktır. Bu yazıda bu duruma karşı üretilebilinecek bir çözüm uygulaması fikri sunulmaktadır.
 
@@ -39,6 +40,3 @@ Dipnot olarak da, böyle bir uygulama geliştirilinceye kadar konuya dair daha �
 <a title="Ekşi Sözlük - yunanistan'dan gelen cevapsız çağrı" href="http://adf.ly/12Zwnu" target="_blank">yunanistan&#8217;dan gelen cevapsız çağrı (Kodu +30)</a>  
 <a title="bulgaristan'dan gelen cevapsız çağrı (Kodu +35)" href="http://adf.ly/12Zx23" target="_blank">bulgaristan&#8217;dan gelen cevapsız çağrı (Kodu +35)</a>  
 <a title="romanyadan gelen cevapsiz cagri" href="http://adf.ly/12ZxEh" target="_blank">romanya&#8217;dan gelen cevapsız çağrı (Kodu +40)</a>
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 1239
 title: Kerim Belet Photography Web Site
 date: 2012-01-17T00:22:10+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1239
 permalink: /kerim-belet-photography/
 dsq_thread_id:
   - "5579049793"
-image: /wp-content/uploads/2012/01/01-vitrin-ve-genel-gorunum.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/01-vitrin-ve-genel-gorunum.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Sadece görsel taslak olarak hazırlanan bir web site projesinin giriş çalışmasıdır.
 
@@ -106,7 +107,4 @@ Tasarım: Barış Parlan
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

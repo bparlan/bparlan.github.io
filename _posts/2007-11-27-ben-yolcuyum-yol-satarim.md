@@ -3,12 +3,15 @@ id: 148
 title: Ben yolcuyum, yol satarım
 date: 2007-11-27T13:08:10+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=148
 permalink: /ben-yolcuyum-yol-satarim/
 dsq_thread_id:
   - "5522655379"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -18,8 +21,6 @@ tags:
   - yol
   - yolcu
 ---
-<div class="ttr_start">
-</div>
 
 > <p style="text-align: justify;">
 >   Bütün renkler aynı hızda kirleniyordu&#8230;<br /> Beyaz birinci oldu, siyah ağladı ardından,<br /> Öptü onu mor, kırmızı dudaklarından&#8230;
@@ -32,6 +33,3 @@ tags:
 <p style="text-align: justify;">
   Beklentisizlik diye ahkam kesmek istiyorum, önce o olmalı! Hüsranı azaltır dedi sağ yanım, sevinci arttırır dedi sol omzumdaki, gerçeği değiştirmedi diye inledi kalbim&#8230; Değiştirmedi, değiştiremedi. Değişiklik olsun diye değildi, yinede&#8230; Bir adım atıp başlangıca dönelim, bu yollar böyle yürünür. İleri gitmek istedikçe veda eder gibi uzaklaşır insan o an&#8217;dan, koşar adım sarılmak derken düşüverir. Sıkılıp döndüğü anda arkasını, bütün gerçeklik hücum eder damarlarına. Hepsini silelim, hiç bir şeyi yazdığımı farz edelim ki her şeyi anlattığımı hissedin. Bilirsiniz, bir başladı mı kafiyeli geceler, her şeyi oluverirler hiç yoktan. Şimdilik aklım çok karışık, izninizle ben kaldırımda da yatarım, evet ben yolcuyum, yol satarım&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

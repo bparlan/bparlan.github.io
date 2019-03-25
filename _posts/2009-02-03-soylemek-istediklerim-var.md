@@ -4,7 +4,7 @@ title: Söylemek istediklerim var
 date: 2009-02-03T22:26:19+02:00
 author: Barış Parlan
 excerpt: Aklımda sorular var, aklım boş değil beni düşündüren ruhlar, ruhumu yoran düşünceler var. Kötü olduklarına inanmıyorum, iyi olmadıklarını biliyorum. İkilemler var. İyilik ile kötülük arasındaki çizgide sarhoş gibi yalpaladığımızı inkâr etmeye eyilimlerimiz var...
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=460
 permalink: /soylemek-istediklerim-var/
 dsq_thread_id:
@@ -12,8 +12,6 @@ dsq_thread_id:
 categories:
   - Yazılarım
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Aklımda sorular var, aklım boş değil beni düşündüren ruhlar, ruhumu yoran düşünceler var. Kötü olduklarına inanmıyorum, iyi olmadıklarını biliyorum. İkilemler var. İyilik ile kötülük arasındaki çizgide sarhoş gibi yalpaladığımızı inkâr etmeye eyilimlerimiz var. Halbuki sarhoş olmak güzeldi, özeldi. Özelliği gitmiş, gerçekçiliği kalmamış duygular var, sokaklarda, onların içlerinde, onlar her yerde, onlara dair nefretim var. Sigara kadar hayatlarımız var, anlamını unuttuğumuz geçmişimiz var kibrit kadar.<!--more-->
@@ -50,6 +48,3 @@ categories:
 <p style="text-align: justify;">
   Söylemek istediğim daha çok şey var, ama kelimelerim bu kadar&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

@@ -3,12 +3,15 @@ id: 2770
 title: 'Toplumsal ve bireysel algıda: ilişki'
 date: 2016-02-08T16:49:50+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2770
 permalink: /toplumsal-ve-bireysel-algida-iliski/
 dsq_thread_id:
   - "5607614233"
-image: /wp-content/uploads/2016/02/ilişki.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/02/ilişki.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -20,8 +23,6 @@ tags:
   - yaşam
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 > &#8220;Sağlıklı ilişki, iki bağımsız bireyin, birbirlerinin olabilecek en iyi hallerine ulaşmalarına yardımcı olmaları üzerine anlaşmaları durumudur.&#8221; ~Anonim
 
@@ -42,6 +43,3 @@ Peki &#8220;_Mükemmel İlişki_ nasıl olmalıdır&#8221;a daha farklı bir aç
 Bu anlattığım problem, sadece &#8220;aşk&#8221; konsepti içerisinde yaşanan ilişkiler ile kısıtlı kalmamaktadır. Aile &#8211; arkadaş çevresindeki bireylerin değişimlerinden rahatsız olan ve aslında bu rahatsızlığını da ironik bir şekilde &#8220;arkadaş değiştirerek&#8221; kapatan bireyler, günümüz toplumunda sırf bu anlatmaya çalıştığım gerçeği kabullenemediklerinden dolayıdır ki pek fazlalar. Öte yandan dünyanın güncel &#8211; tarihsel dönüşümlerinde bile, belirli &#8220;an&#8221;lara, &#8220;tarih&#8221;lere takılıp kalmış bakış açıları, pek çok psikoloğun daha önce yaptığı saptamalarla desteklenebilir bir şekilde, _&#8220;ötekinden korkmak&#8221; &#8211; &#8220;değişimden korkmak&#8221;_ şeklinde bir davranış sergilemekte, hatta konu insanlık tarihinin en başlarına giden &#8220;nehrin öbür tarafındaki köyden rahatsızlık duymak&#8221; ideolojisine kadar dayanmaktadır. Çünki onlar farklıdır, ve aradaki nehirde &#8220;değişim&#8221; akmaktadır.
 
 Oysa her mesafe bir &#8220;değişim&#8221; doğurur. İster bir dağ &#8211; deniz gibi coğrafi oluşum, ister iki insan arasında _&#8220;birbirini bütün olarak görebilmek için&#8221;_ bırakılmış saygı &#8211; sevgi mesafesi, bir değişimin hem sebebi, hem sonucudur. &#8220;Kendin olmak&#8221; ile &#8220;doğru olmak&#8221; arasındaki farkı göremeyenler için, karşıdakinin &#8220;kendisinden farklı&#8221; yanları daha bir göze batıyor olduğundan sanırım, günümüz toplumunda (ne yazık ki) aşk dahil pek çok **ilişki**, _&#8220;Ya dip dibe & göz göze, ya da ayrı gayrı & sırt sırta&#8221;_ şeklinde algılanmakta, yaşanmaya çalışılmakta. Oysa şöyle karşılıklı, karşındakinin gözlerine bakıp &#8220;ona nasıl fayda sağlayabilirim&#8221; diye düşünerek, sonuçlarına istinaden bir çaba sarf ederek, yaklaşılsa içtenlikle, severek&#8230;
-
-<div class="ttr_end">
-</div>

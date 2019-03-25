@@ -3,12 +3,15 @@ id: 1991
 title: 'Transistor &#8211; Oyun İncelemesi'
 date: 2015-01-26T01:10:24+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1991
 permalink: /transistor-oyun-incelemesi/
 dsq_thread_id:
   - "5531324569"
-image: /wp-content/uploads/2015/01/Transistor_20140521233531-e1424504739293.jpeg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/01/Transistor_20140521233531-e1424504739293.jpeg
 categories:
   - 'İnceleme &amp; Tanıtım'
   - Oyunlar
@@ -20,8 +23,6 @@ tags:
   - transistor
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <a title="SuperGiant Games" href="https://www.supergiantgames.com/" target="_blank">Super Giant Games</a>&#8216;in yaptığı <a title="Bastion" href="https://www.supergiantgames.com/games/bastion/" target="_blank">Bastion</a> adlı oyundan sonra, <a title="Transistor" href="https://www.supergiantgames.com/games/transistor/" target="_blank">Transistor</a>&#8216;u oynamak bir farz olmuştu. Bulduğum ilk fırsatta başına oturup tek uyku molalı 2 oturum süresinde, toplamda 12 saatte Transistor&#8217;u bitirdim. Sonrasında da hatırı sayılır miktarda tekrarını oynayıp iyice inceleme yaptım, ve dedim ki, buna oyun demek akılı peynir ekmekle yemektir, ve ayrıca bunun hakkında mutlaka bir şeyler yazılıp çizilmelidir.
 
@@ -63,6 +64,3 @@ _*İlk defa bir oyun incelemesi metni yazdım. Yorum yaparsanız sevinirim, kusu
 &nbsp;
 
 &nbsp;
-
-<div class="ttr_end">
-</div>

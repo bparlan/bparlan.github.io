@@ -3,12 +3,15 @@ id: 1866
 title: 'Kitapbu.org &#8211; Kitap Takas Sitesi'
 date: 2014-05-13T10:16:47+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1866
 permalink: /kitapbu-org-kitap-takas-sitesi/
 dsq_thread_id:
   - "5543105353"
-image: /wp-content/uploads/2014/05/url1.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/05/url1.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -19,8 +22,6 @@ tags:
   - tanitim
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 &#8220;Kitap Bu, Rafta Kalmasın&#8221; Sloganı ile yola çıkan Kitapbu.org &#8211; Kitap takas sitesi, evinizin kitaplığında bulunan, ancek artık ilginizi çekmeyen veya saklama ihtiyacı hissetmediğiniz kitapları muazzam şekilde değerlendirmenize olanak sağlamakta.
 
@@ -33,6 +34,3 @@ Sistem basit, dilediğiniz kadar kitap gönderiyorsunuz, sadece kargo ödüyorsu
 Bu nacizane sistemi kurarak, internete ulaşabilen herkesin, ülkenin en geniş &#8220;bir kitap bırak, bir kitap al&#8221; konseptli kütüphanesine kavuşmasını sağlayan kişilere yürekten teşekkür ederim.
 
 <a title="KitapBu.Org" href="http://www.kitapbu.org" target="_blank">Kitap Bu</a>, Rafta Kalmasın!
-
-<div class="ttr_end">
-</div>

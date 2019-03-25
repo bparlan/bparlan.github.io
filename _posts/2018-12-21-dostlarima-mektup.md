@@ -3,18 +3,19 @@ id: 3954
 title: Dostlarıma Mektup
 date: 2018-12-21T02:25:49+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3954
 permalink: /dostlarima-mektup/
-image: /wp-content/uploads/2018/12/image.png
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2018/12/image.png
 categories:
   - Blog
 format: image
 ---
-<div class="ttr_start">
-</div>
 
-Nice zamandır anlatmak istediğim, ancak bir türlü erişemediğim, uygun ifade ve iletişim ortamını bulamadığım, belki de aynı coğrafyada bile bulunamadığım ey dost insan; Seni nice zamandır kendimden habersiz bıraktığım için özür dilerim… Bu satırları, seninle, kendi hayatıma dair yaşadığım süreci, kararlarımı, planlarımı, ve hayallerimi paylaşmak için yazıyorum. Bir anlamda, hayatımda ilk defa paylaşılmasını değil, anlaşılmasını ve karşılık yazılmasını istediğim bir online yazı paylaşımımı kişisel sitemden paylaşıyorum. Evet, böylesinin makbul olduğunu anlamamın bunca yıl alması çok ilginç…
+Nice zamandır anlatmak istediğim, ancak bir türlü erişemediğim, uygun ifade ve iletişim ortamını bulamadığım, belki de aynı coğrafyada bile bulunamadığım ey dost insan; Seni nice zamandır kendimden habersiz bıraktığım için özür dilerim... Bu satırları, seninle, kendi hayatıma dair yaşadığım süreci, kararlarımı, planlarımı, ve hayallerimi paylaşmak için yazıyorum. Bir anlamda, hayatımda ilk defa paylaşılmasını değil, anlaşılmasını ve karşılık yazılmasını istediğim bir online yazı paylaşımımı kişisel sitemden paylaşıyorum. Evet, böylesinin makbul olduğunu anlamamın bunca yıl alması çok ilginç...
 
 Kasım ayının başında işimi bıraktım. O zamandan beri kurumsal bir şirkette çalışmıyorum. Bu kararı verme sürecimde Ayla ile birlikte yurtdışına taşınma fikrini etraflıca bir değerlendirdik, araştırdık. Araştırırken, iletişim içerisinde bulunduğumuz insanlarda seküler göç konusuna ciddi bir ilgi olduğunu fark ettik. Konuya dair derinlemesine bir araştırma yaptım ve bu araştırmamın sonuçlarını bir başka yazıda etraflıca anlatacağım. Gelin görün ki bizim kararımız, muhtelif sebeplere dayalı olarak Kıbrıs&#8217;ta bir süre daha kalmak yönünde oldu.
 
@@ -32,15 +33,8 @@ Sabahları neşeli bir şekilde uyanmak, ve gece kafayı yastığa huzurluca koy
 
 Bu iletişim kanalını böyle bireysel kullanmanın farkındalığı ile, daha sık iletişim kuracağımıza inanmaktayım. Mektubuma karşılık paylaşmak istediğin her şeyi dört gözle beklediğimi unutma.  
 
-
 <blockquote class="wp-block-quote">
   <p>
-    Gözlerin kapalı şekilde yürümeyi özlediysen, güvendiğin birisinden elini tutmasını rica edebilirsin…
+    Gözlerin kapalı şekilde yürümeyi özlediysen, güvendiğin birisinden elini tutmasını rica edebilirsin...
   </p>
 </blockquote>
-
-  
-
-
-<div class="ttr_end">
-</div>

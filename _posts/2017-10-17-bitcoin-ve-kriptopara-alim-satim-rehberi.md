@@ -3,14 +3,17 @@ id: 3732
 title: Bitcoin ve Kriptopara Alım Satım Rehberi
 date: 2017-10-17T20:46:44+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3732
 permalink: /bitcoin-ve-kriptopara-alim-satim-rehberi/
 wp_featherlight_disable:
   - ""
 dsq_thread_id:
   - "6222044769"
-image: /wp-content/uploads/2015/09/btcn.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/09/btcn.jpg
 categories:
   - Rehber
 tags:
@@ -22,8 +25,6 @@ tags:
   - türk lirası
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bitcoin ve diğer kriptopara&#8217;lara dair nasıl alım-satım yapılacağına dair rehber niteliğinde bir yazıdır.
 
@@ -86,6 +87,3 @@ Bütün yasaklamalara rağmen, yukarıda sözünü ettiğim sitelerden tercihler
 Ayrıca günümüzde alım satım için müsait bulunan <a href="http://www.bparlan.com/cryptocurrency-ripple-litecoin-iota-monero-golem/" target="_blank" rel="noopener">Bitcoin harici dikkat çekici 5 kriptopara birimi</a> incelememe de göz atmak isteyebilirsiniz.
 
 Eğer çevrenizde konu ile ilgili kişilerin yazıyı okumasında fayda görüyorsanız, paylaşmakla beni desteklemiş olursunuz. Vaktiniz var ise <a href="http://www.bparlan.com/destek/" target="_blank" rel="noopener">şu sayfadan</a> alternatif teşekkür biçimlerini keşfedebilirsiniz. Ekonomik durumunuz var ise _1Ne63QXaZ62tGDeVyoxGYseDkrVpxgZvuF_ adresine bitcoin göndererek en hakiki teşekkürü yapmış olursunuz.
-
-<div class="ttr_end">
-</div>

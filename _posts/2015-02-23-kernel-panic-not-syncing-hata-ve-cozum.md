@@ -3,14 +3,17 @@ id: 2358
 title: 'Kernel Panic Not Syncing &#8211; Hata ve Çözüm'
 date: 2015-02-23T10:17:32+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2358
 permalink: /kernel-panic-not-syncing-hata-ve-cozum/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5479554447"
-image: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
 categories:
   - Unix | Linux
 tags:
@@ -21,8 +24,6 @@ tags:
   - panic
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Ubuntu Server son update &#8211; upgrade aktivitesinden sonra Kernel sürümünü 3.16 dan 3.18 e yükseltince Kernel Panic &#8211; Not Syncing diyebileceğimiz hata çözümünü yazacağım. Hata şöyle:
 
@@ -51,6 +52,3 @@ Son olarak, bozuk olan paketlerin veya bayraklı (arızalı) olarak işaretli pa
 `sudo dpkg –reconfigure`
 
 Artık serverinize bir restart atarak sıkıntının çözülmüş olduğunu test edebilirsiniz.
-
-<div class="ttr_end">
-</div>

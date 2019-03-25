@@ -3,7 +3,7 @@ id: 3695
 title: Hasta Toplumda Sağlık ve Güvenlik
 date: 2017-09-08T12:40:13+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3695
 permalink: /hasta-toplumda-saglik-ve-guvenlik/
 wp_featherlight_disable:
@@ -16,7 +16,10 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6128480865"
-image: /wp-content/uploads/2017/09/49199-Jiddu-Krishnamurti-Quote-It-is-no-measure-of-health-to-be-well.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/09/49199-Jiddu-Krishnamurti-Quote-It-is-no-measure-of-health-to-be-well.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -28,8 +31,6 @@ tags:
   - vahşet
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Hasta bir toplumdan tekrar merhaba! Bir yanda Hasan Catoz&#8217;a kedi astığı için suç duyurusunda bulunan Dünya Yalnız Bizim Değil Hareketi&#8217;nin <a href="http://www.kibrispostasi.com/mobile/index.php?news_id=229756" target="_blank" rel="noopener">haberi</a>, diğer yanda bomboş yolda ortada yatan köpeği ezip sonra ölmesini bekleyen FJ 639 plakalı araç sürücüsünün <a href="https://www.gundemkibris.com/kibris/once-ezdi-sonra-olmesini-bekledi-h222319.html" target="_blank" rel="noopener">video görüntüleri</a> ile başlıyoruz sabaha.
 
@@ -40,6 +41,3 @@ Hasan Catoz haberinin detayları daha mide bulandırıcı. Neymiş efendim, suç
 Her iki haberde söz konusu kişileri soruşturması için polisi göreve davet eden kurum / kuruluş / medya kanalı görüyoruz. Bu davetlere gerçekten gerek var mı? Davet edilmese gerçekten hiçbir yetkili hiçbir şey yapmayacak mı? Bir şey yapmak derken de, bu insanlar para cezası kesip evlerine gönderilmelerinden bahsetmiyorum, zira devletin suç üzerinden gelir elde etmesi akıllara _devletin insanları suça teşvik edici şeyler yapıyor olma ihtimali_ni getirir hep. Ama hiç kimse bu kişilerin ruhsal sağlıklarının geçmişte sağlam olsalar bile yaşadıkları bir takım süreçlerden dolayı an itibari ile bozulmuş olabileceğini, tedaviye ihtiyaçları olabileceğini düşünmeyecek mi?
 
 Sosyal medya&#8217;daki profilini elindeki silahla, astığı / kestiği hayvanla kurgulayan bireylere sağlıklı muamelesi yapan devlet ve sistem için son sözü Jiddu Krishnamurti&#8217;den alıntılıyorum: **Derinlemesine hasta bir topluma uyum sağlamak, bir sağlık ölçütü değildir.**
-
-<div class="ttr_end">
-</div>

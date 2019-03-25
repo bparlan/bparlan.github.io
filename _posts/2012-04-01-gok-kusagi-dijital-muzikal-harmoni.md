@@ -3,10 +3,13 @@ id: 1417
 title: 'Gök Kuşağı &#8211; Dijital Müzikal Harmoni'
 date: 2012-04-01T14:11:13+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1417
 permalink: /gok-kusagi-dijital-muzikal-harmoni/
-image: /wp-content/uploads/2012/03/2012-04-01-Rainbow.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/03/2012-04-01-Rainbow.jpg
 categories:
   - Blog
   - Grafik Tasarım
@@ -19,8 +22,6 @@ tags:
   - yağmur
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Dijital Müzikal Harmoni kelimesi ile Gök Kuşağı aslında ne kadar da anlam dolular. Aslında hakkında söylenebilecek çok bir şey yok, aşağıdaki üç linki de sırası ile açınız ve bırakınız üç link de açık kalsın. Şarkı sözlerine eşlik edesiniz gelirse, hemen aşağıda lirikler de yer almaktadır. Keyifli dinlemeler!
 
@@ -47,6 +48,3 @@ Dijital Müzikal Harmoni kelimesi ile Gök Kuşağı aslında ne kadar da anlam 
 <p style="text-align: center;">
   Someday I’ll wish upon a star, wake up where the clouds are far behind me<br /> Where trouble melts like lemon drops<br /> High above the chimney tops,<br /> that’s where you’ll find me<br /> Somewhere over the rainbow way up high<br /> And the dreams that you dare to, oh why, oh why can’t I?
 </p>
-
-<div class="ttr_end">
-</div>

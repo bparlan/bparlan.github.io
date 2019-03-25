@@ -3,7 +3,7 @@ id: 3633
 title: KKTC ve En Büyük Düşman
 date: 2017-07-20T12:07:00+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3633
 permalink: /kktc-ve-en-buyuk-dusman/
 wp_featherlight_disable:
@@ -16,7 +16,10 @@ ampforwp-amp-on-off:
   - default
 dsq_thread_id:
   - "6001969523"
-image: /wp-content/uploads/2017/07/Kıbrıs-Cyprus.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/07/Kıbrıs-Cyprus.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -27,8 +30,6 @@ tags:
   - medya
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Bugün online haber sitelerinde 50 yılı aşkın süredir çözülemeyen bir gizem aydınlatılarak muazzam bir habercilik örneği sergilendi. Aslında 2 yıl öncenin konusu tekrar &#8220;copy+paste&#8221; ile haber olarak dönmeye başladı. Dönemin (1983) İngiltere Dışişleri Bakanı Geoffrey Howe&#8217;un pek çok ülkeye _&#8220;KKTC&#8217;nin kuruluşu anlaşmalara aykırıdır, tanımayın&#8221;_ şeklinde uyarı mesajı gönderdiğini ortaya koyan, benden yaşlı bir belge ortaya çıktı. Ancak haberin komik bir yanı mevcut: evrakta yazılanların doğru olması. Yani kendi kendine devlet ilan etmek 1960&#8217;da Türkiye dahil bütün taraflar tarafından imzalanan anlaşmalar ve garantörlükler çerçevesince suç ilan edilmiştir. İngiltere bu durumun uyarısını veriyor. Ve merak içinde soruyorum, &#8220;En büyük düşman&#8221; böyle mi saptanıyor? Veya madem KKTC&#8217;yi tanımak problem değildi, hep bu İngiliz bozdu işi, bir akıllı da çıkıp sormaz mı **Türkiye neden tanımıyor KKTC&#8217;yi?**
 
@@ -50,6 +51,3 @@ Zira dost dediğin Ganimet ve Sermaye, Düşman ise İnglitere!
 _Gerisi teferruat.  
 Yersen.  
 _ 
-
-<div class="ttr_end">
-</div>

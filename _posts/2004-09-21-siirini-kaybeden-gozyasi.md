@@ -3,12 +3,15 @@ id: 5
 title: Şiirini Kaybeden Gözyaşı
 date: 2004-09-21T11:07:00+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/blog/2004/09/21/siirini-kaybeden-gozyasi/
 permalink: /siirini-kaybeden-gozyasi/
 dsq_thread_id:
   - "5813207607"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -17,28 +20,31 @@ tags:
   - şiir
   - şiirini kaybeden gözyaşı
 ---
-<div class="ttr_start">
-</div>
 
-<p align="center">
-  Ben ruhumu emanet edip sana,<br /> Deniz kenarına rüzgârla fısıldaşmaya gidiyorum.<br /> Bir bakarsın, kuzeye doğru eserde, duyumsarsın.<br /> Çünki rüzgâr hep gidecek olan olduğunda, kuzeyi gösterdi&#8230;
-</p>
+Ben ruhumu emanet edip sana,  
+Deniz kenarına rüzgârla fısıldaşmaya gidiyorum.  
+Bir bakarsın, kuzeye doğru eserde, duyumsarsın.  
+Çünki rüzgâr hep gidecek olan olduğunda, kuzeyi gösterdi...
 
-<p align="center">
-  Ve o sert eser, hiç geri getirmedi, sen savruldun mu?<br /> Peki ya bu kan nerden akıyor? Senden mi? Benden mi?<br /> Baksana, zehirli galiba bu deniz, geçeni kalana düşman kılıyor.<br /> Bil ki denizin ötesinden vurduğun her kırbaç,<br /> Geldiğin gün göreceksin ki her kırbacın izi gözlerimde&#8230;<br /> Üzülme, dosdoğru bakacağım senin ruhuna,<br /> bütün yaralarımla.
-</p>
+Ve o sert eser, hiç geri getirmedi, sen savruldun mu?  
+Peki ya bu kan nerden akıyor? Senden mi? Benden mi?  
+Baksana, zehirli galiba bu deniz, geçeni kalana düşman kılıyor.  
+Bil ki denizin ötesinden vurduğun her kırbaç,  
+Geldiğin gün göreceksin ki her kırbacın izi gözlerimde...
+Üzülme, dosdoğru bakacağım senin ruhuna,  
+bütün yaralarımla.
 
-<p align="center">
-  Mektubumun içine şarkımızı çalıyorum flütümle,<br /> Sen zarfı yırtarak açma n’olur, sus da dinle beni..<br /> Benden sana gelecek olan bir gözyaşı teşekkür!<br /> Bak yine kayboluyorum kâğıtta, gölgem o kadar karanlık bakıyor ki<br /> Sanki sen geldin de, bir kara gül savurdun gözlerimin içine.<br /> Hadi, bu kaçıncı ağaçtan düşüşümüz? Rüyada mıyız?!<br /> Ayaklarının altındayım, elbet bir gün bana kavuşacaksın&#8230;<br /> Toprak en güzel, yağmurdan sonra tütermiş&#8230;
-</p>
+Mektubumun içine şarkımızı çalıyorum flütümle,  
+Sen zarfı yırtarak açma n’olur, sus da dinle beni..  
+Benden sana gelecek olan bir gözyaşı teşekkür!  
+Bak yine kayboluyorum kâğıtta, gölgem o kadar karanlık bakıyor ki  
+Sanki sen geldin de, bir kara gül savurdun gözlerimin içine.  
+Hadi, bu kaçıncı ağaçtan düşüşümüz? Rüyada mıyız?!  
+Ayaklarının altındayım, elbet bir gün bana kavuşacaksın...  
+Toprak en güzel, yağmurdan sonra tütermiş...
 
-<p align="center">
-  Buna rağmen siyahını bana giydiremiyorsan, olmuyorsa,<br /> Sen yokken de yalnızdım,<br /> Senden sonrada, kanasa da, sırtımda yalnızlığım&#8230;
-</p>
+Buna rağmen siyahını bana giydiremiyorsan, olmuyorsa,  
+Sen yokken de yalnızdım,  
+Senden sonrada, kanasa da, sırtımda yalnızlığım...
 
-<p align="center">
-  <strong>Şiirini kaybeden gözyaşı&#8230;</strong>
-</p>
-
-<div class="ttr_end">
-</div>
+**Şiirini kaybeden gözyaşı...**

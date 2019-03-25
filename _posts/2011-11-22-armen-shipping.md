@@ -3,10 +3,13 @@ id: 908
 title: 'Armen Shipping &#8211; Web Sitesi'
 date: 2011-11-22T06:17:42+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=908
 permalink: /armen-shipping/
-image: /wp-content/uploads/2011/11/01-e1424356510973.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/11/01-e1424356510973.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -17,8 +20,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Armen Shipping, KKTC&#8217;nin en büyük kargo &#8211; taşımacılık şirketi olup, dünyanın talep edilen her noktasından &#8211; limanından konteyner taşımacılığı hizmeti sağlamakta, web sitesi ise müşterilerin konteynerleri hakkında bilgi almasına destek vermektedir. Header kısmı ve ana sayfa flash slide gösterileri içermektedir. Hakkımızda sayfası Flash tabanlı hazırlanmıştır. İletişim sayfasında bulunan mail listesinden seçilen kişinin bilgileri form-mail&#8217;e otomatik gönderilir ve hiç bekleme yapmadan o kişiye mail gönderilir. Referanslarımız sayfası şirketin ortak çalıştığı diğer şirketleri sunduğu bölümdür. Acentelerimiz, şirketin acentelik anlaşması bulunduğu bir nevi &#8220;limanlar listesi&#8221;dir. Dünya genelinde liman ve taşımacılık acenteleri rehberi olarak kullanılmaktadır. Gümrükleme bölümü müşteriler için hazırlanmış olup, herhangi bir gümrükleme sırasında gerekli olabilecek bütün evrakların Word ve PDF versiyonu olarak downloada hazır hallerini barındırmaktadır. Önemli Bilgiler ise, daha detaylı şekilde açıklamlar ve yine yardımcı form dökümanları indirmye hazır bir biçimde sunulur.
@@ -142,6 +143,3 @@ Geliştirme: <a title="Cengiz Önkal Web Site" href="http://www.cengizonkal.com"
 <p style="text-align: justify;">
   Sitenin görünen kısmı aslında üretilen sisteme kıyasla sadece buzdağının su yüzeyidir.
 </p>
-
-<div class="ttr_end">
-</div>

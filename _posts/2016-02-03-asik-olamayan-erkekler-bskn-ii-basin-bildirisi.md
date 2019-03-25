@@ -3,12 +3,15 @@ id: 2742
 title: 'Aşık Olamayan Erkekler Başkanlığından: II. Basın Bildirisi'
 date: 2016-02-03T16:34:34+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2742
 permalink: /asik-olamayan-erkekler-bskn-ii-basin-bildirisi/
 dsq_thread_id:
   - "5529854507"
-image: /wp-content/uploads/2016/02/AOEBBB2.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2016/02/AOEBBB2.jpg
 categories:
   - 'Toplum &amp; Yaşam'
 tags:
@@ -19,8 +22,6 @@ tags:
   - toplum
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Gemişte _Aşık Olamayan Erkekler Başkanlığı_ olarak yaptığımız <a href="http://www.bparlan.com/2016/asik-olamayan-erkekler-baskanligindan-basin-bildirisi/" target="_blank">Basın Bildirisi</a>nin akabinde elimize ve kulağımıza ulaşan pek çok farklı dişisel yorum neticesi, bizi kâh tebessüm ile gülümsetmiş, kâh tedirgin bir hüzne boğmuştur.
 
@@ -45,6 +46,3 @@ Amacımız _(ki her bildiride tekrar tekrar ifade etmek ihtiyacını neden gütt
 Saygılarımızla.
 
 _Bütün &#8220;Sevmeyi Seven Erkekler&#8221; adına&#8230;_
-
-<div class="ttr_end">
-</div>

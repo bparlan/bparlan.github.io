@@ -3,14 +3,17 @@ id: 2373
 title: 'iPhone Pil Kalibrasyonu &#8211; Pil Süresi Uzatmak'
 date: 2015-02-28T14:25:37+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=2373
 permalink: /iphone-pil-kalibrasyonu-pil-suresi-uzatmak/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5479575495"
-image: /wp-content/uploads/2015/02/iphone.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/02/iphone.jpg
 categories:
   - Rehber
 tags:
@@ -22,8 +25,6 @@ tags:
   - uzatmak
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 iPhone pil kalibrasyonu, telefonunuzun pil süresini uzatmak için nasıl doğru bir şekilde şarj edebileceğinizi ve telefonunuzda pil süresini kısaltan gereksiz özelliklerden nasıl kurtulmanızı sağlayabileceğini toparladım. Artık iPhone kullanıcısı olduğumdan dolayı, bunun gibi bilgilere daha çok yer vereceğim gibi durmakta.
 
@@ -76,6 +77,3 @@ Aşağıda anlatacağım işlem, iPhone cep telefonları için &#8220;kusursuz&#
     &#8220;Automatic Updates&#8221;i iptal edin.
 
 Daha Fazla bilgi için Apple &#8211; <a title="Apple - Maximizing Life and Lifespan" href="http://adf.ly/14zd3m" target="_blank">Maximizing Life and Lifespan</a>
-
-<div class="ttr_end">
-</div>

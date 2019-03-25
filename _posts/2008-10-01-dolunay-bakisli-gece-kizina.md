@@ -3,12 +3,15 @@ id: 200
 title: Dolunay Bakışlı Gece Kızına
 date: 2008-10-01T13:12:12+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=200
 permalink: /dolunay-bakisli-gece-kizina/
 dsq_thread_id:
   - "5491037922"
-image: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2004/09/243289802-e1424504380364.jpg
 categories:
   - Yazılarım
 tags:
@@ -20,8 +23,6 @@ tags:
   - gece
   - kız
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   Kirli, lekeli ve tozlu yollardı Yaz&#8217;dan bize emanet. Sıcaktı ve terlemeyi sevmek zorundaydık. Kış temizleyecekti sokakları, tenlerimizi. Ve biz bu iki mevsimin tam ortasında sıkışıp kalmıştık. Altın renkli bir baharın adını son&#8217;la uluyordu yol kenarlarındaki kuru yapraklar. (O altın döküntüleri bile yazardı bir anlamda ve mevsimleri ulamayı onlardan iyi hiç bir doğa olayı yapamazdı). Rüzgâr estikçe hayatımızı özetleyen, çılgınca dans eden, kontrolsüzce&#8230; Kısacası, son gibiydi o gün ve sonraki her şey.
@@ -79,6 +80,3 @@ Ey sevgili, bu günde, gözlerin kara kelepçe&#8230;
 </blockquote>
 
   * Gece Kaçkını, <a title="Gece Kaçkını - İlhan Berk" href="http://gecekackini.blogspot.com/2008/09/ben-senin-kralliin-lkene-yetitimilhan.html" target="_self"><em>&#8220;Ustam o hep çağırdığın gökyüzüne sevgiyle&#8230;&#8221;</em></a> diyerek anımsattı bana rüzgârı&#8230;
-
-<div class="ttr_end">
-</div>

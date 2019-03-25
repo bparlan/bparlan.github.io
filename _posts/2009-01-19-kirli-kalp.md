@@ -3,7 +3,7 @@ id: 453
 title: kirli kalp
 date: 2009-01-19T06:07:03+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/wordpress/?p=453
 permalink: /kirli-kalp/
 dsq_thread_id:
@@ -11,8 +11,6 @@ dsq_thread_id:
 categories:
   - Yazılarım
 ---
-<div class="ttr_start">
-</div>
 
 <p style="text-align: justify;">
   &#8220;gökyüzü penceremizse, bulutlarda perdelerimiz&#8221; demiştin ya, ben de neden perdelerim param parça diyordum&#8230; evet, kanadıkça güçleniyordu insan; sevmekse kanatmaktı birazda&#8230; bütün bunları söylerken nasıl da anlamadık &#8211; atladık kabuk tutmanın nasır tutmayla yakınlığını, aşktaki &#8220;kan&#8221; bağını&#8230; sevginin kancıklığını&#8230; ağzımı bozdukları bir yılda hayat bin yıl gibi geçmişti, şimdik bozuklarımı atıyorum kuyuya, düzelicem fakat kaç bin yılda? &#8220;tek bir doğrum var, yanlışlarımı götürmeye yetmeyen&#8230;&#8221; derken ben, öyle yerlere gitmişim ki kendimle yüzleşirken. insan elbet kendisine de masal anlatır, ama neden hep sonunu bu denli kanatır? &#8220;bu bizim masalımız, öyküleri biz yazarız&#8221;, üzülme bebeğim, elbet biz yalnızkende ağlarız&#8230;  <!--more-->çok değil üç beş dolunay önceydi, ve &#8220;dolunayı seyret&#8221; demekten daha içten bir hali yoktu hislerimin, kelimeler yetmezdi o zamanlar, deniz bile okyanus bile bu ışığın dilinden anlar ( ve biz gözetlerken yakamozdur onlar ), oysa şimdi bu kelimeler yürekleri dağlar, bu acı, bu sessizliğe koşa-yazmalar, başa döndüm yine, bir insan bu kadar mı ağlar? bu kadar mı kanar?
@@ -29,6 +27,3 @@ categories:
 <p style="text-align: right;">
   ps. arabaların camındaki kire, hayallerimi yazmayı özledim&#8230;
 </p>
-
-<div class="ttr_end">
-</div>

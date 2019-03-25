@@ -3,12 +3,15 @@ id: 1988
 title: Zamanın Akışını Algılamak
 date: 2015-01-23T21:31:22+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1988
 permalink: /zamanin-akisini-algilamak/
 dsq_thread_id:
   - "6018597938"
-image: /wp-content/uploads/2015/01/400510_10151821733713912_1633554057_n.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/01/400510_10151821733713912_1633554057_n.jpg
 categories:
   - Blog
 tags:
@@ -20,8 +23,6 @@ tags:
   - zaman
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Kendi algılarımıza ve farkındalığımıza ne kadar çok güveniyoruz ve aslında ne kadar hatalı bir özgüven bu. Özellikle konu zamanın akışını algılamak olduğu anda, algılayamadıklarımıza ve kaçırdıklarımıza dair o ufacık ve fakat korkunç farkındalık hislerimi çok garip renklere boyadı. Bu kaçırılanlardan bi haber varoluşumuza dair söylemek istediklerimi bütünlememi sağlayan videoyu aşağıda sizlerle paylaşıyorum. Anlattıklarıma aynı pencereden bakabilmek için öncelikle video&#8217;yu seyretmenizi rica edeceğim&#8230; <a title="Existence - A Timelapse Project" href="https://vimeo.com/47911018" target="_blank">Vimeo &#8211; Existence ( A Timelapse Project)</a>
 
@@ -46,6 +47,3 @@ Ve öte yandan, ölümle burun buruna gelmiş insanların neredeyse tamamının 
 _Bulutlara gıcık kapmamak, ve her şeye hak ettiği değeri vermek adına.._
 
 *Bu yazıyı 2013 Şubatında yazmaya başladım, halen üzerine bir şeyler ekliyorum, güncelliyorum. _Farkındalık da böyle bir şey işte, değişiyor, gelişiyor&#8230;_
-
-<div class="ttr_end">
-</div>

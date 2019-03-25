@@ -3,20 +3,21 @@ id: 699
 title: Police Violence
 date: 2011-07-20T11:45:24+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=699
 permalink: /police-violence-in-north-cyprus-kuzey-kibrista-polis-siddeti/
 dsq_thread_id:
   - "5566624571"
 wp_featherlight_disable:
   - ""
-image: /wp-content/uploads/2011/07/DSC_00311.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2011/07/DSC_00311.jpg
 categories:
   - English
   - 'Video &amp; Animasyon'
 ---
-<div class="ttr_start">
-</div>
 
 
 
@@ -47,6 +48,3 @@ Post Production: Barış Parlan
 &nbsp;
 
 <img class="aligncenter size-full wp-image-708" title="Kuzey Kıbrısta Polis Şiddeti" src="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2011/07/DSC_0031.jpg?resize=720%2C1107" alt="" width="720" height="1107" srcset="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2011/07/DSC_0031.jpg?w=720 720w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2011/07/DSC_0031.jpg?resize=195%2C300 195w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2011/07/DSC_0031.jpg?resize=689%2C1060 689w" sizes="(max-width: 720px) 100vw, 720px" data-recalc-dims="1" /> 
-
-<div class="ttr_end">
-</div>

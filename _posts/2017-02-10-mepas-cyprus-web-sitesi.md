@@ -3,14 +3,17 @@ id: 3366
 title: Mepaş Cyprus Web Sitesi
 date: 2017-02-10T20:39:41+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=3366
 permalink: /mepas-cyprus-web-sitesi/
 dsq_thread_id:
   - "5540117751"
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"3372";s:11:"_thumb_type";s:5:"thumb";}'
-image: /wp-content/uploads/2017/02/mepas_header.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2017/02/mepas_header.jpg
 categories:
   - Portfolyo
   - Web Site Tasarım
@@ -23,8 +26,6 @@ tags:
   - wordpress
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 WordPress üzerine kurulan Sydney temasının geliştirilmesi ve özelleştirilmesi ile edilen web sitesidir. Yükleme süreci için loading-gif, geniş marka / ürün kataloğu için Revolution Sliders kurulmuş, bütün site temelde PageBuilder sistemi ile oluşturulmuştur. Sitenin tamamı, Mepaş yetkililerinin istedikleri zaman site içeriğinde düzenleme yapabilecekleri formatta hazırlanmıştır.
 
@@ -98,7 +99,4 @@ Site adresi: [www.mepascyprus.com](http://www.mepascyprus.com)
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

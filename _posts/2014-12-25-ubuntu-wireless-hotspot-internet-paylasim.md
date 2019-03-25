@@ -3,14 +3,17 @@ id: 1962
 title: Ubuntu Wireless Hotspot İnternet Paylaşım
 date: 2014-12-25T16:27:52+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1962
 permalink: /ubuntu-wireless-hotspot-internet-paylasim/
 post_views_count:
   - "0"
 dsq_thread_id:
   - "5482318126"
-image: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2014/12/distant-lights-linux-wallpaper-e1424505392313.jpg
 categories:
   - Unix | Linux
 tags:
@@ -22,8 +25,6 @@ tags:
   - wireless
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Ubuntu Serveriniz için Wireless Hotspot programı ile nasıl İnternet Paylaşım yapabileceğinizi adım adım anlatıyorum._  
 _ 
@@ -90,6 +91,3 @@ Another process is already running`
 
 `sudo rm /tmp/hotspot.pid<br />
 sudo ap-hotspot start`
-
-<div class="ttr_end">
-</div>

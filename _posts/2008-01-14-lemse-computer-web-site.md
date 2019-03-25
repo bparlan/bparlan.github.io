@@ -3,12 +3,15 @@ id: 1232
 title: Lemse Computer Web Site
 date: 2008-01-14T00:19:16+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1232
 permalink: /lemse-computer-web-site/
 dsq_thread_id:
   - "5823416815"
-image: /wp-content/uploads/2012/01/Lemse-Computer-1.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/Lemse-Computer-1.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -20,8 +23,6 @@ tags:
   - web
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Lemse Computer, basit seviye HTML, PHP ve MySQL kullanılarak yapılmış bir bilgisayar şirketinin kurumsal tanıtım web sitesidir. Şirket site içeriğinde Ürünler bölümüne kendisine ait bir panelden ürün ve resim ekleyebilmektedir. Site iki dil desteğine sahiptir.
 
@@ -92,7 +93,4 @@ Barış Parlan
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

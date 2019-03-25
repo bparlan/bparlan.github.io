@@ -3,12 +3,15 @@ id: 1230
 title: Cyprus Handmade Web Sitesi
 date: 2012-01-17T00:18:38+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1230
 permalink: /cyprus-handmade-web-sitesi/
 dsq_thread_id:
   - "5487209115"
-image: /wp-content/uploads/2012/01/Cyprus-HandMade-Center-SS-1.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2012/01/Cyprus-HandMade-Center-SS-1.jpg
 categories:
   - Web Site Tasarım
 tags:
@@ -19,8 +22,6 @@ tags:
   - web sitesi
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 İkinci el eşya alım satım sektörüne büyük katkıları bulunan Cyprus Hand Made Center şirketinin web-sitesi QuickWASP tarafından Joomla kullanılarak hazırlanmıştır. Sitenin güncelleme ve yenileme süreci tarafımdan devam ettirilmiştir. Türkçe, Rumca ve İngilizce olmak üzere üç dilde birden birebir çeviri ile hizmet veren site MySQL database sayesinde düzenli ürün güncellemesine tabi tutulmakta ve şirketin showroom&#8217;larında bulundurdukları bütün değerli eski eşyanın görselini barındırmaktadır.
 
@@ -105,7 +106,4 @@ Güncelleme: Barış Parlan
   </div>
   
   <!-- close row -->
-</div>
-
-<div class="ttr_end">
 </div>

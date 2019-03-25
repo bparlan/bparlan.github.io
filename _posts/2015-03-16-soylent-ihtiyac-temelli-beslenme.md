@@ -3,12 +3,15 @@ id: 1848
 title: 'Soylent &#8211; İhtiyaç Temelli Beslenme'
 date: 2015-03-16T21:25:27+02:00
 author: Barış Parlan
-layout: post
+layout: article
 guid: http://www.bparlan.com/?p=1848
 permalink: /soylent-ihtiyac-temelli-beslenme/
 dsq_thread_id:
   - "5671194213"
-image: /wp-content/uploads/2015/03/Soylent.jpg
+article header:
+  type: cover
+  image:
+    src: /wp-content/uploads/2015/03/Soylent.jpg
 categories:
   - 'İnceleme &amp; Tanıtım'
 tags:
@@ -19,8 +22,6 @@ tags:
   - yaşam
 format: image
 ---
-<div class="ttr_start">
-</div>
 
 Soylent (ihtiyaç temelli beslenme), bir insanın besin olarak ihtiyaç duyduğu bütün maddelerin laboratuvar ortamında bir araya getirildiği bir üründür. İnsanların sadece Soylent tüketerek sağlıklı biçimde yaşayabileceği öne sürülmektedir. Toz halinde satın alınan ürün, su ile karıştırılarak günde 3 defa içilmektedir. Bu üç öğün haricinde, Soylent kullanan kişi sağlıklı beslenme konseptinde başka hiç bir besini tüketmek durumunda kalmamaktadır.
 
@@ -47,6 +48,3 @@ Her ne kadar herkesin doğrudan taktir etmesini ve desteklemesini beklemesem de,
 _Şirketin sitesi:_ <a title="Soylent" href="http://soylent.me/" target="_blank">Soylent.me</a>
 
 YouTube&#8217;da, Kullanan insanların kişisel gözlemleri için <a title="Youtube - Soylent Arama" href="https://www.youtube.com/results?search_query=soylent" target="_blank">tıklayınız&#8230;</a>
-
-<div class="ttr_end">
-</div>
