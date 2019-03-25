@@ -1,0 +1,47 @@
+---
+id: 2770
+title: 'Toplumsal ve bireysel algıda: ilişki'
+date: 2016-02-08T16:49:50+02:00
+author: Barış Parlan
+layout: post
+guid: http://www.bparlan.com/?p=2770
+permalink: /toplumsal-ve-bireysel-algida-iliski/
+dsq_thread_id:
+  - "5607614233"
+image: /wp-content/uploads/2016/02/ilişki.jpg
+categories:
+  - 'Toplum &amp; Yaşam'
+tags:
+  - algı
+  - bağ
+  - birey
+  - ilişki
+  - toplum
+  - yaşam
+format: image
+---
+<div class="ttr_start">
+</div>
+
+> &#8220;Sağlıklı ilişki, iki bağımsız bireyin, birbirlerinin olabilecek en iyi hallerine ulaşmalarına yardımcı olmaları üzerine anlaşmaları durumudur.&#8221; ~Anonim
+
+<img class="alignright size-medium wp-image-2771" src="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/01/12642727_772589439562554_7070341101323098789_n.jpg?resize=266%2C300" alt="Sevgi Aşk İlişki" width="266" height="300" srcset="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/01/12642727_772589439562554_7070341101323098789_n.jpg?resize=266%2C300 266w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/01/12642727_772589439562554_7070341101323098789_n.jpg?resize=768%2C866 768w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/01/12642727_772589439562554_7070341101323098789_n.jpg?resize=443%2C500 443w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/01/12642727_772589439562554_7070341101323098789_n.jpg?w=851 851w" sizes="(max-width: 266px) 100vw, 266px" data-recalc-dims="1" /> İnsanlara &#8220;ilişki&#8221; tanımları üzerine gerçekten tekrar düşünmeleri ve mümkünse eğer duydukları &#8211; gördükleri ilişkileri örnek almayı bırakıp _&#8220;yetişkin&#8221;_ iradeleri ile bir takım algılarını &#8211; anlayışlarını, sonuç olarak ise beklentilerini ve &#8220;ilişki&#8221; çerçevesinde karşılarındakilere verebileceklerini değerlendirip baştan kurgulamalarını nasıl bu kadar içten istediğimi ifade edebilirim, bilmiyorum. Ama şu paylaştığım küçük görselin altındaki 5 satırlık not, veya yazının biraz ilerisindeki <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiW9pyhrujKAhWB63IKHXH5Cu4QFgggMAA&url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1655441%2F&usg=AFQjCNGXXDm5_61fO9E2Z-IahPgonQCBug&sig2=8R_2I7pB8o9zxLu2U936Kg" target="_blank">The Age of Adeline</a> adlı filmin özünde ifade etmeye çalıştığı şey, yüzbinlerce insanın toplum içerisinde birbirleri ile, veya çift olarak baş başayken, veya sabah kalktıklarında aynaya baktıklarında kendileri ile konuşamayışlarının temel sebebine istinadendir. Bireylerin, bulundukları her şartta ve ortamda, gerçek _&#8220;hislerini / düşüncelerini&#8221;_ bastırmaları, bastıramayanların tartışmalarında kavgaya başvurmaları, mutsuzluklarını **&#8220;mutluluk&#8221;** makyajı veya çevreden aldıkları &#8220;yanlış değerlendirme ölçütleri&#8221; ile &#8220;idare edilebilir&#8221; &#8211; &#8220;katlanılır&#8221; kıldıklarını sanmaları, en kötü ihtimal ile &#8220;ilişki&#8221; konusunu _&#8220;yaşayıp gitmek işte, ama arada sevişmek&#8221;_ olarak görmeleri, her daim mutsuz toplumun mutsuz bireylerinin her geçen gün tekrar tekrar mutsuzluğa boğularak uyanmalarını sağlamakta&#8230;
+
+İkişki, karşınızdakinin &#8220;daha iyi&#8221; olması için yapabileceğiniz her şeyin bütününün, karşınızdakinin benzer düşünceler ile size yaklaşması sırasında yapabileceklerinin bütünü ile el ele tutuşmasıdır, sevişmesidir, en önemlisi ise, bu durumu sevmesidir.
+
+Genç nesildeki _&#8220;seven adam kıskanır&#8221;_ konsepti, özgüvensiz bünyeler güruhu, kıskançlıklar, özensizlikler, korkulara bulanmış farkındalıksızlık&#8230; Bunların hiç birisi &#8220;insan kimyasına&#8221; ait konular değiller. Sadece yanlış olduğu aşikâr ve her bünye tarafından hissedilen, hissedildikçe daha çok nefret edilen, ancak toplumsal bir kurgu sonucu her insanın kendi kendisini eze eze üzerini örtmeye çalıştığı duyguların bastırılmış formu.
+
+> &#8220;Başkaları ne der&#8221; kadar duvarları yüksek bir hapishane yoktur.
+
+Peki &#8220;_Mükemmel İlişki_ nasıl olmalıdır&#8221;a daha farklı bir açı ile bakmak mümkün müdür? **The Age of Adeline** adlı filmi basit bir pazar akşamı izlence keyfi olmaktan çıkartıp, bize anlatmakya çalıştıkları hakkında biraz düşünmek, bizi aslında bu konunun tam kaynağına ulaştırmaktadır _(Uyarı, filmi seyretmeden yazıyı okumanız kesinlikle tavsiye edilmez, spoiler bir yana, konuyu anlamak için gerekli bir durumdur bu)._
+
+Öncelikle kabul etmemiz gereken temel nokta, ilişki diye adlandırdığımız ifadenin tam olarak ne anlama geldiği noktasıdır. Söz konusu filmde bu konu, kişiler arasında yaşanan &#8220;birlikte yaşlanma süreci&#8221; olarak ifade edilmekte: Bir an değil, süreç, Karşı karşıya değil, &#8220;birlik içerisinde&#8221;, ve &#8220;yaşlanmak&#8221; derken cildin kırışması veya saç telinin beyazlaması sadece bir metafordur; Hayatınızda yaşamanız için karşınıza çıkan olaylar ve durumlar zinciri boyunca yeni duruşlar sergilemeniz, farklı biçimler almanız ve süreklilik esasında değişmeniz, sizin &#8220;yaş&#8217;lanma&#8221; sürecinizdir. Bu süreç boyunca size yoldaşlık eden ve her bir duruş &#8211; biçim &#8211; değişim aşamasında yaşamanız gerekenleri bütün detayıyla hazmetmenizi, fark etmenizi, idrak etmenizi, içselleştirmenizi gönülden &#8220;destekleyen&#8221; kişi, su götürmez bir biçimde ilişki yaşamak için &#8220;doğru&#8221; kişidir. Bir başkası için &#8220;doğru kişi&#8221; olan bireyin, sizde öyle bir his uyandırmaması durumu, elbette ki tam bu noktada sizin önünüzdeki değişim / dönüşümler süreci ve onun önündeki değişim / dönüşümler süreci arasındaki farklılık kaynaklıdır. Bu kötü değil, sadece gerçek. Aynı sıkıntı, her hangi bir &#8220;değişim / dönüşüm&#8221; sürecine karşı çıkan, değişmekte zorlanan, veya kendi düşüncelerinin, hatta düşünüş biçiminin ta kendisinin değişmesi fikrinden korkan insanlar için de mevcuttur. Değişimden korkan insan, sadece kendisindeki değil, çevresindeki, dünyasındaki, sokaktaki, ve pek doğal olarak ilişki içerisinde bulunduğu karşısındaki insanların da değişmesinden korku duymaktan geri kalmaz. İşte bu korku, günümüzdeki pek çok ilişkinin her iki tarafında da gözlemlenebilirken, yaşayanlar &#8220;görmemeyi&#8221;, veya bunu &#8220;gayet doğal&#8221; olarak algılayıp rahatsız olmama çabasını tercih etmektedirler. Daima akmakta olan hayat nehrinde, bir taş olmaktan öteye gidememekteler.
+
+<img class="aligncenter size-full wp-image-2795" src="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/02/age-of-adeline.jpg?resize=780%2C518" alt="The Age of Adeline" width="780" height="518" srcset="https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/02/age-of-adeline.jpg?w=960 960w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/02/age-of-adeline.jpg?resize=300%2C199 300w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/02/age-of-adeline.jpg?resize=768%2C510 768w, https://i0.wp.com/www.bparlan.com/wp-content/uploads/2016/02/age-of-adeline.jpg?resize=752%2C500 752w" sizes="(max-width: 780px) 100vw, 780px" data-recalc-dims="1" /> 
+
+Bu anlattığım problem, sadece &#8220;aşk&#8221; konsepti içerisinde yaşanan ilişkiler ile kısıtlı kalmamaktadır. Aile &#8211; arkadaş çevresindeki bireylerin değişimlerinden rahatsız olan ve aslında bu rahatsızlığını da ironik bir şekilde &#8220;arkadaş değiştirerek&#8221; kapatan bireyler, günümüz toplumunda sırf bu anlatmaya çalıştığım gerçeği kabullenemediklerinden dolayıdır ki pek fazlalar. Öte yandan dünyanın güncel &#8211; tarihsel dönüşümlerinde bile, belirli &#8220;an&#8221;lara, &#8220;tarih&#8221;lere takılıp kalmış bakış açıları, pek çok psikoloğun daha önce yaptığı saptamalarla desteklenebilir bir şekilde, _&#8220;ötekinden korkmak&#8221; &#8211; &#8220;değişimden korkmak&#8221;_ şeklinde bir davranış sergilemekte, hatta konu insanlık tarihinin en başlarına giden &#8220;nehrin öbür tarafındaki köyden rahatsızlık duymak&#8221; ideolojisine kadar dayanmaktadır. Çünki onlar farklıdır, ve aradaki nehirde &#8220;değişim&#8221; akmaktadır.
+
+Oysa her mesafe bir &#8220;değişim&#8221; doğurur. İster bir dağ &#8211; deniz gibi coğrafi oluşum, ister iki insan arasında _&#8220;birbirini bütün olarak görebilmek için&#8221;_ bırakılmış saygı &#8211; sevgi mesafesi, bir değişimin hem sebebi, hem sonucudur. &#8220;Kendin olmak&#8221; ile &#8220;doğru olmak&#8221; arasındaki farkı göremeyenler için, karşıdakinin &#8220;kendisinden farklı&#8221; yanları daha bir göze batıyor olduğundan sanırım, günümüz toplumunda (ne yazık ki) aşk dahil pek çok **ilişki**, _&#8220;Ya dip dibe & göz göze, ya da ayrı gayrı & sırt sırta&#8221;_ şeklinde algılanmakta, yaşanmaya çalışılmakta. Oysa şöyle karşılıklı, karşındakinin gözlerine bakıp &#8220;ona nasıl fayda sağlayabilirim&#8221; diye düşünerek, sonuçlarına istinaden bir çaba sarf ederek, yaklaşılsa içtenlikle, severek&#8230;
+
+<div class="ttr_end">
+</div>
